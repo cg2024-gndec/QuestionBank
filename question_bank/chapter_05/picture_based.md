@@ -1,375 +1,506 @@
-# Picture & Visual Based Questions - Chapter 05: The Telephone
+# Picture-Based Questions -- Chapter 05: The Telephone
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
-
-## Scene 1: Alexander Graham Bell's First Telephone (1876)
-> **Visual Description**: A vintage sketch of Alexander Graham Bell in 1876 speaking into a funnel-shaped wooden and brass transmitter device. A copper wire runs from the transmitter to another room where his assistant is holding an ear cup receiver to his ear.
 
 ### Question 1
-- **Question ID**: CH05-PIC-001
-- **Type**: Picture Based
+- **Question ID**: CH05-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Historical Scene Identification
-- **Marks**: 1
-- **Question**: Which historic breakthrough from Chapter 05 is depicted in this drawing?
-  - (A) Alexander Graham Bell making the first telephone transmission in 1876
-  - (B) Thomas Edison inventing the light bulb
-  - (C) Marconi sending radio signals across the sea
-  - (D) The invention of the fax machine
+- **Marks**: 2
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH05-PIC-002
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Visual Details
-- **Marks**: 1
-- **Question**: What connects Bell's transmitter device to his assistant's receiver cup in the second room?
-  - (A) A thick rope
-  - (B) An insulated copper telephone wire
-  - (C) A wireless Wi-Fi signal
-  - (D) A glass pipe
+- **Question ID**: CH05-PB-002
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH05-PIC-003
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Distance Representation
-- **Marks**: 1
-- **Question**: If this sketch represents the first long-distance call mentioned on Page 23, how far away was the assistant?
-  - (A) 100 meters
-  - (B) 3.2 kilometres
-  - (C) 50 kilometres
-  - (D) 500 metres
-
----
-
-## Scene 2: Manual Telephone Switchboard Exchange (1900s)
-> **Visual Description**: A photograph of a large telephone exchange room in the early 1900s. Female switchboard operators sit in a row before tall wooden panels covered with hundreds of jack sockets and dangling fabric cords, manually connecting plug wires.
+- **Question ID**: CH05-PB-003
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH05-PIC-004
-- **Type**: Picture Based
+- **Question ID**: CH05-PB-004
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Switchboard Operator Role
-- **Marks**: 1
-- **Question**: What job are the people in this early 1900s photograph performing?
-  - (A) Typing computer emails
-  - (B) Operating manual telephone switchboards to connect caller lines
-  - (C) Assembly line car manufacturing
-  - (D) Repairing television sets
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH05-PIC-005
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Physical Characteristic
-- **Marks**: 1
-- **Question**: Which textbook description from Page 23 matches the devices shown in this photo?
-  - (A) "Compact and portable touch-screen phones"
-  - (B) "Early versions of the device were bulky and needed manual switchboard operations"
-  - (C) "First cell phones appeared in the late 1970s"
-  - (D) "Rotary dial phones"
+- **Question ID**: CH05-PB-005
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH05-PIC-006
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Technological Contrast
-- **Marks**: 1
-- **Question**: How did callers make a call using this manual switchboard system?
-  - (A) By tapping a touch screen.
-  - (B) By picking up the earpiece, speaking to the operator, and having the operator plug a cord into the recipient's socket.
-  - (C) By pressing a speed dial button.
-  - (D) By sending an email.
-
----
-
-## Scene 3: Iconic Vintage Rotary Dial Telephone
-> **Visual Description**: A classic mid-20th-century rotary telephone made of black bakelite plastic. It features a heavy handset resting on a cradle, a curly cord, and a prominent circular wheel with 10 finger holes numbered 1 to 0.
+- **Question ID**: CH05-PB-006
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH05-PIC-007
-- **Type**: Picture Based
+- **Question ID**: CH05-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Rotary Dial Identification
-- **Marks**: 1
-- **Question**: What type of classic telephone is shown in this illustration?
-  - (A) Smartphone
-  - (B) Rotary dial phone
-  - (C) Telegraph key
-  - (D) Flip phone
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH05-PIC-008
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Movie Connection
-- **Marks**: 1
-- **Question**: What unique cultural fact does Chapter 05 mention about rotary dial phones?
-  - (A) They were invented in space.
-  - (B) They have been immortalised by motion pictures all over the globe.
-  - (C) They were used as footballs.
-  - (D) They required solar energy.
+- **Question ID**: CH05-PB-008
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH05-PIC-009
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: How Rotary Dial Works
-- **Marks**: 1
-- **Question**: How did a person dial a digit (e.g. '5') on a rotary phone?
-  - (A) By touching a digital screen
-  - (B) By placing a finger in hole '5' and rotating the wheel clockwise to the stop pin
-  - (C) By speaking into a microphone
-  - (D) By pressing a key on a keyboard
-
----
-
-## Scene 4: Modern Touch-Screen Smartphone & Multi-Media Communication
-> **Visual Description**: A modern sleek smartphone held in a hand. The glowing glass screen displays icons for Voice Call, Video Call, Instant Messaging, Photos, and Internet Web Browser.
+- **Question ID**: CH05-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH05-PIC-010
-- **Type**: Picture Based
+- **Question ID**: CH05-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Modern Device Identification
-- **Marks**: 1
-- **Question**: Which modern device from Page 23 is illustrated here?
-  - (A) Rotary dial phone
-  - (B) Compact and portable touch-screen phone
-  - (C) Manual switchboard
-  - (D) Gas-lit signal
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH05-PIC-011
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Multi-Media Services
-- **Marks**: 1
-- **Question**: What modern services are displayed on the smartphone screen in addition to standard voice calling?
-  - (A) Printing paper letters
-  - (B) Video calling and instant messaging
-  - (C) Morse code telegraphy
-  - (D) Manual operator connection
+- **Question ID**: CH05-PB-011
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH05-PIC-012
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Hardware Evolution Comparison
-- **Marks**: 1
-- **Question**: Compare Scene 1 (1876 Bell phone) with Scene 4 (Modern smartphone). What is the main technological achievement highlighted?
-  - (A) Devices became larger and heavier.
-  - (B) Devices evolved from bulky wired speech units into compact, wireless, multi-media touch-screen computers.
-  - (C) Communication became slower.
-  - (D) Wires became thicker.
-
----
-
-## Additional Visual & Observation Questions (13 to 20)
+- **Question ID**: CH05-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH05-PIC-013
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Image Captioning
-- **Marks**: 1
-- **Question**: Which caption best fits Scene 2 (Operators at switchboard exchange)?
-  - (A) Modern Wireless 5G Network
-  - (B) Manual Telephone Exchange in the Early 20th Century
-  - (C) Alexander Graham Bell in his Laboratory
-  - (D) Children Playing Video Games
+- **Question ID**: CH05-PB-013
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH05-PIC-014
-- **Type**: Picture Based
+- **Question ID**: CH05-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Fax Machine Illustration
-- **Marks**: 1
-- **Question**: An illustration shows a machine in the 1970s feeding a sheet of paper with text and printing a copy over telephone wires. What machine is it?
-  - (A) Fax machine
-  - (B) Microwave oven
-  - (C) Television set
-  - (D) Gramophone player
+- **Marks**: 2
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH05-PIC-015
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Chronological Ordering
-- **Marks**: 1
-- **Question**: Place these 4 telephone images in correct historical sequence:  
-*(1) Touch-screen Smartphone; (2) 1876 Bell Funnel Phone; (3) 1970s Brick Cell Phone; (4) Black Rotary Dial Phone.*
-  - (A) (2) -> (4) -> (3) -> (1)
-  - (B) (1) -> (2) -> (3) -> (4)
-  - (C) (4) -> (2) -> (1) -> (3)
-  - (D) (3) -> (4) -> (2) -> (1)
+- **Question ID**: CH05-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH05-PIC-016
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Visual Contrast - Bulky vs Compact
-- **Marks**: 1
-- **Question**: Which two vocabulary antonyms from the chapter are visually demonstrated by comparing a 1910 switchboard phone with a modern smartphone?
-  - (A) Fast vs Slow
-  - (B) Bulky vs Compact
-  - (C) Loud vs Quiet
-  - (D) Red vs Green
+- **Question ID**: CH05-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH05-PIC-017
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Transatlantic Cable Diagram
-- **Marks**: 1
-- **Question**: A map diagram shows a heavy cable line stretching across the Atlantic Ocean from North America to Europe with the date **1927**. What milestone does this illustrate?
-  - (A) The first submarine voyage
-  - (B) The start of transatlantic telephone service connecting continents
-  - (C) The invention of the telegraph in 1876
-  - (D) The discovery of America
+- **Question ID**: CH05-PB-017
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH05-PIC-018
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Internet Dial-Up Visual
-- **Marks**: 1
-- **Question**: An illustration shows a vintage desktop computer connected to a wall socket via a coiled telephone wire in the 1990s. What connection method is depicted?
-  - (A) Fiber optic gigabit broadband
-  - (B) Dial-up Internet access through telephone lines
-  - (C) Satellite dish link
-  - (D) Bluetooth pairing
+- **Question ID**: CH05-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH05-PIC-019
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Video Calling Visual
-- **Marks**: 1
-- **Question**: In a drawing, a grandmother in India and a boy in London are smiling at each other on a tablet screen. What central theme of Chapter 05 does this illustrate?
-  - (A) Telephones make travel impossible.
-  - (B) Telephones actually brought the world closer in many ways.
-  - (C) Older people do not like computers.
-  - (D) London is far away.
+- **Question ID**: CH05-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH05-PIC-020
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Question Framing Prompt
-- **Marks**: 1
-- **Question**: Look at Scene 2 (Switchboard operators). Frame a question using the prompt *"How many..."*.
-  - (A) How many manual switchboard operators are working in the exchange room?
-  - (B) Why is the computer fast?
-  - (C) What is the name of the ocean?
-  - (D) Who invented the train?
-
----
-
-## Short Visual Description Tasks (21 to 25)
+- **Question ID**: CH05-PB-020
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH05-PIC-021
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Visual Scene Description
+- **Question ID**: CH05-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write a 2-sentence description of an illustration showing Alexander Graham Bell testing his first telephone transmitter in 1876.
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH05-PIC-022
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Diagram Labeling
+- **Question ID**: CH05-PB-022
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: If you were creating an educational poster on "Evolution of the Telephone", list the four main stages of hardware you would draw from left to right.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH05-PIC-023
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Feature Comparison
+- **Question ID**: CH05-PB-023
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Compare the physical dial mechanism of a rotary phone with the touch-screen interface of a modern smartphone.
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH05-PIC-024
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Comic Strip Dialogue
+- **Question ID**: CH05-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write speech bubbles for a 2-panel comic strip:  
-(Panel 1) Rotary Phone speaking to a child: *"Rotate my dial wheel to call!"*  
-(Panel 2) Touch-screen Smartphone speaking to a child: *"Tap my glass screen for video!"*
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH05-PIC-025
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Cover Art Analysis
+- **Question ID**: CH05-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: What key visual elements should be featured on the cover page of *"Chapter 05: The Telephone"* to make it engaging and informative for ICSE Class IV students?
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH05-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
 
-## Answer Key & Solutions
+### Question 27
+- **Question ID**: CH05-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
 
-| Question ID | Correct Option / Answer | Explanation / Model Answer |
-|-------------|:-----------------------:|----------------------------|
-| **CH05-PIC-001** | **(A)** | Alexander Graham Bell making the first telephone transmission in 1876. |
-| **CH05-PIC-002** | **(B)** | An insulated copper telephone wire connects transmitter to receiver. |
-| **CH05-PIC-003** | **(B)** | 3.2 kilometres away (Bell's first long-distance call to his assistant). |
-| **CH05-PIC-004** | **(B)** | Operating manual telephone switchboards to connect caller lines. |
-| **CH05-PIC-005** | **(B)** | "Early versions... were bulky and needed manual switchboard operations". |
-| **CH05-PIC-006** | **(B)** | Callers spoke to operators who manually plugged cords into sockets. |
-| **CH05-PIC-007** | **(B)** | Classic black rotary dial telephone. |
-| **CH05-PIC-008** | **(B)** | Immortalized by motion pictures all over the globe. |
-| **CH05-PIC-009** | **(B)** | Placing a finger in numbered hole and rotating wheel clockwise. |
-| **CH05-PIC-010** | **(B)** | Compact and portable touch-screen phone. |
-| **CH05-PIC-011** | **(B)** | Video calling and instant messaging. |
-| **CH05-PIC-012** | **(B)** | Evolved from bulky wired speech units to wireless touch-screen computers. |
-| **CH05-PIC-013** | **(B)** | Manual Telephone Exchange in the Early 20th Century. |
-| **CH05-PIC-014** | **(A)** | Fax machine transmitting text/pictures over telephone wires. |
-| **CH05-PIC-015** | **(A)** | (2) 1876 Bell -> (4) Rotary Dial -> (3) 1970s Cell -> (1) Smartphone. |
-| **CH05-PIC-016** | **(B)** | Bulky (large 1910 switchboard unit) vs Compact (modern smartphone). |
-| **CH05-PIC-017** | **(B)** | Start of transatlantic telephone service connecting continents in 1927. |
-| **CH05-PIC-018** | **(B)** | Dial-up Internet access through telephone lines. |
-| **CH05-PIC-019** | **(B)** | Telephones actually brought the world closer in many ways. |
-| **CH05-PIC-020** | **(A)** | "How many manual switchboard operators are working in the exchange room?" |
-| **CH05-PIC-021** | **Model Answer**: Alexander Graham Bell speaks into a wooden funnel transmitter while an electrical wire runs to his assistant in another room. The assistant listens intently to the first clear spoken words sent over telephone wires in 1876. |
-| **CH05-PIC-022** | **Model Answer**:  
-1. 1876 Bell Wooden Funnel Phone  
-2. 1910 Manual Switchboard Unit  
-3. 1950 Rotary Dial Phone  
-4. Modern Touch-Screen Smartphone |
-| **CH05-PIC-023** | **Model Answer**: A rotary phone used a mechanical circular wheel that required users to rotate finger holes clockwise. A smartphone uses a flat glass touch screen that responds digitally to light finger taps and swipes. |
-| **CH05-PIC-024** | **Model Answer**:  
-**Panel 1 (Rotary Phone)**: *"Place your finger in my dial wheel and turn to call!"*  
-**Panel 2 (Smartphone)**: *"Tap my glass screen to see your friend on video!"* |
-| **CH05-PIC-025** | **Model Answer**: The cover should feature a timeline illustration showing the progression from Bell's 1876 device to a rotary phone and a modern smartphone, key milestone dates (1876, 1915, 1927, 1970s), and the title in bold gold ICSE typography. |
+### Question 28
+- **Question ID**: CH05-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH05-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH05-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH05-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH05-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH05-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH05-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH05-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH05-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH05-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH05-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH05-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH05-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH05-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH05-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH05-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH05-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH05-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH05-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH05-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH05-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH05-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH05-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
+

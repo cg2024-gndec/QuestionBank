@@ -1,374 +1,506 @@
-# Picture & Visual Based Questions - Chapter 04: Beginnings of Traffic Lights
+# Picture-Based Questions -- Chapter 04: Beginnings of Traffic Lights
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
-
-## Scene 1: Traffic Lights in Victorian London (1868)
-> **Visual Description**: A black-and-white historical drawing of London in 1868 outside the Houses of Parliament. A tall iron post with a gas lantern at the top is standing at a cobblestone intersection. Horse-drawn omnibuses and carriages are stopped in front of it while pedestrians wearing top hats walk across.
 
 ### Question 1
-- **Question ID**: CH04-PIC-001
-- **Type**: Picture Based
+- **Question ID**: CH04-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Scene Identification
-- **Marks**: 1
-- **Question**: Which historical event from Chapter 04 is depicted in this illustration?
-  - (A) Garrett Morgan testing electric lights in 1923
-  - (B) The world's first gas-lit traffic light outside London's Parliament in 1868
-  - (C) The invention of the modern automobile
-  - (D) A train station in Paris
+- **Marks**: 2
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH04-PIC-002
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Visual Details
-- **Marks**: 1
-- **Question**: What mode of transport is shown stopped in front of the 1868 signal in the drawing?
-  - (A) Motor sports cars
-  - (B) Horse-drawn carriages and omnibuses
-  - (C) Electric buses
-  - (D) Bicycles
+- **Question ID**: CH04-PB-002
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH04-PIC-003
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Power Source Visual Clue
-- **Marks**: 1
-- **Question**: What visual feature on top of the 1868 signal post indicates it was fuelled by gas rather than electricity?
-  - (A) Solar panels
-  - (B) A glass gas lantern with a small flame visible inside
-  - (C) Heavy electric wires connecting to a generator
-  - (D) A battery box
-
----
-
-## Scene 2: Standard Modern 3-Color Traffic Light
-> **Visual Description**: A close-up illustration of a modern 3-section traffic light signal mounted on a yellow metal arm. The top circular lamp is glowing bright RED, the middle lamp is unlit grey, and the bottom lamp is unlit grey.
+- **Question ID**: CH04-PB-003
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH04-PIC-004
-- **Type**: Picture Based
+- **Question ID**: CH04-PB-004
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Color Position & Meaning
-- **Marks**: 1
-- **Question**: In a standard vertical 3-color traffic light, which color is always positioned at the very top?
-  - (A) Green
-  - (B) Yellow
-  - (C) Red
-  - (D) Blue
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH04-PIC-005
-- **Type**: Picture Based
+- **Question ID**: CH04-PB-005
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Action Instruction
-- **Marks**: 1
-- **Question**: When the top RED lamp is glowing brightly as shown in the picture, what instruction does it give to drivers?
-  - (A) Speed up
-  - (B) Stop completely behind the stop line
-  - (C) Turn left immediately
-  - (D) Park the car
+- **Marks**: 2
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH04-PIC-006
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Color Sequence
-- **Marks**: 1
-- **Question**: Which lamp will glow NEXT after the red light phase ends?
-  - (A) The middle Yellow lamp (to get ready)
-  - (B) The top Red lamp again
-  - (C) A purple lamp
-  - (D) All three lamps together
-
----
-
-## Scene 3: Pedestrian Crossing at a Modern Crossroads
-> **Visual Description**: A busy 4-way city intersection. Painted white stripes (Zebra crossing) span across the road. A green walking figure icon is lit on the pedestrian pole. A group of school children with backpacks are walking safely across the white stripes while cars wait patiently behind the stop line.
+- **Question ID**: CH04-PB-006
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH04-PIC-007
-- **Type**: Picture Based
+- **Question ID**: CH04-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Road Marking Identification
-- **Marks**: 1
-- **Question**: What are the thick white stripes painted on the road surface called?
-  - (A) Speed bumps
-  - (B) Zebra crossing / Pedestrian crossing
-  - (C) Parking lines
-  - (D) Railway tracks
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH04-PIC-008
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Pedestrian Signal Icon
-- **Marks**: 1
-- **Question**: What illuminated symbol on the pedestrian signal pole tells the children it is safe to walk?
-  - (A) A red standing figure
-  - (B) A green walking figure icon
-  - (C) A blue bicycle
-  - (D) A yellow car
+- **Question ID**: CH04-PB-008
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH04-PIC-009
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Vehicle Position
-- **Marks**: 1
-- **Question**: Where are the cars stopped relative to the zebra crossing in this illustration?
-  - (A) On top of the zebra stripes
-  - (B) Safely behind the solid white stop line, leaving the zebra crossing completely clear for pedestrians
-  - (C) In the middle of the intersection
-  - (D) On the sidewalk
-
----
-
-## Scene 4: Garrett Morgan's Electric Signal (1923)
-> **Visual Description**: A historical diagram of Garrett Morgan's T-shaped electric traffic signal patented in 1923. It features mechanical T-arms with electric lights that raised and lowered automatically to control multi-directional traffic.
+- **Question ID**: CH04-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH04-PIC-010
-- **Type**: Picture Based
+- **Question ID**: CH04-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Inventor Matching
-- **Marks**: 1
-- **Question**: Who is the African-American inventor associated with the 1923 electric T-shaped traffic signal shown here?
-  - (A) J.P. Knight
-  - (B) Garrett Morgan
-  - (C) Benjamin Franklin
-  - (D) George Washington
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH04-PIC-011
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Shape Feature
-- **Marks**: 1
-- **Question**: What geometric shape was Garrett Morgan's early traffic signal design?
-  - (A) Circular ball
-  - (B) T-shaped pole with movable arms
-  - (C) Square box on the ground
-  - (D) Triangle
+- **Question ID**: CH04-PB-011
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH04-PIC-012
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Technological Step Forward
-- **Marks**: 1
-- **Question**: What major improvement did Garrett Morgan's 1923 design introduce over the 1868 London signal?
-  - (A) It used candles instead of gas.
-  - (B) It used electric power and automated mechanical arms, replacing dangerous manual gas valves.
-  - (C) It made no sound.
-  - (D) It was made of plastic.
-
----
-
-## Additional Visual & Observation Questions (13 to 20)
+- **Question ID**: CH04-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH04-PIC-013
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Image Captioning
-- **Marks**: 1
-- **Question**: Which caption best fits Scene 3 (Children crossing on Zebra stripes)?
-  - (A) Fast Cars on the Highway
-  - (B) Safe Pedestrian Crossing at Signalized Crossroads
-  - (C) Playing Games on the Street
-  - (D) The Broken Signal
+- **Question ID**: CH04-PB-013
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH04-PIC-014
-- **Type**: Picture Based
+- **Question ID**: CH04-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Signal Light Count
-- **Marks**: 1
-- **Question**: How many distinct color lamps are present on a standard modern traffic signal head?
-  - (A) 2 (Red, Green)
-  - (B) 3 (Red, Yellow, Green)
-  - (C) 5 (Red, Blue, Yellow, Green, White)
-  - (D) 1 (Red only)
+- **Marks**: 2
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH04-PIC-015
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Color Position Reasoning
-- **Marks**: 1
-- **Question**: Why is **RED** always placed at the *top* of vertical traffic signals worldwide?
-  - (A) Because red paint is heaviest.
-  - (B) So that color-blind drivers can identify the "STOP" signal by its top position regardless of color perception.
-  - (C) Because the sun shines on top.
-  - (D) It is an accidental choice.
+- **Question ID**: CH04-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH04-PIC-016
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Chronological Ordering
-- **Marks**: 1
-- **Question**: Put these 3 historical visual stages of traffic signals in order:  
-*(1) Modern electronic automated LED signal; (2) 1868 gas-lit London signal; (3) 1923 Garrett Morgan electric T-signal.*
-  - (A) (2) -> (3) -> (1)
-  - (B) (1) -> (2) -> (3)
-  - (C) (3) -> (2) -> (1)
-  - (D) (2) -> (1) -> (3)
+- **Question ID**: CH04-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH04-PIC-017
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Poster Design
-- **Marks**: 1
-- **Question**: A road safety poster shows a traffic light next to a smiling family walking safely across a street. What main idea does this poster communicate?
-  - (A) Traffic lights make cars go fast.
-  - (B) Following traffic signals protects families and saves lives.
-  - (C) London is a big city.
-  - (D) Gas lamps are pretty.
+- **Question ID**: CH04-PB-017
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH04-PIC-018
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Yellow Light Visual
-- **Marks**: 1
-- **Question**: In an illustration showing the middle YELLOW lamp glowing, what action should approaching vehicles take?
-  - (A) Accelerate rapidly.
-  - (B) Prepare to stop safely before the intersection.
-  - (C) Turn off their engines immediately.
-  - (D) Reverse their cars.
+- **Question ID**: CH04-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH04-PIC-019
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Contrast - Past vs Present
-- **Marks**: 1
-- **Question**: What visual contrast is highlighted between transport in 1868 (Scene 1) and transport today (Scene 3)?
-  - (A) 1868 features horse-drawn carriages on cobblestones; today features motor automobiles on asphalt roads.
-  - (B) 1868 features airplanes; today features horses.
-  - (C) Both show electric cars.
-  - (D) Both show boats on rivers.
+- **Question ID**: CH04-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH04-PIC-020
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Question Framing Prompt
-- **Marks**: 1
-- **Question**: Look at Scene 3. Frame a question using the prompt *"How many..."* based on the children in the picture.
-  - (A) How many children are crossing the road safely on the zebra stripes?
-  - (B) Where is the train going?
-  - (C) Why is the sky blue?
-  - (D) Who invented paper?
-
----
-
-## Short Visual Description Tasks (21 to 25)
+- **Question ID**: CH04-PB-020
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH04-PIC-021
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Visual Scene Description
+- **Question ID**: CH04-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write a 2-sentence description of an illustration showing J.P. Knight's gas-lit traffic light outside London Parliament in 1868.
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH04-PIC-022
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Diagram Labeling
+- **Question ID**: CH04-PB-022
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: If you were drawing a labeled diagram of a modern 3-color traffic signal, list the three colors in order from top to bottom and write 1 word for each color's meaning.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH04-PIC-023
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Safety Features
+- **Question ID**: CH04-PB-023
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Explain how visual road markings (like zebra stripes and stop lines) work together with traffic light signals to ensure pedestrian safety.
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH04-PIC-024
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Comic Strip Dialogue
+- **Question ID**: CH04-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write speech bubbles for a 2-panel comic strip:  
-(Panel 1) Red Light talking to a speeding car: *"Stop!"*  
-(Panel 2) Green Light talking to a waiting car: *"Go!"*
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH04-PIC-025
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Cover Art Analysis
+- **Question ID**: CH04-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: What key visual elements should be featured on the cover page of *"Chapter 04: Beginnings of Traffic Lights"* to make it informative and appealing to ICSE Class IV students?
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH04-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
 
-## Answer Key & Solutions
+### Question 27
+- **Question ID**: CH04-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
 
-| Question ID | Correct Option / Answer | Explanation / Model Answer |
-|-------------|:-----------------------:|----------------------------|
-| **CH04-PIC-001** | **(B)** | World's first gas-lit traffic light outside London Parliament in 1868. |
-| **CH04-PIC-002** | **(B)** | Horse-drawn carriages and omnibuses are stopped in 1868. |
-| **CH04-PIC-003** | **(B)** | A glass gas lantern with a small flame shows it was gas-fuelled. |
-| **CH04-PIC-004** | **(C)** | Red is always at the top of a vertical traffic light. |
-| **CH04-PIC-005** | **(B)** | Glowing Red instructs drivers to stop completely. |
-| **CH04-PIC-006** | **(A)** | Red is followed by Yellow (to prepare/get ready), then Green. |
-| **CH04-PIC-007** | **(B)** | Thick white stripes = Zebra crossing / Pedestrian crossing. |
-| **CH04-PIC-008** | **(B)** | Green walking figure icon indicates safe crossing time. |
-| **CH04-PIC-009** | **(B)** | Cars stop behind the solid stop line, keeping zebra stripes clear. |
-| **CH04-PIC-010** | **(B)** | Garrett Morgan invented the 1923 electric T-signal. |
-| **CH04-PIC-011** | **(B)** | T-shaped pole with mechanical signaling arms. |
-| **CH04-PIC-012** | **(B)** | Electric power and automated mechanical arms replaced manual gas hazards. |
-| **CH04-PIC-013** | **(B)** | "Safe Pedestrian Crossing at Signalized Crossroads". |
-| **CH04-PIC-014** | **(B)** | 3 lamps: Red, Yellow, Green. |
-| **CH04-PIC-015** | **(B)** | Top position allows color-blind drivers to recognize the STOP signal immediately. |
-| **CH04-PIC-016** | **(A)** | 1868 (Gas) -> 1923 (Garrett Morgan Electric) -> Modern LED. |
-| **CH04-PIC-017** | **(B)** | Following traffic signals protects families and saves lives. |
-| **CH04-PIC-018** | **(B)** | Yellow signals drivers to prepare to stop safely. |
-| **CH04-PIC-019** | **(A)** | 1868 horse carriages on cobblestones vs modern motor cars on asphalt. |
-| **CH04-PIC-020** | **(A)** | "How many children are crossing the road safely on the zebra stripes?" |
-| **CH04-PIC-021** | **Model Answer**: A tall ornate iron post holding a gas lantern stands outside London's Parliament in 1868. Pedestrians in Victorian attire cross the cobblestone street while horse carriages wait at the red gas signal. |
-| **CH04-PIC-022** | **Model Answer**:  
-1. **Top**: RED (STOP)  
-2. **Middle**: YELLOW (WAIT / PREPARE)  
-3. **Bottom**: GREEN (PROCEED) |
-| **CH04-PIC-023** | **Model Answer**: Stop lines tell drivers where to stop so they do not block zebra stripes. Zebra stripes mark the dedicated walking path, creating a clear safe zone for pedestrians when the light is green. |
-| **CH04-PIC-024** | **Model Answer**:  
-**Panel 1 (Red Light)**: *"Stop right there! Danger ahead!"*  
-**Panel 2 (Green Light)**: *"Clear path ahead, proceed safely!"* |
-| **CH04-PIC-025** | **Model Answer**: The cover should feature a split visual comparing the 1868 gas light with a modern 3-color signal, children using a zebra crossing, historical dates (1868, 1923), and the title in bold royal typography. |
+### Question 28
+- **Question ID**: CH04-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH04-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH04-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH04-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH04-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH04-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH04-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH04-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH04-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH04-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH04-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH04-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH04-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH04-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH04-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH04-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH04-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH04-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH04-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH04-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH04-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH04-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH04-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
+

@@ -1,367 +1,506 @@
-# Picture & Visual Based Questions - Chapter 01: Empty Pot
+# Picture-Based Questions -- Chapter 01: Empty Pot
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
 
 ### Question 1
-- **Question ID**: CH01-PIC-001
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of children running in the park with a pot. Frame a question using 'How many'.
-- **Model Answer / Key**: How many children are running in the park with their pots?
-
----
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH01-PIC-002
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-002
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of Ping holding an empty pot in front of the unsmiling Emperor. Frame a question using 'Why'.
-- **Model Answer / Key**: Why is Ping holding an empty pot in front of the Emperor?
-
----
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH01-PIC-003
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-003
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of a garden filled with bright red roses. Frame a question using 'What'.
-- **Model Answer / Key**: What color are the roses blooming in the garden?
-
----
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH01-PIC-004
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Guided Description
+- **Question ID**: CH01-PB-004
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Describe Ping's pot in six guided sentences using the prompts:
-- I see a _________.
-- It is made of _________.
-- Inside the pot is _________.
-- No plant _________.
-- Ping watered it _________.
-- It represents _________.
-- **Model Answer / Key**: I see a clay pot.
-It is made of brown terracotta.
-Inside the pot is dark, rich soil.
-No plant sprouted from the seed.
-Ping watered it carefully every day.
-It represents Ping's honesty and hard work.
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH01-PIC-005
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-005
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Action Identification
 - **Marks**: 2
-- **Visual Prompt**: Write three actions shown in a picture of children in a garden that make elders happy:
-1. Respecting _________.
-2. Taking care of _________.
-3. Speaking _________.
-- **Model Answer / Key**: 1. Respecting elders.
-2. Taking care of plants.
-3. Speaking politely.
-
----
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH01-PIC-006
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-006
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of the Emperor giving a seed to Ping. Frame a question using 'Who'.
-- **Model Answer / Key**: Who is giving a royal seed to Ping?
-
----
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH01-PIC-007
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of a crowded court with hundreds of flower pots. Frame a question using 'How many'.
-- **Model Answer / Key**: How many flower pots are displayed in the Royal Court?
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH01-PIC-008
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Guided Description
+- **Question ID**: CH01-PB-008
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Describe your favorite plant in six sentences:
-- My favorite plant is _________.
-- It has _________ leaves.
-- It produces _________ flowers.
-- I water it _________.
-- It needs _________ to grow.
-- I love it because _________.
-- **Model Answer / Key**: My favorite plant is the Rose plant.
-It has small green leaves.
-It produces red and fragrant flowers.
-I water it every morning.
-It needs sunlight and fresh air to grow.
-I love it because it makes my home beautiful.
-
----
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH01-PIC-009
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Visual Observation
+- **Question ID**: CH01-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Observe an image of Ping changing the soil of his pot. What action is Ping performing?
-- **Model Answer / Key**: Ping is carefully transferring his seed into a bigger pot with fresh, nutrient-rich soil.
-
----
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH01-PIC-010
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Frame a question using 'Where' for an image showing Ping standing in a long queue.
-- **Model Answer / Key**: Where is Ping standing with his empty pot?
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH01-PIC-011
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-011
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of the Emperor smiling and patting Ping on the back. Frame a question using 'Why'.
-- **Model Answer / Key**: Why is the Emperor smiling and patting Ping on the back?
-
----
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH01-PIC-012
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Guided Description
+- **Question ID**: CH01-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Describe the Emperor's palace in six sentences using prompts:
-- The palace is _________.
-- It is located in _________.
-- The court has _________ pillars.
-- Many children _________.
-- The Emperor sits on _________.
-- It looks _________.
-- **Model Answer / Key**: The palace is grand and tall.
-It is located in ancient China.
-The court has large golden pillars.
-Many children gathered in the courtyard.
-The Emperor sits on a majestic throne.
-It looks beautiful and royal.
-
----
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH01-PIC-013
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-013
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Habits Identification
 - **Marks**: 2
-- **Visual Prompt**: Identify three good habits depicted in an image of Ping taking care of a garden:
-1. Watering _________.
-2. Removing _________.
-3. Providing _________.
-- **Model Answer / Key**: 1. Watering plants daily.
-2. Removing dry leaves.
-3. Providing adequate sunlight.
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH01-PIC-014
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Frame a question using 'Which' for an image showing pots with different colored flowers.
-- **Model Answer / Key**: Which pot has the brightest red flower?
-
----
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH01-PIC-015
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Visual Science Observation
+- **Question ID**: CH01-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Observe an image of boiled seeds in a bowl. Why will these seeds not grow?
-- **Model Answer / Key**: These seeds will not grow because boiling kills the living embryo inside them.
-
----
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH01-PIC-016
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Visual Storytelling
+- **Question ID**: CH01-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of Ping's mother comforting him. What is his mother advising him?
-- **Model Answer / Key**: His mother is advising him to be brave and present his honest effort with the empty pot to the Emperor.
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH01-PIC-017
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-017
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Frame a question using 'When' for an image of children arriving at court at sunrise.
-- **Model Answer / Key**: When did the children arrive at the Royal Court?
-
----
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH01-PIC-018
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Diagram Description
+- **Question ID**: CH01-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Describe a seed sprouting into a small seedling in 5 steps shown in a diagram:
-1. Seed in _________.
-2. Absorbs _________.
-3. Root grows _________.
-4. Shoot grows _________.
-5. Leaves _________.
-- **Model Answer / Key**: 1. Seed in soil.
-2. Absorbs water.
-3. Root grows downwards.
-4. Shoot grows upwards.
-5. Leaves open up.
-
----
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH01-PIC-019
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Emotion Observation
+- **Question ID**: CH01-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Observe an image of the angry Emperor pointing at dishonest children. Why is the Emperor upset?
-- **Model Answer / Key**: The Emperor is upset because the other children lied and brought fake flowers from boiled seeds.
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH01-PIC-020
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-020
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Frame a question using 'How' for an image of Ping watering his pot with a small can.
-- **Model Answer / Key**: How often does Ping water his plant pot?
-
----
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH01-PIC-021
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Guided Writing
+- **Question ID**: CH01-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Write six sentences describing your school garden:
-- Our school has _________.
-- It is full of _________.
-- We plant _________.
-- The gardener _________.
-- We play near _________.
-- It makes our school _________.
-- **Model Answer / Key**: Our school has a big green garden.
-It is full of colorful flowers and tall trees.
-We plant new saplings every year.
-The gardener takes care of the plants daily.
-We play near the green lawn during recess.
-It makes our school look clean and fresh.
-
----
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH01-PIC-022
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-022
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Event Identification
 - **Marks**: 2
-- **Visual Prompt**: Look at an image of Ping receiving a crown. What ceremony is taking place?
-- **Model Answer / Key**: Ping is being crowned as the new Emperor of China for his honesty.
-
----
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH01-PIC-023
-- **Type**: Picture_Based
+- **Question ID**: CH01-PB-023
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Apply
-- **Topic**: Question Framing
 - **Marks**: 2
-- **Visual Prompt**: Frame a question using 'What' for an image showing a notice on the palace gates.
-- **Model Answer / Key**: What announcement is written on the royal notice board?
-
----
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH01-PIC-024
-- **Type**: Picture_Based
-- **Difficulty**: Medium
-- **Bloom Level**: Analyze
-- **Topic**: Symbolic Observation
+- **Question ID**: CH01-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Observe an image comparing an empty pot and a pot full of flowers. Which pot represents truth?
-- **Model Answer / Key**: The empty pot represents truth because it holds the original boiled seed without deception.
-
----
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH01-PIC-025
-- **Type**: Picture_Based
-- **Difficulty**: Hard
-- **Bloom Level**: Create
-- **Topic**: Visual Creation
+- **Question ID**: CH01-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Visual Prompt**: Draw or describe in words an emblem for 'Honesty is the Best Policy' inspired by the story.
-- **Model Answer / Key**: An emblem showing a golden crown resting upon a simple, clean empty pot, surrounded by green leaves.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH01-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
+
+### Question 27
+- **Question ID**: CH01-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
+
+### Question 28
+- **Question ID**: CH01-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH01-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH01-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH01-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH01-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH01-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH01-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH01-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH01-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH01-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH01-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH01-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH01-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH01-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH01-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH01-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH01-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH01-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH01-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH01-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH01-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH01-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH01-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
 

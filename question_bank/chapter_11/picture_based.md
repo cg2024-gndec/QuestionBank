@@ -1,375 +1,506 @@
-# Picture & Visual Based Questions - Chapter 11: Lifecycle of a Frog
+# Picture-Based Questions -- Chapter 11: Lifecycle of a Frog
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
-
-## Scene 1: Circular Lifecycle Diagram
-> **Visual Description**: A circular scientific diagram illustrating the four sequential stages of a frog's life cycle. Arrows connect Stage 1: Jelly-like **Egg** mass in water $\rightarrow$ Stage 2: Swimming **Tadpole** with tail and gills $\rightarrow$ Stage 3: **Froglet** with developing hind legs, lungs, and short tail $\rightarrow$ Stage 4: **Adult Frog** on land with no tail laying eggs to complete the circle.
 
 ### Question 1
-- **Question ID**: CH11-PIC-001
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Lifecycle Diagram Identification
-- **Marks**: 1
-- **Question**: What scientific process is illustrated in this circular 4-stage diagram?
-  - (A) Plant photosynthesis
-  - (B) Lifecycle / Metamorphosis of a Frog
-  - (C) Water cycle
-  - (D) Bird migration
+- **Marks**: 2
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH11-PIC-002
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-002
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Stage 1 Identification
-- **Marks**: 1
-- **Question**: What is the first stage labeled in the diagram where female frogs lay eggs in water?
-  - (A) Tadpole
-  - (B) Egg (Spawning)
-  - (C) Froglet
-  - (D) Adult Frog
+- **Marks**: 2
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH11-PIC-003
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Circular Arrow Meaning
-- **Marks**: 1
-- **Question**: Why are the four stages in Scene 1 arranged in a continuous circular arrow loop?
-  - (A) Because frogs run in circles.
-  - (B) It shows that the life cycle repeats perpetually as adult female frogs lay new eggs.
-  - (C) To make the diagram look like a wheel.
-  - (D) By accident.
-
----
-
-## Scene 2: Swimming Tadpole Stage
-> **Visual Description**: A detailed close-up illustration of Stage 2 (Tadpole) swimming in pond water. The tadpole has a large round head, a long flexible swimming tail, small external gill tufts on the side of its head, and no legs. Small green water algae float nearby.
+- **Question ID**: CH11-PB-003
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH11-PIC-004
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-004
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Tadpole Identification
-- **Marks**: 1
-- **Question**: Which stage of the frog's lifecycle is depicted swimming underwater in Scene 2?
-  - (A) Egg
-  - (B) Tadpole
-  - (C) Froglet
-  - (D) Adult Frog
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH11-PIC-005
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-005
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Anatomical Features
-- **Marks**: 1
-- **Question**: Which two anatomical features are clearly visible on the tadpole in Scene 2?
-  - (A) Four legs and lungs
-  - (B) A long tail and gills (with no legs)
-  - (C) Wings and beak
-  - (D) Shell and claws
+- **Marks**: 2
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH11-PIC-006
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Underwater Adaptation
-- **Marks**: 1
-- **Question**: How does the tail structure in Scene 2 help the tadpole survive underwater?
-  - (A) It holds food.
-  - (B) Its long, flexible fin-like shape allows fast sideways wiggling propulsion through water.
-  - (C) It acts as an anchor.
-  - (D) It helps it hop on grass.
-
----
-
-## Scene 3: Transition Stage - The Froglet
-> **Visual Description**: An illustration of Stage 3 (Froglet) resting on a floating pond leaf near the water edge. The froglet has developed four legs (strong hind legs for hopping), visible nostrils/lungs for air breathing, but still retains a small shrinking tail stump at the back.
+- **Question ID**: CH11-PB-006
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH11-PIC-007
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Froglet Identification
-- **Marks**: 1
-- **Question**: Which intermediate stage is depicted in Scene 3 featuring developed legs alongside a shrinking tail stump?
-  - (A) Egg
-  - (B) Tadpole
-  - (C) Froglet
-  - (D) Adult Frog
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH11-PIC-008
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Habitat Transition
-- **Marks**: 1
-- **Question**: Where is the froglet positioned in Scene 3, reflecting its dual adaptation?
-  - (A) Deep at the bottom of the ocean
-  - (B) At the water edge resting on a lily pad between water and land
-  - (C) High in a tree top
-  - (D) Buried under dry sand
+- **Question ID**: CH11-PB-008
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH11-PIC-009
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Tail Stump Resorption Visual
-- **Marks**: 1
-- **Question**: What is happening to the small tail stump visible behind the froglet in Scene 3?
-  - (A) It is growing longer into a snake tail.
-  - (B) It is being gradually resorbed by the body as a source of nourishment until it disappears in the adult frog.
-  - (C) It turned into a fifth leg.
-  - (D) It is falling off into the pond.
-
----
-
-## Scene 4: Tailless Adult Frog on Land
-> **Visual Description**: An illustration of Stage 4 (Adult Frog) sitting on green grass by the pond bank. It has smooth moist skin, large bulging eyes, powerful folded hind legs ready for hopping, a wide mouth catching a flying dragon fly, and **no tail**.
+- **Question ID**: CH11-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH11-PIC-010
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Adult Frog Identification
-- **Marks**: 1
-- **Question**: Which final stage of the lifecycle is shown sitting on land in Scene 4?
-  - (A) Tadpole
-  - (B) Egg mass
-  - (C) Froglet
-  - (D) Adult Frog
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH11-PIC-011
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-011
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Key Difference from Tadpole
-- **Marks**: 1
-- **Question**: What key physical feature distinguishes the adult frog in Scene 4 from the tadpole in Scene 2?
-  - (A) The adult frog has a tail.
-  - (B) The adult frog has four legs and no tail.
-  - (C) The adult frog has gills.
-  - (D) The adult frog lives underwater only.
+- **Marks**: 2
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH11-PIC-012
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Hind Leg Folded Position
-- **Marks**: 1
-- **Question**: Why are the adult frog's long hind legs shown folded tightly like Z-springs in Scene 4?
-  - (A) Because it is sleeping.
-  - (B) The coiled position stores muscle energy for explosive, high-speed leaps/hops across land to catch prey or escape danger.
-  - (C) Because its legs are broken.
-  - (D) To keep warm.
-
----
-
-## Additional Visual & Observation Questions (13 to 20)
+- **Question ID**: CH11-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH11-PIC-013
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Image Captioning
-- **Marks**: 1
-- **Question**: Which caption best fits Scene 1 (circular 4-stage diagram)?
-  - (A) Fish Species of World
-  - (B) The 4-Stage Metamorphosis: Lifecycle of a Frog from Egg to Adult
-  - (C) Water Conservation in Ponds
-  - (D) How Birds Fly
+- **Question ID**: CH11-PB-013
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH11-PIC-014
-- **Type**: Picture Based
+- **Question ID**: CH11-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Jelly Mass Visual
-- **Marks**: 1
-- **Question**: An illustration shows a clump of translucent jelly spheres with black dots floating in water. What is this clump called?
-  - (A) Frog egg mass / Frogspawn
-  - (B) Fish scales
-  - (C) River pebbles
-  - (D) Water lilies
+- **Marks**: 2
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH11-PIC-015
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Chronological Sequence of Images
-- **Marks**: 1
-- **Question**: Arrange these 4 visual stages of a frog in correct chronological order:  
-*(1) Adult frog on grass with no tail; (2) Female laying jelly eggs in water; (3) Froglet with legs and small tail; (4) Swimming tadpole with gills and long tail.*
-  - (A) (2) -> (4) -> (3) -> (1)
-  - (B) (1) -> (2) -> (3) -> (4)
-  - (C) (4) -> (3) -> (2) -> (1)
-  - (D) (3) -> (4) -> (1) -> (2)
+- **Question ID**: CH11-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH11-PIC-016
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Gill Tufts Visual
-- **Marks**: 1
-- **Question**: An illustration shows small delicate feathery tufts on the side of a tadpole's head. What organ do these feathery tufts represent?
-  - (A) Lungs
-  - (B) External Gills for underwater oxygen absorption
-  - (C) Ears
-  - (D) Fins
+- **Question ID**: CH11-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH11-PIC-017
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Tongue Catching Insect Visual
-- **Marks**: 1
-- **Question**: An illustration shows an adult frog shooting out a long, sticky tongue to snag a fly. What does this feeding adaptation demonstrate?
-  - (A) Herbivorous plant eating
-  - (B) Carnivorous land-hunting adaptation enabled by lungs and strong land legs
-  - (C) Tadpole feeding
-  - (D) Filter feeding underwater
+- **Question ID**: CH11-PB-017
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH11-PIC-018
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Hatching Sequence Visual
-- **Marks**: 1
-- **Question**: An illustration shows a tiny black tadpole wriggling out of a soft jelly egg sphere. What word describes this action?
-  - (A) Spawning
-  - (B) Hatching
-  - (C) Hopping
-  - (D) Metamorphosis
+- **Question ID**: CH11-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH11-PIC-019
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Organ Shift Diagram Visual
-- **Marks**: 1
-- **Question**: A graphic diagram shows: **Gills (Water Breathing) $\rightarrow$ Lungs (Air Breathing)**. Which transition stage in the frog's lifecycle does this organ shift mark?
-  - (A) Egg to Tadpole
-  - (B) Tadpole to Froglet
-  - (C) Adult Frog to Egg
-  - (D) Egg to Adult
+- **Question ID**: CH11-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH11-PIC-020
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Question Framing Prompt
-- **Marks**: 1
-- **Question**: Look at Scene 4 (Adult Frog on land). Frame a question using the prompt *"What organ does an adult..."*.
-  - (A) What organ does an adult frog use to breathe air on land?
-  - (B) Where are the fish swimming?
-  - (C) How many weeks does it take to hatch?
-  - (D) Why are eggs black?
-
----
-
-## Short Visual Description Tasks (21 to 25)
+- **Question ID**: CH11-PB-020
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH11-PIC-021
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Visual Scene Description
+- **Question ID**: CH11-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write a 2-sentence description of an illustration showing the four stages of a frog's life cycle arranged in a circular diagram.
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH11-PIC-022
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Science Poster Layout Design
+- **Question ID**: CH11-PB-022
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: If you were drawing a science poster titled "From Water to Land: A Frog's Metamorphosis", list four key visual elements you would draw.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH11-PIC-023
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Contrast - Tadpole vs Adult Frog
+- **Question ID**: CH11-PB-023
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Explain why illustrating a swimming tadpole next to a hopping adult frog creates a striking visual demonstration of metamorphosis.
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH11-PIC-024
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Comic Strip Dialogue
+- **Question ID**: CH11-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write speech bubbles for a 2-panel comic strip:  
-(Panel 1) Swimming Tadpole: *"I swim in the pond with my long tail and breathe with gills!"*  
-(Panel 2) Hopping Froglet: *"Look at my new legs and lungs! Soon my tail will be gone and I'll hop on land!"*
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH11-PIC-025
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Cover Art Analysis
+- **Question ID**: CH11-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: What key visual elements should be featured on the cover page of *"Chapter 11: Lifecycle of a Frog"* to make it scientifically accurate, colorful, and engaging for ICSE Class IV students?
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH11-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
 
-## Answer Key & Solutions
+### Question 27
+- **Question ID**: CH11-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
 
-| Question ID | Correct Option / Answer | Explanation / Model Answer |
-|-------------|:-----------------------:|----------------------------|
-| **CH11-PIC-001** | **(B)** | Lifecycle / Metamorphosis of a Frog. |
-| **CH11-PIC-002** | **(B)** | Egg (Spawning). |
-| **CH11-PIC-003** | **(B)** | Life cycle repeats perpetually as female frogs lay new eggs. |
-| **CH11-PIC-004** | **(B)** | Tadpole. |
-| **CH11-PIC-005** | **(B)** | A long tail and gills (no legs). |
-| **CH11-PIC-006** | **(B)** | Long, flexible fin-like shape allows fast wiggling propulsion. |
-| **CH11-PIC-007** | **(C)** | Froglet (legs developed + shrinking tail). |
-| **CH11-PIC-008** | **(B)** | At water edge on a lily pad between water and land. |
-| **CH11-PIC-009** | **(B)** | Gradually resorbed by the body as a source of energy. |
-| **CH11-PIC-010** | **(D)** | Adult Frog. |
-| **CH11-PIC-011** | **(B)** | Adult frog has four legs and no tail. |
-| **CH11-PIC-012** | **(B)** | Coiled position stores energy for explosive hopping. |
-| **CH11-PIC-013** | **(B)** | The 4-Stage Metamorphosis: Lifecycle of a Frog. |
-| **CH11-PIC-014** | **(A)** | Frog egg mass / Frogspawn. |
-| **CH11-PIC-015** | **(A)** | (2) Egg laying -> (4) Swimming tadpole -> (3) Froglet -> (1) Adult frog. |
-| **CH11-PIC-016** | **(B)** | External Gills for underwater oxygen absorption. |
-| **CH11-PIC-017** | **(B)** | Carnivorous land-hunting adaptation enabled by lungs and legs. |
-| **CH11-PIC-018** | **(B)** | Hatching (wriggling out of egg sphere). |
-| **CH11-PIC-019** | **(B)** | Tadpole to Froglet (lungs replace gills). |
-| **CH11-PIC-020** | **(A)** | "What organ does an adult frog use to breathe air on land?" |
-| **CH11-PIC-021** | **Model Answer**: A circular diagram shows female frogs laying jelly eggs in water, which hatch into swimming tadpoles with gills and tails. Arrows show the tadpoles developing legs and lungs to become froglets, finally growing into tailless adult frogs on land. |
-| **CH11-PIC-022** | **Model Answer**:  
-1. Jelly-like egg clump floating in pond water.  
-2. Swimming tadpole with a long tail and gills.  
-3. Froglet with developed hind legs, lungs, and shrinking tail on a lily pad.  
-4. Tailless adult frog hopping on green land grass. |
-| **CH11-PIC-023** | **Model Answer**: It clearly contrasts the aquatic stage (tail, gills, water dweller) with the terrestrial stage (four legs, lungs, land dweller), visually proving how metamorphosis completely transforms a frog's body and habitat. |
-| **CH11-PIC-024** | **Model Answer**:  
-**Panel 1**: *"I swim in the pond with my long tail and breathe with gills!"*  
-**Panel 2**: *"Look at my new legs and lungs! Soon my tail will be gone and I'll hop on land!"* |
-| **CH11-PIC-025** | **Model Answer**: The cover should feature a bright 4-stage circular lifecycle diagram, a close-up of a tadpole swimming in pond water, a froglet on a lily pad, a green adult frog catching an insect, and bold scientific ICSE typography. |
+### Question 28
+- **Question ID**: CH11-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH11-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH11-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH11-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH11-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH11-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH11-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH11-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH11-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH11-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH11-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH11-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH11-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH11-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH11-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH11-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH11-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH11-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH11-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH11-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH11-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH11-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH11-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
+

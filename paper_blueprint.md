@@ -1,11 +1,5 @@
-# 📄 ICSE Sample Paper Blueprint (paper_blueprint.md)
-> Blueprint for Generating Class IV ICSE English Examination Papers
-
----
-
-# Purpose
-
-This document defines the structure, section-wise marks distribution, and question selection rules for generating balanced Class IV ICSE English sample papers.
+# 📄 CBSE Class 4 English — Examination Paper Blueprint
+> Based on: CBSE Class 4 English Sample Paper Set 1 (Vedantu / CBSE Pattern)
 
 ---
 
@@ -14,71 +8,114 @@ This document defines the structure, section-wise marks distribution, and questi
 | Field | Value |
 |--------|-------|
 | Class | IV |
-| Board | ICSE (CISCE Guidelines) |
+| Board | CBSE (also applicable for ICSE Class IV) |
 | Subject | English (Language & Literature) |
 | Total Marks | 60 Marks |
-| Total Sections | 4 (Section A, Section B, Section C, Section D) |
+| Total Sections | 4 (Section A, B, C, D) |
 | Duration | 2.5 Hours |
+| General Instructions | All questions compulsory; answer in complete sentences where required |
 
 ---
 
-# Section-Wise Marks Breakdown (ICSE Standard)
+# Section-Wise Marks Breakdown
 
-| Section | Name | Marks | Question Formats & Details |
-|----------|------|------:|----------------------------|
-| **Section A** | **Reading Comprehension & Vocabulary** | **16 Marks** | Unseen & Prescribed Prose Extracts. Fact recall, contextual vocabulary, antonyms, homophones, title selection, odd-one-out. |
-| **Section B** | **ICSE Grammar & Transformations** | **16 Marks** | "Do as Directed": Nouns (Collective/Abstract), Degrees of Comparison, Conjunctions (*and/but/because*), Tenses, Articles, Prepositions, Punctuation. |
-| **Section C** | **Guided Composition & Writing Skills** | **12 Marks** | 2 Writing Tasks (6 Marks each). Guided Picture Story / Paragraph Writing with sentence frames, and Descriptive / Letter Writing. |
-| **Section D** | **ICSE Literature & Reference to Context (RTC)** | **16 Marks** | Reference to Context (RTC) extracts from prescribed textbook lessons & poems. Sub-questions on speaker identification, character motives, stanza analysis, HOTS, and moral themes. |
+## Section A — Reading Comprehension (16 Marks)
 
-**Total Paper Marks = 60 Marks**
+| Sub-Q | Passage | Format | Marks |
+|-------|---------|--------|------:|
+| Q1 | **Prescribed Text Extract** (e.g. Alice in Wonderland / chapter story) | 4 MCQs × 2M: factual recall, vocabulary meaning, antonym in context, odd-one-out | 8 |
+| Q2 | **Unseen Narrative Passage** | 4 MCQs × 2M: factual recall, detail/attribute, colour/location, best title selection | 8 |
+| **Total** | | | **16** |
 
----
-
-# Detailed Section Specifications
-
-## Section A – Reading Comprehension & Vocabulary (16 Marks)
-- **Passage 1 (8 Marks)**: Prescribed Prose Extract. 4 MCQs $\times$ 2 Marks = 8 Marks.
-  - Contextual fact recall
-  - Vocabulary meaning in context
-  - Antonym / Synonym in context
-  - Title / Main idea selection
-- **Passage 2 (8 Marks)**: Unseen Narrative Passage. 4 MCQs $\times$ 2 Marks = 8 Marks.
-  - Direct detail recall
-  - Character action / location
-  - Contextual vocabulary / Homophone
-  - Inference / Moral lesson
-
-## Section B – ICSE Grammar & Transformations (16 Marks)
-- **Q3 (8 Marks - 4 $\times$ 2M)**:
-  - (A) Noun identification & classification (Collective / Abstract / Proper)
-  - (B) Degrees of Comparison table (*clever - cleverer - cleverest*)
-  - (C) Sentence joining with conjunctions (*because*, *but*, *and*)
-  - (D) Tense transformation (Simple Present to Simple Past)
-- **Q4 (8 Marks - 4 $\times$ 2M)**:
-  - (A) Fill in prepositions (*in, on, inside, under*)
-  - (B) Fill in articles (*a, an, the*)
-  - (C) Punctuation & Capitalization of direct speech
-  - (D) Antonyms & Synonyms ("Do as Directed")
-
-## Section C – Guided Composition & Writing Skills (12 Marks)
-- **Q5 (6 Marks)**: Guided Picture Story / Paragraph Writing using sentence frames & keyword prompts.
-- **Q6 (6 Marks)**: Guided Letter Writing / Descriptive Writing (*Describe a character or object in 6 sentences*).
-
-## Section D – ICSE Literature & Reference to Context (16 Marks)
-- **Q7 (8 Marks - 2 RTC Extracts $\times$ 4M)**: Reference to Context (RTC)
-  - Extract 1 (Prose RTC): Speaker identification (1M), context (1M), character motive (1M), vocabulary (1M).
-  - Extract 2 (Poem RTC): Rhyming words (1M), stanza intent (1M), literary device (1M), speaker emotion (1M).
-- **Q8 (4 Marks - 2 $\times$ 2M)**: Short Answer Literature Recall
-  - Textual facts, character traits, cause-and-effect questions.
-- **Q9 (4 Marks)**: Long Answer / HOTS & Moral Reasoning
-  - Value-based question, character comparison, or moral lesson evaluation.
+### MCQ Types in Section A (Exact Patterns from Paper):
+- *"While listening to the story, what did Alice see?"* → Factual recall
+- *"What is the meaning of 'scamper'?"* → Vocabulary meaning
+- *"Which word in the passage is opposite of 'early'?"* → Antonym in context
+- *"Choose the odd one out."* → Odd-one-out (verb form / word class)
+- *"The most appropriate title for the passage could be:"* → Best title
 
 ---
 
-# Difficulty Distribution Rules
+## Section B — Writing Skills (12 Marks)
 
-Every generated ICSE sample paper must strictly follow:
-- **Easy**: **35%** (21 Marks)
-- **Medium**: **40%** (24 Marks)
-- **Hard / HOTS**: **25%** (15 Marks)
+| Sub-Q | Type | Format | Marks |
+|-------|------|--------|------:|
+| Q3 | **Guided Paragraph Writing** | Choose one: (A) Myself / (B) My Favourite Fruit — complete 6 sentence frames | 6 |
+| Q4 | **Guided Descriptive Writing** | Choose one: (A) Describe your pencil in 6 sentences with prompts / (B) Write 3 actions that make people happy | 6 |
+| **Total** | | | **12** |
+
+### Writing Task Patterns (Exact from Paper):
+**Q3 Paragraph Frame:**
+```
+My name is ___.
+I am ___ years old.
+I read in ___.
+I love ___.
+My father's name is ___.
+[Free sentence]
+```
+**Q4 Object Description Frame:**
+```
+I have a ___.
+Its colour is ___.
+I use it for ___.
+[3 more prompted sentences]
+```
+
+---
+
+## Section C — Grammar & Language Skills (12 Marks)
+
+| Sub-Q | Task | Format | Marks |
+|-------|------|--------|------:|
+| Q5(A) | **Degrees of Comparison** | Fill the table: Tiny → Tinier → Tiniest (given 1, find 2) | 2 |
+| Q5(B) | **Conjunction Joining** | Join pair of sentences using **but** and rewrite | 2 |
+| Q5(C) | **Missing Letters** | Complete the word: `PL _ _ SE` → PLEASE | 2 |
+| Q6(A) | **Question Word** | Circle the question word in: *"What is your name?"* | 2 |
+| Q6(B) | **Antonym** | Write the opposite of: *Talking* → Silent/Quiet | 2 |
+| Q6(C) | **Synonym** | Write a similar word for: *Listening* → Hearing | 2 |
+| **Total** | | | **12** |
+
+---
+
+## Section D — Textbook-Based Questions (20 Marks)
+
+| Sub-Q | Type | Format | Marks |
+|-------|------|--------|------:|
+| Q7(A-B) | **Picture-Based: Frame Questions** | Make a "How many..." question for given image/scene | 2+2 |
+| Q7(C) | **Spelling Correction** | Rewrite with correct spelling: *"The girls are swiming."* | 2 |
+| Q7(D) | **Handwriting / Recall** | Rewrite sentence in good handwriting twice | 2 |
+| Q8(A) | **Fill Missing Letters** | `SL_ _P` → SLEEP | — |
+| Q8(B) | **Poem-Based Listing** | Write about four places where the poet wants us to run | — |
+| Q9(A) | **General Knowledge / Text** | Name any four games that require running | — |
+| Q9(B) | **Text-Based Recall** | Which creatures wake up before the child? (Name any four) | — |
+| Q8+Q9 | **(Combined)** | | 8 |
+| Q10(A) | **Extract/Stanza: Rhyming words** | Write a pair of rhyming words from the stanza | 1 |
+| Q10(A) | **Poet's Message** | What does the poet want us to do? (complete sentence) | 1 |
+| Q10(B) | **Character Detail Listing** | Write 4 differences/details about character from text | 2 |
+| **Q10 Total** | | | **4** |
+| **Section D Total** | | | **20** |
+
+---
+
+# Difficulty Distribution (Every Sample Paper)
+
+| Level | Marks | Percentage |
+|-------|------:|----------:|
+| Easy (Remember/Understand) | 24 | 40% |
+| Medium (Apply/Understand) | 24 | 40% |
+| Hard / HOTS (Analyze/Evaluate) | 12 | 20% |
+| **Total** | **60** | **100%** |
+
+---
+
+# Question Bank → Sample Paper Mapping
+
+| Question Bank File | → | Exam Question |
+|-------------------|---|---------------|
+| `reading_comprehension.md` | → | Section A Q1 & Q2 |
+| `guided_writing.md` | → | Section B Q3 & Q4 |
+| `grammar_language.md` | → | Section C Q5 & Q6 |
+| `picture_based.md` | → | Section D Q7 |
+| `short_answer.md` | → | Section D Q8 & Q9 |
+| `extract_stanza.md` | → | Section D Q10 |

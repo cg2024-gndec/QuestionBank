@@ -1,375 +1,506 @@
-# Picture & Visual Based Questions - Chapter 10: Boat Races Festival Kerala
+# Picture-Based Questions -- Chapter 10: Boat Races Festival Kerala
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
-
-## Scene 1: Snake Boat Racing on Backwaters
-> **Visual Description**: A dramatic photograph/illustration showing a long, sleek snake boat (*Chundan Vallam*) slicing through the calm backwaters of Alappuzha. Over 100 rowers in matching white uniforms sit in two parallel rows, dipping their wooden oars into the water in unison. In the middle of the boat, several lead singers stand erect, chanting boat songs (*Vanchipattu*). Thousands of cheering spectators line the palm-fringed lake banks.
 
 ### Question 1
-- **Question ID**: CH10-PIC-001
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Boat Name Identification
-- **Marks**: 1
-- **Question**: What is the traditional name of the long, sleek snake boat shown slicing through the water in Scene 1?
-  - (A) Shikara
-  - (B) Chundan Vallam
-  - (C) Houseboat
-  - (D) Kayak
+- **Marks**: 2
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH10-PIC-002
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-002
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Lead Singers Standing
-- **Marks**: 1
-- **Question**: Who are the men standing erect in the middle of the snake boat, and what are they doing?
-  - (A) Foreign tourists taking photos
-  - (B) Lead singers chanting Vanchipattu (boat songs) to set the rowing rhythm
-  - (C) Judges measuring the boat length
-  - (D) Fishermen casting nets
+- **Marks**: 2
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH10-PIC-003
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Visual Synchronization
-- **Marks**: 1
-- **Question**: What visual detail in Scene 1 shows that the 100+ rowers are rowing in perfect synchronization?
-  - (A) Dancers waving flags
-  - (B) All wooden oars are tilted at the exact same angle and striking the water simultaneously
-  - (C) The boat is stationary
-  - (D) Rowers wearing different clothes
-
----
-
-## Scene 2: High Curved Stern (Snake Tail/Hood)
-> **Visual Description**: A close-up visual of the high, majestic rear end (*stern*) of a *Chundan Vallam*. The stern rises over 15 feet above the water line, curving gracefully like the raised hood of a cobra snake, decorated with brass fittings, silk tassels, and flowers.
+- **Question ID**: CH10-PB-003
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH10-PIC-004
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-004
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Snake Hood Shape
-- **Marks**: 1
-- **Question**: Why are these traditional boats of Kerala called "snake boats"?
-  - (A) Because they carry live snakes.
-  - (B) Because their high, curving stern rises high above the water resembling a cobra snake's raised hood.
-  - (C) Because they move on dry land.
-  - (D) Because they are painted green.
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH10-PIC-005
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Stern Steering Function
-- **Marks**: 1
-- **Question**: What functional purpose does the high, curved stern feature serve during a race?
-  - (A) It holds luggage.
-  - (B) Experienced helmsmen stand on the high stern using long oars to steer the fast boat accurately.
-  - (C) It acts as a sail for wind power.
-  - (D) It is for spectators to sit on.
+- **Question ID**: CH10-PB-005
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH10-PIC-006
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Decorative Adornments
-- **Marks**: 1
-- **Question**: What do the brass fittings, silk tassels, and floral garlands decorating the snake boat stern reflect?
-  - (A) Standard modern factory equipment
-  - (B) Pride, reverence, and artistic craftsmanship of Kerala's maritime heritage
-  - (C) Military camouflage
-  - (D) Weight reduction techniques
-
----
-
-## Scene 3: Nehru Trophy Presentation at Alappuzha
-> **Visual Description**: An illustration showing the winning team of rowers holding up a shining silver trophy shaped like a snake boat (*Nehru Trophy*) on a lakeside stage in Alappuzha, surrounded by cheering crowds, palm trees, and national flags.
+- **Question ID**: CH10-PB-006
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH10-PIC-007
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Trophy Name & Location
-- **Marks**: 1
-- **Question**: Which famous annual boat race trophy and location are depicted in this victory scene?
-  - (A) Nehru Trophy Boat Race in Alappuzha
-  - (B) Gandhi Cup in Kochi
-  - (C) Kerala Shield in Kollam
-  - (D) National Games in Delhi
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH10-PIC-008
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-008
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Prime Minister Association
-- **Marks**: 1
-- **Question**: Which Prime Minister of India visited Alappuzha in 1952 and donated the silver trophy featured in Scene 3?
-  - (A) Mahatma Gandhi
-  - (B) Jawaharlal Nehru
-  - (C) Lal Bahadur Shastri
-  - (D) Indira Gandhi
+- **Marks**: 2
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH10-PIC-009
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Emotion of Victory
-- **Marks**: 1
-- **Question**: What emotion is reflected on the faces of the winning rowers in Scene 3?
-  - (A) Boredom
-  - (B) Immense pride, joy, and triumph born of months of grueling team training and synchronized effort
-  - (C) Anger at judges
-  - (D) Physical weakness
-
----
-
-## Scene 4: Boatbuilding Craftsmanship (Single Tree Log)
-> **Visual Description**: A workshop illustration of traditional master craftsmen (*Thachans*) in Kerala using hand tools (chiseled axes, wooden mallets) to hollow and shape a massive 100-foot single log of teak wood into a sleek *Chundan Vallam* hull.
+- **Question ID**: CH10-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH10-PIC-010
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Craftsmanship Material
-- **Marks**: 1
-- **Question**: What raw material are the craftsmen in Scene 4 using to carve the snake boat hull?
-  - (A) Plywood sheets
-  - (B) A single massive tree log (teak / anjili)
-  - (C) Recycled plastic
-  - (D) Aluminum sheets
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH10-PIC-011
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Traditional Tools
-- **Marks**: 1
-- **Question**: What kind of tools are the master boatbuilders using in this illustration?
-  - (A) Computerized robotic cutters
-  - (B) Traditional hand tools like chisels, axes, and mallets
-  - (C) Electric laser welders
-  - (D) 3D printers
+- **Question ID**: CH10-PB-011
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH10-PIC-012
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Single Log Skill
-- **Marks**: 1
-- **Question**: Why is building a 100-foot boat from a single tree trunk without joints considered a "marvel of craftsmanship"?
-  - (A) Because single logs are easy to find.
-  - (B) Carving a perfectly balanced, hydrodynamic vessel from one log requires extraordinary hand precision, timber knowledge, and structural skill.
-  - (C) Because it requires no measuring.
-  - (D) Because it takes only 5 minutes.
-
----
-
-## Additional Visual & Observation Questions (13 to 20)
+- **Question ID**: CH10-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH10-PIC-013
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Image Captioning
-- **Marks**: 1
-- **Question**: Which caption best fits Scene 1 (100+ rowers in a snake boat on backwaters)?
-  - (A) A Peaceful Fishing Trip
-  - (B) Thunder on the Backwaters: 100 Rowers in Perfect Sync at Vallam Kali
-  - (C) Cargo Transport in Kerala
-  - (D) Swimming Lessons in Lake
+- **Question ID**: CH10-PB-013
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH10-PIC-014
-- **Type**: Picture Based
+- **Question ID**: CH10-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Kerala Map Clue
-- **Marks**: 1
-- **Question**: A map highlights the narrow, palm-fringed coastal state of **Kerala** in southern India. What geographical feature of this state makes it perfect for snake boat races?
-  - (A) High snowy mountains
-  - (B) Vast calm backwaters, lakes, and rivers
-  - (C) Sand dunes
-  - (D) Dry plateaus
+- **Marks**: 2
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH10-PIC-015
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Chronological Sequence of Scenes
-- **Marks**: 1
-- **Question**: Arrange these 4 visual stages of Vallam Kali in logical chronological order:  
-*(1) Nehru Trophy presentation in Alappuzha; (2) Master craftsmen carving boat from a single tree; (3) Rowers wearing matching uniforms and chanting Vanchipattu; (4) High-speed snake boat race on backwaters.*
-  - (A) (2) -> (3) -> (4) -> (1)
-  - (B) (1) -> (4) -> (3) -> (2)
-  - (C) (4) -> (3) -> (2) -> (1)
-  - (D) (3) -> (2) -> (1) -> (4)
+- **Question ID**: CH10-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH10-PIC-016
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Crowd Spectators Visual
-- **Marks**: 1
-- **Question**: An illustration shows houseboats, wooden pavilions, and palm trees packed with thousands of local and foreign spectators holding cameras. What does this depict?
-  - (A) A private village meeting
-  - (B) The immense popularity of Vallam Kali as a major cultural tourism event
-  - (C) A political election rally
-  - (D) A school examination
+- **Question ID**: CH10-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH10-PIC-017
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Vanchipattu Singer Gesture Visual
-- **Marks**: 1
-- **Question**: An illustration shows a lead singer standing on the boat waving a white cloth while singing into the air. What signal is he sending to rowers?
-  - (A) "Stop rowing immediately."
-  - (B) He marks the tempo and pace of the rowing stroke, signaling rowers to speed up during the final stretch.
-  - (C) "I am tired."
-  - (D) He is waving goodbye to spectators.
+- **Question ID**: CH10-PB-017
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH10-PIC-018
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Uniform Matching Visual
-- **Marks**: 1
-- **Question**: In an illustration, 100 rowers wear identical white shirts and white headbands (*thalakkettu*). What visual effect does this matching uniform create?
-  - (A) It makes the boat look empty.
-  - (B) It creates a striking visual of team unity, order, and discipline as oars move together.
-  - (C) It makes rowers invisible.
-  - (D) It has no effect.
+- **Question ID**: CH10-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH10-PIC-019
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Water Splash Symmetry
-- **Marks**: 1
-- **Question**: A high-speed photograph captures symmetrical spray of water droplets rising behind every single oar at the exact same moment. What physics concept of rowing does this image illustrate?
-  - (A) Random chaotic movement
-  - (B) Perfect mechanical synchronization and equal force applied by all rowers simultaneously
-  - (C) Water leakage in boat
-  - (D) Wind turbulence
+- **Question ID**: CH10-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH10-PIC-020
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Question Framing Prompt
-- **Marks**: 1
-- **Question**: Look at Scene 3 (Nehru Trophy presentation). Frame a question using the prompt *"Where is the Nehru Trophy..."*.
-  - (A) Where is the Nehru Trophy Boat Race held annually?
-  - (B) What is the name of the tree?
-  - (C) How many oars are in a boat?
-  - (D) What color is the water?
-
----
-
-## Short Visual Description Tasks (21 to 25)
+- **Question ID**: CH10-PB-020
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH10-PIC-021
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Visual Scene Description
+- **Question ID**: CH10-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write a 2-sentence description of an illustration showing a long snake boat with 100 rowers in white uniforms slicing through Alappuzha backwaters.
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH10-PIC-022
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Sports Event Poster Design
+- **Question ID**: CH10-PB-022
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: If you were designing a poster titled "Vallam Kali: Kerala's Snake Boat Race", list four key visual elements you would draw on your poster.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH10-PIC-023
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Contrast - Single Tree vs 100 Rowers
+- **Question ID**: CH10-PB-023
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Explain why illustrating a raw wooden tree log alongside a magnificent finished 100-rower snake boat creates a powerful visual message of Indian craftsmanship.
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH10-PIC-024
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Comic Strip Dialogue
+- **Question ID**: CH10-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write speech bubbles for a 2-panel comic strip:  
-(Panel 1) Lead singer standing in boat: *"Listen to the Vanchipattu! Rowers, dip your oars in 3... 2... 1!"*  
-(Panel 2) Rowers pulling together: *"In perfect sync! We slice the backwaters of Alappuzha to victory!"*
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH10-PIC-025
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Cover Art Analysis
+- **Question ID**: CH10-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: What key visual elements should be featured on the cover page of *"Chapter 10: Boat Races Festival Kerala"* to make it heroic, vibrant, and culturally inspiring for ICSE Class IV students?
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH10-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
 
-## Answer Key & Solutions
+### Question 27
+- **Question ID**: CH10-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
 
-| Question ID | Correct Option / Answer | Explanation / Model Answer |
-|-------------|:-----------------------:|----------------------------|
-| **CH10-PIC-001** | **(B)** | Chundan Vallam (Snake Boat). |
-| **CH10-PIC-002** | **(B)** | Lead singers chanting Vanchipattu to set rowing rhythm. |
-| **CH10-PIC-003** | **(B)** | All wooden oars tilted at exact same angle and striking water simultaneously. |
-| **CH10-PIC-004** | **(B)** | High, curving stern resembles a cobra snake's raised hood. |
-| **CH10-PIC-005** | **(B)** | Helmsmen stand on high stern using long oars to steer. |
-| **CH10-PIC-006** | **(B)** | Pride, reverence, and craftsmanship of Kerala's maritime heritage. |
-| **CH10-PIC-007** | **(A)** | Nehru Trophy Boat Race in Alappuzha. |
-| **CH10-PIC-008** | **(B)** | Jawaharlal Nehru (visited in 1952). |
-| **CH10-PIC-009** | **(B)** | Immense pride, joy, and triumph born of team effort. |
-| **CH10-PIC-010** | **(B)** | A single massive tree log (teak / anjili). |
-| **CH10-PIC-011** | **(B)** | Traditional hand tools like chisels, axes, and mallets. |
-| **CH10-PIC-012** | **(B)** | Carving a 100-foot balanced vessel without joints from one log requires extraordinary skill. |
-| **CH10-PIC-013** | **(B)** | Thunder on the Backwaters: 100 Rowers in Perfect Sync at Vallam Kali. |
-| **CH10-PIC-014** | **(B)** | Vast calm backwaters, lakes, and rivers. |
-| **CH10-PIC-015** | **(A)** | (2) Boat carved -> (3) Rowers assemble in uniform -> (4) Race -> (1) Trophy presentation. |
-| **CH10-PIC-016** | **(B)** | Immense popularity of Vallam Kali as a cultural tourism event. |
-| **CH10-PIC-017** | **(B)** | Marks tempo and pace of rowing stroke, signaling rowers to speed up. |
-| **CH10-PIC-018** | **(B)** | Creates striking visual of team unity, order, and discipline. |
-| **CH10-PIC-019** | **(B)** | Perfect mechanical synchronization and equal force applied simultaneously. |
-| **CH10-PIC-020** | **(A)** | "Where is the Nehru Trophy Boat Race held annually?" |
-| **CH10-PIC-021** | **Model Answer**: Over 100 rowers in matching white uniforms dip their wooden oars in perfect unison as their sleek snake boat cuts through Alappuzha backwaters. Standing in the middle, lead singers chant *Vanchipattu* to guide the team toward the finish line. |
-| **CH10-PIC-022** | **Model Answer**:  
-1. A long *Chundan Vallam* snake boat with a high curving cobra-like stern.  
-2. 100 rowers in white uniforms with oars dipping in sync.  
-3. Lead singers standing in the boat chanting *Vanchipattu*.  
-4. The silver Nehru Trophy with backwater palm trees in Alappuzha. |
-| **CH10-PIC-023** | **Model Answer**: Showing a raw, unshaped tree log next to a 100-foot sleek, balanced snake boat visually highlights the incredible patience, skill, and traditional engineering of Kerala's master carpenters (*Thachans*). |
-| **CH10-PIC-024** | **Model Answer**:  
-**Panel 1**: *"Listen to the Vanchipattu! Rowers, dip your oars in 3... 2... 1!"*  
-**Panel 2**: *"In perfect sync! We slice the backwaters of Alappuzha to victory!"* |
-| **CH10-PIC-025** | **Model Answer**: The cover should feature a magnificent *Chundan Vallam* snake boat with 100 synchronized rowers, the high curved stern decorated with flowers, palm trees along Alappuzha backwaters, the silver Nehru Trophy, and bold aquatic ICSE typography. |
+### Question 28
+- **Question ID**: CH10-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH10-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH10-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH10-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH10-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH10-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH10-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH10-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH10-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH10-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH10-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH10-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH10-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH10-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH10-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH10-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH10-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH10-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH10-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH10-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH10-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH10-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH10-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
+

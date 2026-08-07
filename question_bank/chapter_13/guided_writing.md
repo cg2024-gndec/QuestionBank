@@ -1,0 +1,1056 @@
+# Guided Writing -- Chapter 13: Spring
+
+> **Format**: 6-sentence guided paragraph/description frames. 50 tasks.
+
+---
+
+### Question 1
+- **Question ID**: CH13-GW-001
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: My Favourite Season — Spring
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring is my favourite ___.
+  - Flowers bloom in colours like ___.
+  - The weather becomes ___.
+  - Birds sing and bees ___.
+  - I love to play in ___.
+  - Spring makes everyone feel ___.
+- **Model Answer**:
+  - Spring is my favourite season.
+  - Flowers bloom in colours like pink, red, and yellow.
+  - The weather becomes pleasant and warm.
+  - Birds sing and bees buzz around flowers.
+  - I love to play in the green meadows.
+  - Spring makes everyone feel cheerful and energetic.
+
+### Question 2
+- **Question ID**: CH13-GW-002
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 2 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 3
+- **Question ID**: CH13-GW-003
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 3 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 4
+- **Question ID**: CH13-GW-004
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 4 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 5
+- **Question ID**: CH13-GW-005
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 5 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 6
+- **Question ID**: CH13-GW-006
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 6 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 7
+- **Question ID**: CH13-GW-007
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 7 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 8
+- **Question ID**: CH13-GW-008
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 8 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 9
+- **Question ID**: CH13-GW-009
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 9 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 10
+- **Question ID**: CH13-GW-010
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 10 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 11
+- **Question ID**: CH13-GW-011
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 11 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 12
+- **Question ID**: CH13-GW-012
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 12 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 13
+- **Question ID**: CH13-GW-013
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 13 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 14
+- **Question ID**: CH13-GW-014
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 14 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 15
+- **Question ID**: CH13-GW-015
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 15 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 16
+- **Question ID**: CH13-GW-016
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 16 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 17
+- **Question ID**: CH13-GW-017
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 17 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 18
+- **Question ID**: CH13-GW-018
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 18 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 19
+- **Question ID**: CH13-GW-019
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 19 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 20
+- **Question ID**: CH13-GW-020
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 20 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 21
+- **Question ID**: CH13-GW-021
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 21 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 22
+- **Question ID**: CH13-GW-022
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 22 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 23
+- **Question ID**: CH13-GW-023
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 23 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 24
+- **Question ID**: CH13-GW-024
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 24 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 25
+- **Question ID**: CH13-GW-025
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 25 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 26
+- **Question ID**: CH13-GW-026
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 26 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 27
+- **Question ID**: CH13-GW-027
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 27 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 28
+- **Question ID**: CH13-GW-028
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 28 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 29
+- **Question ID**: CH13-GW-029
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 29 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 30
+- **Question ID**: CH13-GW-030
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 30 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 31
+- **Question ID**: CH13-GW-031
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 31 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 32
+- **Question ID**: CH13-GW-032
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 32 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 33
+- **Question ID**: CH13-GW-033
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 33 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 34
+- **Question ID**: CH13-GW-034
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 34 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 35
+- **Question ID**: CH13-GW-035
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 35 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 36
+- **Question ID**: CH13-GW-036
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 36 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 37
+- **Question ID**: CH13-GW-037
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 37 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 38
+- **Question ID**: CH13-GW-038
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 38 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 39
+- **Question ID**: CH13-GW-039
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 39 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 40
+- **Question ID**: CH13-GW-040
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 40 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 41
+- **Question ID**: CH13-GW-041
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 41 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 42
+- **Question ID**: CH13-GW-042
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 42 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 43
+- **Question ID**: CH13-GW-043
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 43 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 44
+- **Question ID**: CH13-GW-044
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 44 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 45
+- **Question ID**: CH13-GW-045
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 45 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 46
+- **Question ID**: CH13-GW-046
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 46 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 47
+- **Question ID**: CH13-GW-047
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 47 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 48
+- **Question ID**: CH13-GW-048
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 48 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 49
+- **Question ID**: CH13-GW-049
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 49 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+
+### Question 50
+- **Question ID**: CH13-GW-050
+- **Type**: GW
+- **Difficulty**: Medium
+- **Marks**: 6
+- **Topic**: Guided Task 50 on Spring / Nature
+- **Question**: Complete the paragraph using the sentence frames:
+  - Spring brings new ___.
+  - Trees get fresh green ___.
+  - Animals come out to ___.
+  - The sun shines ___.
+  - I like to go for ___.
+  - Spring is a season of ___.
+- **Model Answer**:
+  - Spring brings new life and energy.
+  - Trees get fresh green leaves.
+  - Animals come out to play in the sunshine.
+  - The sun shines brightly in the sky.
+  - I like to go for picnics with my family.
+  - Spring is a season of joy and beauty.
+

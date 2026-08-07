@@ -1,375 +1,506 @@
-# Picture & Visual Based Questions - Chapter 06: Swar Kokila : Lata Mangeshkar
+# Picture-Based Questions -- Chapter 06: Swar Kokila: Lata Mangeshkar
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
-
-## Scene 1: Portrait of Swar Kokila Lata Mangeshkar
-> **Visual Description**: A revered portrait of Lata Mangeshkar in a simple white saree with a red bindi on her forehead, smiling gently. A golden medal of the *Bharat Ratna* (leaf-shaped emblem) is illuminated beside her portrait with musical notes floating around.
 
 ### Question 1
-- **Question ID**: CH06-PIC-001
-- **Type**: Picture Based
+- **Question ID**: CH06-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Icon Identification
-- **Marks**: 1
-- **Question**: Which legendary Indian playback singer from Chapter 06 is featured in this portrait?
-  - (A) Asha Bhosle
-  - (B) Lata Mangeshkar
-  - (C) M.S. Subbulakshmi
-  - (D) Sunidhi Chauhan
+- **Marks**: 2
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH06-PIC-002
-- **Type**: Picture Based
+- **Question ID**: CH06-PB-002
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Award Identification
-- **Marks**: 1
-- **Question**: Which highest civilian award medal, conferred in 2001, is shown beside her portrait?
-  - (A) Padma Shri
-  - (B) Bharat Ratna
-  - (C) Padma Vibhushan
-  - (D) Khel Ratna
+- **Marks**: 2
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH06-PIC-003
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Cultural Attire & Simplicity
-- **Marks**: 1
-- **Question**: What personality trait is reflected in her signature simple white saree attire shown in the portrait?
-  - (A) Wealth and showmanship
-  - (B) Simplicity, humility, and complete devotion to art
-  - (C) Preference for modern fashion
-  - (D) Pride
-
----
-
-## Scene 2: Young Lata in Classical Recording Studio (1940s)
-> **Visual Description**: A vintage black-and-white photograph of a 13-year-old girl standing before a tall vintage microphone on a stand in a 1940s recording studio. An orchestra of classical musicians (tabla, harmonium, tanpura, violins) sits behind her while she holds paper lyrics in hand.
+- **Question ID**: CH06-PB-003
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH06-PIC-004
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Historical Timeline Visual
-- **Marks**: 1
-- **Question**: Which phase of Lata Mangeshkar's life is depicted in this 1940s studio photograph?
-  - (A) Her performance in 2001 after winning Bharat Ratna
-  - (B) Her early struggle as a 13-year-old playback singer recording her first songs in 1942–1943
-  - (C) Her retirement speech in 2022
-  - (D) A school acting competition
+- **Question ID**: CH06-PB-004
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH06-PIC-005
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Instrument Identification
-- **Marks**: 1
-- **Question**: Which traditional Indian musical instruments are visible in the background accompanying her?
-  - (A) Electric guitar and synthesizer keyboard
-  - (B) Tabla, harmonium, and tanpura
-  - (C) Drums and saxophone
-  - (D) Piano and harp
+- **Question ID**: CH06-PB-005
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH06-PIC-006
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Professional Context
-- **Marks**: 1
-- **Question**: Why was young 13-year-old Lata recording songs in film studios in 1942–1943?
-  - (A) For fun
-  - (B) To earn money as the family's sole breadwinner after her father passed away
-  - (C) As part of a school picnic
-  - (D) To win a television contest
-
----
-
-## Scene 3: Pandit Deenanath Mangeshkar & Theatre Stage (1930s)
-> **Visual Description**: An old theatrical poster showing Pandit Deenanath Mangeshkar performing classical music on a brightly decorated stage. Beside him, a 5-year-old child (young Lata) is dressed in traditional costume for a musical play.
+- **Question ID**: CH06-PB-006
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH06-PIC-007
-- **Type**: Picture Based
+- **Question ID**: CH06-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Father & First Teacher
-- **Marks**: 1
-- **Question**: Who is the classical singer and theatre director shown performing with young Lata in this poster?
-  - (A) Pandit Ravi Shankar
-  - (B) Pandit Deenanath Mangeshkar (her father)
-  - (C) Ustad Bismillah Khan
-  - (D) Master Vinayak
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH06-PIC-008
-- **Type**: Picture Based
+- **Question ID**: CH06-PB-008
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Acting Age Clue
-- **Marks**: 1
-- **Question**: At what age did Lata start acting in musical plays produced by her father's company?
-  - (A) Age 5
-  - (B) Age 10
-  - (C) Age 15
-  - (D) Age 20
+- **Marks**: 2
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH06-PIC-009
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Early Foundation
-- **Marks**: 1
-- **Question**: How did early exposure to stage plays and classical training under her father shape Lata's talent?
-  - (A) It made her afraid of audiences.
-  - (B) It gave her pitch precision, stage confidence, and a strong classical foundation from early childhood.
-  - (C) It made her dislike music.
-  - (D) It made her a painter.
-
----
-
-## Scene 4: Guinness World Record Certificate & Musical Legacy
-> **Visual Description**: An illustration of an official *Guinness World Records* certificate framed alongside a golden gramophone trophy. Text on the certificate reads: *"Most Recorded Artist in History - Over 50,000 Songs in Numerous Languages."*
+- **Question ID**: CH06-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH06-PIC-010
-- **Type**: Picture Based
+- **Question ID**: CH06-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: World Record Identification
-- **Marks**: 1
-- **Question**: Which global achievement from Page 27 is represented in this framed certificate illustration?
-  - (A) Guinness World Record for singing the most songs in the world
-  - (B) Guinness Record for world's fastest sprinter
-  - (C) Guinness Record for longest film
-  - (D) Guinness Record for highest jump
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH06-PIC-011
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Song Volume Detail
-- **Marks**: 1
-- **Question**: What number of recorded songs is specified on the certificate for Lata Mangeshkar?
-  - (A) Over 5,000 songs
-  - (B) Over 50,000 songs
-  - (C) 1,000 songs
-  - (D) 100,000,000 songs
+- **Question ID**: CH06-PB-011
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH06-PIC-012
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Title 'Swar Kokila' Connection
-- **Marks**: 1
-- **Question**: Why is a cuckoo bird emblem (*Kokila*) engraved at the top of the musical award frame?
-  - (A) Because it is a bird sanctuary award.
-  - (B) Because she was given the national title *Swar Kokila* (Nightingale of Melody) for her melodious voice.
-  - (C) Because cuckoos fly fast.
-  - (D) By accident.
-
----
-
-## Additional Visual & Observation Questions (13 to 20)
+- **Question ID**: CH06-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH06-PIC-013
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Image Captioning
-- **Marks**: 1
-- **Question**: Which caption best fits Scene 1 (Portrait of Lata Mangeshkar with Bharat Ratna)?
-  - (A) The Young Acting Prodigy in 1934
-  - (B) Swar Kokila Lata Mangeshkar: Bharat Ratna Recipient & Global Music Icon
-  - (C) The Theatre Rehearsal in Indore
-  - (D) Recording Studio Equipment
+- **Question ID**: CH06-PB-013
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH06-PIC-014
-- **Type**: Picture Based
+- **Question ID**: CH06-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: State Map Identification
-- **Marks**: 1
-- **Question**: A map of India highlights the city of **Indore** in Madhya Pradesh with a musical star. What event occurred there on 28th September 1929?
-  - (A) Lata Mangeshkar's birth
-  - (B) Her last concert
-  - (C) Her Bharat Ratna award ceremony
-  - (D) The invention of the radio
+- **Marks**: 2
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH06-PIC-015
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Chronological Ordering of Images
-- **Marks**: 1
-- **Question**: Place these 4 biographical images in chronological order:  
-*(1) Receiving the Bharat Ratna in 2001; (2) 5-year-old Lata acting on theatre stage; (3) 13-year-old Lata recording her first Hindi song in 1943; (4) Birthplace in Indore 1929.*
-  - (A) (4) -> (2) -> (3) -> (1)
-  - (B) (1) -> (2) -> (3) -> (4)
-  - (C) (3) -> (4) -> (2) -> (1)
-  - (D) (2) -> (4) -> (1) -> (3)
+- **Question ID**: CH06-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH06-PIC-016
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Visual Contrast - Hardship to Fame
-- **Marks**: 1
-- **Question**: What narrative arc is visually depicted between Scene 2 (struggling 13-year-old child breadwinner in 1942) and Scene 1 (Bharat Ratna legend)?
-  - (A) How luck replaces practice.
-  - (B) How early tragedy, relentless hard work, and devotion transformed a struggling child into an internationally revered icon.
-  - (C) How theatre is better than cinema.
-  - (D) How awards change people.
+- **Question ID**: CH06-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH06-PIC-017
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Poster Design - Values
-- **Marks**: 1
-- **Question**: A school bulletin board displays a photo of Lata Mangeshkar bowing humbly to her music teacher. What value does this visual emphasize?
-  - (A) Wealth
-  - (B) Humility and lifelong respect for gurus (*Reverence*)
-  - (C) Acting skill
-  - (D) Speed
+- **Question ID**: CH06-PB-017
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH06-PIC-018
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Multilingual Visual Map
-- **Marks**: 1
-- **Question**: A poster shows a map of India with song titles written in Hindi, Marathi, Bengali, Tamil, and Gujarati pointing to Lata's portrait. What aspect of her career does this illustrate?
-  - (A) She only sang in Mumbai.
-  - (B) She sang over 50,000 songs across numerous Indian languages, uniting the entire nation.
-  - (C) She taught geography.
-  - (D) She wrote language textbooks.
+- **Question ID**: CH06-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH06-PIC-019
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Eternity Symbolism
-- **Marks**: 1
-- **Question**: An illustration shows a glowing golden harp with the inscription: *"1929 - 2022: Her Songs Stay Till Eternity"*. What main lesson does this communicate?
-  - (A) Songs expire after 10 years.
-  - (B) Great music and noble character outlive physical death, inspiring generations forever.
-  - (C) Harps are made of gold.
-  - (D) Singing is a short career.
+- **Question ID**: CH06-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH06-PIC-020
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Question Framing Prompt
-- **Marks**: 1
-- **Question**: Look at Scene 2 (1940s studio recording). Frame a question using the prompt *"How many..."*.
-  - (A) How many classical musicians are seated in the background accompanying young Lata?
-  - (B) Why is the microphone tall?
-  - (C) What is the city name?
-  - (D) Who invented the violin?
-
----
-
-## Short Visual Description Tasks (21 to 25)
+- **Question ID**: CH06-PB-020
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH06-PIC-021
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Visual Scene Description
+- **Question ID**: CH06-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write a 2-sentence description of an illustration showing young 13-year-old Lata Mangeshkar singing into a studio microphone in 1942 to support her family.
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH06-PIC-022
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Diagram Labeling
+- **Question ID**: CH06-PB-022
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: If you were creating an educational poster titled "Lata Mangeshkar: Life Milestones", list four key dates and labels you would draw on a timeline from 1929 to 2022.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH06-PIC-023
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Symbolism
+- **Question ID**: CH06-PB-023
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Explain why incorporating a cuckoo bird (*Kokila*) and a leaf-shaped *Bharat Ratna* medal around Lata Mangeshkar's portrait symbolically represents her career.
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH06-PIC-024
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Comic Strip Dialogue
+- **Question ID**: CH06-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write speech bubbles for a 2-panel comic strip:  
-(Panel 1) 13-year-old Lata entering the studio: *"I must sing with all my heart to care for my family!"*  
-(Panel 2) Legend Lata receiving the Bharat Ratna: *"Music is my life's worship; I remain a humble student."*
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH06-PIC-025
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Cover Art Analysis
+- **Question ID**: CH06-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: What key visual elements should be featured on the cover page of *"Chapter 06: Swar Kokila : Lata Mangeshkar"* to make it inspiring and culturally rich for ICSE Class IV students?
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH06-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
 
-## Answer Key & Solutions
+### Question 27
+- **Question ID**: CH06-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
 
-| Question ID | Correct Option / Answer | Explanation / Model Answer |
-|-------------|:-----------------------:|----------------------------|
-| **CH06-PIC-001** | **(B)** | Lata Mangeshkar. |
-| **CH06-PIC-002** | **(B)** | Bharat Ratna (highest civilian award conferred in 2001). |
-| **CH06-PIC-003** | **(B)** | Simple white saree reflects her lifelong humility and devotion to music. |
-| **CH06-PIC-004** | **(B)** | Early struggle as a 13-year-old playback singer in 1942–1943. |
-| **CH06-PIC-005** | **(B)** | Tabla, harmonium, and tanpura. |
-| **CH06-PIC-006** | **(B)** | Sole breadwinner earning money for her mother and 4 siblings after her father died. |
-| **CH06-PIC-007** | **(B)** | Pandit Deenanath Mangeshkar (her father and first teacher). |
-| **CH06-PIC-008** | **(A)** | Started acting at age 5 in musical plays. |
-| **CH06-PIC-009** | **(B)** | Built pitch precision, stage confidence, and a classical foundation early. |
-| **CH06-PIC-010** | **(A)** | Guinness World Record for singing the most songs in the world. |
-| **CH06-PIC-011** | **(B)** | Over 50,000 songs. |
-| **CH06-PIC-012** | **(B)** | Cuckoo bird (*Kokila*) represents her national title *Swar Kokila*. |
-| **CH06-PIC-013** | **(B)** | Swar Kokila Lata Mangeshkar: Bharat Ratna Recipient & Global Music Icon. |
-| **CH06-PIC-014** | **(A)** | Lata Mangeshkar's birth in Indore on 28th September 1929. |
-| **CH06-PIC-015** | **(A)** | (4) Birth 1929 -> (2) Acting at age 5 -> (3) First Hindi song 1943 -> (1) Bharat Ratna 2001. |
-| **CH06-PIC-016** | **(B)** | Demonstrates how early tragedy and hard work transformed a child into a legend. |
-| **CH06-PIC-017** | **(B)** | Humility and lifelong respect for gurus (*Reverence*). |
-| **CH06-PIC-018** | **(B)** | Sang 50,000+ songs across numerous Indian languages, uniting the nation. |
-| **CH06-PIC-019** | **(B)** | Great music and noble character outlive physical death, inspiring forever. |
-| **CH06-PIC-020** | **(A)** | "How many classical musicians are seated in the background accompanying young Lata?" |
-| **CH06-PIC-021** | **Model Answer**: A courageous 13-year-old Lata stands before a studio microphone in 1942, holding paper lyrics. Classical musicians accompany her as she sings with total devotion to earn money for her mother and siblings. |
-| **CH06-PIC-022** | **Model Answer**:  
-1. **1929**: Birth in Indore, MP  
-2. **1942**: First Song Recorded / Breadwinner at age 13  
-3. **2001**: Conferred Bharat Ratna & Titled *Swar Kokila*  
-4. **2022**: Passing away; Songs Stay Till Eternity |
-| **CH06-PIC-023** | **Model Answer**: The cuckoo bird (*Kokila*) represents her title as India's sweetest voice, while the *Bharat Ratna* leaf emblem symbolizes the nation's highest recognition for her 7 decades of musical service. |
-| **CH06-PIC-024** | **Model Answer**:  
-**Panel 1 (Age 13)**: *"I must sing with all my heart to care for my family!"*  
-**Panel 2 (Legend)**: *"Music is my life's worship; I remain a humble student."* |
-| **CH06-PIC-025** | **Model Answer**: The cover should feature a portrait of Lata Mangeshkar in her simple white saree, musical notes, the Bharat Ratna medal illustration, a timeline from 1929 to 2022, and the title *"Swar Kokila : Lata Mangeshkar"* in elegant gold ICSE typography. |
+### Question 28
+- **Question ID**: CH06-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH06-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH06-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH06-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH06-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH06-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH06-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH06-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH06-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH06-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH06-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH06-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH06-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH06-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH06-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH06-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH06-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH06-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH06-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH06-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH06-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH06-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH06-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
+

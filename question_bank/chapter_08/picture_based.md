@@ -1,375 +1,506 @@
-# Picture & Visual Based Questions - Chapter 08: Bhagat Singh
+# Picture-Based Questions -- Chapter 08: Bhagat Singh
+
+> **Format**: Frame 'How many' questions, describe scenes, observe details, correct spelling. 50 questions.
 
 ---
-
-## Scene 1: Iconic Portrait of Shaheed Bhagat Singh
-> **Visual Description**: A revered portrait illustration of young Bhagat Singh wearing his famous felt hat and mustache, gazing forward with intense determination. Behind him, the Indian tricolor flag shines softly with the slogan *"Inquilab Zindabad"* (Long Live the Revolution) inscribed in bold letters.
 
 ### Question 1
-- **Question ID**: CH08-PIC-001
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-001
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Hero Identification
-- **Marks**: 1
-- **Question**: Which legendary Indian freedom fighter and martyr is featured wearing his famous felt hat in this portrait?
-  - (A) Subhas Chandra Bose
-  - (B) Shaheed Bhagat Singh
-  - (C) Chandrashekhar Azad
-  - (D) Bal Gangadhar Tilak
+- **Marks**: 2
+- **Scene**: A scene showing characters from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing a key scene from the chapter. Frame a question using 'How many':
+- **Answer Key**: How many characters / objects can you see in the picture?
 
 ### Question 2
-- **Question ID**: CH08-PIC-002
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-002
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Famous Slogan Inscribed
-- **Marks**: 1
-- **Question**: What famous revolutionary slogan popularized by Bhagat Singh is inscribed behind his portrait?
-  - (A) "Jai Hind"
-  - (B) "Inquilab Zindabad" (Long Live the Revolution)
-  - (C) "Do or Die"
-  - (D) "Swaraj is my birthright"
+- **Marks**: 2
+- **Scene**: An important event from the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of an important event in this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people / animals / things are involved in this event?
 
 ### Question 3
-- **Question ID**: CH08-PIC-003
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Symbolism of Expression
-- **Marks**: 1
-- **Question**: What personality qualities are reflected in Bhagat Singh's calm and determined eyes in this iconic portrait?
-  - (A) Fear of British authorities
-  - (B) Unshakeable moral conviction, fearless courage, and supreme patriotic devotion
-  - (C) Desire for personal wealth
-  - (D) Pride and arrogance
-
----
-
-## Scene 2: 12-Year-Old Bhagat Singh at Jallianwala Bagh (1919)
-> **Visual Description**: A dramatic historical illustration of 12-year-old Bhagat Singh standing amidst the bullet-pitted walls of Jallianwala Bagh in Amritsar (1919). He holds up a glass bottle filled with red-tinted soil, looking at it with a tearful yet resolute expression.
+- **Question ID**: CH08-PB-003
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main character of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what you see in the picture of the main character:
+- **Answer Key**: The main character looks ___ and is ___. They are involved in an important part of the story.
 
 ### Question 4
-- **Question ID**: CH08-PIC-004
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-004
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Historical Location Identification
-- **Marks**: 1
-- **Question**: Which tragic historical site of the 1919 massacre is depicted in this scene?
-  - (A) Red Fort, Delhi
-  - (B) Jallianwala Bagh, Amritsar
-  - (C) Sabarmati Ashram, Gujarat
-  - (D) Cellular Jail, Andaman
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The storey was very intressting and edducational.'
+- **Answer Key**: The **story** was very **interesting** and **educational**.
 
 ### Question 5
-- **Question ID**: CH08-PIC-005
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Soil Bottle Artifact
-- **Marks**: 1
-- **Question**: What object is 12-year-old Bhagat Singh holding in his hands, and why did he bring it home?
-  - (A) A toy gun
-  - (B) A glass bottle of soil soaked with victims' blood, kept as a permanent reminder of British cruelty
-  - (C) A foreign textbook
-  - (D) A sports trophy
+- **Question ID**: CH08-PB-005
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects from the chapter in a display
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing objects from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many objects related to this chapter can you count in the picture?
 
 ### Question 6
-- **Question ID**: CH08-PIC-006
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Life Turning Point
-- **Marks**: 1
-- **Question**: How did this 1919 event visually represented in Scene 2 alter the entire course of Bhagat Singh's life?
-  - (A) It made him move to another country.
-  - (B) It transformed a 12-year-old schoolboy into a dedicated freedom fighter committed to driving the British out of India.
-  - (C) It made him open a business.
-  - (D) It made him dislike school books.
-
----
-
-## Scene 3: Burning Foreign Cloth & Promoting Swadeshi Khadi
-> **Visual Description**: An illustration showing young freedom fighters in 1920s Punjab throwing foreign-made coats and suits into a bonfire. In the foreground, Bhagat Singh stands proudly wearing a simple hand-spun white *khadi* kurta.
+- **Question ID**: CH08-PB-006
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Setting of the story
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the setting/place shown in the picture:
+- **Answer Key**: The setting looks ___ and ___. It is an important place in the story of this chapter.
 
 ### Question 7
-- **Question ID**: CH08-PIC-007
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-007
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Movement Identification
-- **Marks**: 1
-- **Question**: Which movement supported by Mahatma Gandhi and Bhagat Singh is depicted in this bonfire scene?
-  - (A) Swadeshi Movement
-  - (B) Industrialization Drive
-  - (C) Quit India Movement 1942
-  - (D) Civil Rights Movement
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He was verry famouse and receved many awwards.'
+- **Answer Key**: He was **very** **famous** and **received** many **awards**.
 
 ### Question 8
-- **Question ID**: CH08-PIC-008
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-008
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Cloth Type Worn
-- **Marks**: 1
-- **Question**: What Indian hand-spun fabric is Bhagat Singh shown wearing in contrast to the burning foreign clothes?
-  - (A) British silk
-  - (B) Khadi
-  - (C) Polyester
-  - (D) Nylon
+- **Marks**: 2
+- **Scene**: People gathered for an event
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of people gathered for an event from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many people are gathered for the event in the picture?
 
 ### Question 9
-- **Question ID**: CH08-PIC-009
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Symbolic Message of Bonfire
-- **Marks**: 1
-- **Question**: What symbolic message did burning foreign goods send to the British colonial empire?
-  - (A) That Indians liked burning fires.
-  - (B) That Indians rejected British economic exploitation and demanded national self-reliance.
-  - (C) That foreign clothes were cheap.
-  - (D) That students needed new uniforms.
-
----
-
-## Scene 4: The Three Martyrs - Bhagat Singh, Rajguru, and Sukhdev
-> **Visual Description**: An illustration of the three young revolution comrades — Bhagat Singh, Shivaram Rajguru, and Sukhdev Thapar — standing arm in arm inside Lahore jail in March 1931, smiling bravely with flowers placed around a national memorial flame.
+- **Question ID**: CH08-PB-009
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An emotional moment from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the emotional scene shown:
+- **Answer Key**: The character looks ___ in this scene. This is an important moment because ___.
 
 ### Question 10
-- **Question ID**: CH08-PIC-010
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-010
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Martyr Trio Identification
-- **Marks**: 1
-- **Question**: Which three freedom fighter comrades hanged together on March 23, 1931 are depicted in this memorial illustration?
-  - (A) Gandhi, Nehru, and Patel
-  - (B) Bhagat Singh, Rajguru, and Sukhdev
-  - (C) Bose, Azad, and Tilak
-  - (D) Lal, Bal, and Pal
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tradision has exsisted for meny sentsuries.'
+- **Answer Key**: The **tradition** has **existed** for many **centuries**.
 
 ### Question 11
-- **Question ID**: CH08-PIC-011
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Memorial Date
-- **Marks**: 1
-- **Question**: What solemn date marked on the memorial frame commemorates their martyrdom (*Shaheed Diwas*)?
-  - (A) August 15, 1947
-  - (B) March 23, 1931
-  - (C) January 26, 1950
-  - (D) October 2, 1869
+- **Question ID**: CH08-PB-011
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Items used or mentioned in the chapter
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing items from this chapter. Frame a question using 'How many':
+- **Answer Key**: How many items can you see in the picture that are related to this chapter?
 
 ### Question 12
-- **Question ID**: CH08-PIC-012
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Smiling Before Gallows
-- **Marks**: 1
-- **Question**: Why are the three young revolutionaries depicted smiling bravely before their execution?
-  - (A) Because they thought execution was a game.
-  - (B) Because they possessed supreme courage and knew their martyrdom would awaken the entire Indian nation to win independence.
-  - (C) Because they were released.
-  - (D) By accident.
-
----
-
-## Additional Visual & Observation Questions (13 to 20)
+- **Question ID**: CH08-PB-012
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A colourful scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the colourful scene. Write one sentence about the colours you see:
+- **Answer Key**: I can see ___ colours in the picture, including ___ and ___.
 
 ### Question 13
-- **Question ID**: CH08-PIC-013
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Image Captioning
-- **Marks**: 1
-- **Question**: Which caption best fits Scene 2 (12-year-old boy with blood-soaked soil bottle at Jallianwala Bagh)?
-  - (A) A Childhood School Field Trip
-  - (B) The Vow of Freedom: Young Bhagat Singh Preserving the Blood-Soaked Soil of Jallianwala Bagh
-  - (C) Farming in Punjab
-  - (D) Buying Glass Bottles in Amritsar
+- **Question ID**: CH08-PB-013
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He sacraficed his lyfe fore his cuntry.'
+- **Answer Key**: He **sacrificed** his **life** for his **country**.
 
 ### Question 14
-- **Question ID**: CH08-PIC-014
-- **Type**: Picture Based
+- **Question ID**: CH08-PB-014
+- **Type**: PB
 - **Difficulty**: Easy
-- **Bloom Level**: Remember
-- **Topic**: Punjab Map Clue
-- **Marks**: 1
-- **Question**: A map of pre-independence India highlights the state of **Punjab**. What historical connection does this map have with Chapter 08?
-  - (A) It was where Bhagat Singh was born on September 28, 1907.
-  - (B) It was where he bought foreign clothes.
-  - (C) It was where he spent his retirement.
-  - (D) It was a foreign country.
+- **Marks**: 2
+- **Scene**: Animals or people in a group
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the group picture. Frame a question using 'How many':
+- **Answer Key**: How many people/animals are there in the group in the picture?
 
 ### Question 15
-- **Question ID**: CH08-PIC-015
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Chronological Ordering of Images
-- **Marks**: 1
-- **Question**: Arrange these 4 biographical images in correct chronological order:  
-*(1) Hanged to death on March 23, 1931; (2) Birth in Punjab on Sept 28, 1907; (3) Collecting blood-soaked soil at Jallianwala Bagh in 1919; (4) Joining National College and avenging Lala Lajpat Rai.*
-  - (A) (2) -> (3) -> (4) -> (1)
-  - (B) (1) -> (2) -> (3) -> (4)
-  - (C) (3) -> (2) -> (4) -> (1)
-  - (D) (4) -> (3) -> (1) -> (2)
+- **Question ID**: CH08-PB-015
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The climax/key moment of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the most important moment in the picture:
+- **Answer Key**: The most important moment shows ___. This is significant because ___.
 
 ### Question 16
-- **Question ID**: CH08-PIC-016
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: National College Classroom Visual
-- **Marks**: 1
-- **Question**: An illustration shows young Bhagat Singh sitting in a National College classroom reading books by day and discussing plans with student comrades by night. What does this depict?
-  - (A) His dual life as an eager student and dedicated revolutionary thinker.
-  - (B) Night shifts in a factory.
-  - (C) Playing games in college.
-  - (D) A sports club.
+- **Question ID**: CH08-PB-016
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'She sangd moar then fifity thousend songs in her carear.'
+- **Answer Key**: She sang **more** than **fifty thousand** songs in her **career**.
 
 ### Question 17
-- **Question ID**: CH08-PIC-017
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Prison Cell Writing Scene
-- **Marks**: 1
-- **Question**: An illustration shows Bhagat Singh in a dimly lit prison cell, writing by candlelight on paper labeled *"Colonial Oppression & Freedom"*. What aspect of his character is highlighted?
-  - (A) He was afraid of the dark.
-  - (B) He was a brilliant thinker and scholar whose intellectual writings challenged British tyranny even behind bars.
-  - (C) He was doing school homework.
-  - (D) He was writing letters to foreign traders.
+- **Question ID**: CH08-PB-017
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Instruments or tools shown
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture showing instruments or tools. Frame a question using 'How many':
+- **Answer Key**: How many instruments/tools can you count in the picture?
 
 ### Question 18
-- **Question ID**: CH08-PIC-018
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Understand
-- **Topic**: Lala Lajpat Rai Memorial Poster
-- **Marks**: 1
-- **Question**: A poster shows a portrait of Lala Lajpat Rai surrounded by the words *"The Lion of Punjab"*. Who was Lala Lajpat Rai to Bhagat Singh?
-  - (A) His British teacher
-  - (B) His respected political idol and mentor at National College
-  - (C) His younger brother
-  - (D) An enemy officer
+- **Question ID**: CH08-PB-018
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Nature scene from the chapter
+- **Task Type**: Observation
+- **Question**: Look at the nature scene. Write one sentence describing it:
+- **Answer Key**: The nature scene shows a beautiful ___ with ___ and ___.
 
 ### Question 19
-- **Question ID**: CH08-PIC-019
-- **Type**: Picture Based
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Hussainiwala Memorial Visual
-- **Marks**: 1
-- **Question**: An illustration shows the National Martyrs Memorial at Hussainiwala where three eternal flames burn side by side. Whom do these three flames represent?
-  - (A) Three British governors
-  - (B) Shaheed Bhagat Singh, Rajguru, and Sukhdev
-  - (C) Three ancient kings
-  - (D) Three foreign traders
+- **Question ID**: CH08-PB-019
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The frog gose throo four stajes in its lyfe.'
+- **Answer Key**: The frog goes **through** four **stages** in its **life**.
 
 ### Question 20
-- **Question ID**: CH08-PIC-020
-- **Type**: Picture Based
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Question Framing Prompt
-- **Marks**: 1
-- **Question**: Look at Scene 4 (Bhagat Singh, Rajguru, and Sukhdev in jail). Frame a question using the prompt *"On which date..."*.
-  - (A) On which date were Bhagat Singh, Rajguru, and Sukhdev hanged to death?
-  - (B) Where is the felt hat?
-  - (C) Who bought the clothes?
-  - (D) What is the city name?
-
----
-
-## Short Visual Description Tasks (21 to 25)
+- **Question ID**: CH08-PB-020
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: People in a celebration or festival scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the celebration scene. Frame a question using 'How many':
+- **Answer Key**: How many people are celebrating in the picture?
 
 ### Question 21
-- **Question ID**: CH08-PIC-021
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Visual Scene Description
+- **Question ID**: CH08-PB-021
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write a 2-sentence description of an illustration showing 12-year-old Bhagat Singh holding a bottle of blood-soaked soil amidst the bullet-pitted walls of Jallianwala Bagh in 1919.
+- **Scene**: A peaceful scene from the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the peaceful scene:
+- **Answer Key**: The scene looks peaceful and beautiful. You can see ___ and ___ in the background.
 
 ### Question 22
-- **Question ID**: CH08-PIC-022
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Apply
-- **Topic**: Timeline Poster Design
+- **Question ID**: CH08-PB-022
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: If you were designing a school poster titled "Shaheed Bhagat Singh: Path of Revolution", list four key historical dates and events you would draw on a timeline from 1907 to 1931.
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The boet racse is a famose tradision of Karala.'
+- **Answer Key**: The **boat** **races** are a **famous** **tradition** of **Kerala**.
 
 ### Question 23
-- **Question ID**: CH08-PIC-023
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Analyze
-- **Topic**: Visual Contrast - Khadi vs Foreign Cloth
+- **Question ID**: CH08-PB-023
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Explain why illustrating a bonfire of foreign clothes alongside Bhagat Singh wearing simple white khadi creates a powerful visual message of Swadeshi self-reliance.
+- **Scene**: Animals shown in the chapter context
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of animals. Frame a question using 'How many':
+- **Answer Key**: How many animals can you see in the picture?
 
 ### Question 24
-- **Question ID**: CH08-PIC-024
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Medium
-- **Bloom Level**: Create
-- **Topic**: Comic Strip Dialogue
+- **Question ID**: CH08-PB-024
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: Write speech bubbles for a 2-panel comic strip:  
-(Panel 1) 12-year-old Bhagat holding soil bottle: *"This soil will remind me every day to free my motherland!"*  
-(Panel 2) Hero Bhagat Singh in jail: *"They can crush my body, but they can never crush my ideas! Inquilab Zindabad!"*
+- **Scene**: A character's expression
+- **Task Type**: Observation
+- **Question**: Look at the character's expression. Write one sentence about how they feel:
+- **Answer Key**: The character looks ___ because ___ has just happened.
 
 ### Question 25
-- **Question ID**: CH08-PIC-025
-- **Type**: Picture Based (Short Answer)
-- **Difficulty**: Hard
-- **Bloom Level**: Evaluate
-- **Topic**: Cover Art Analysis
+- **Question ID**: CH08-PB-025
+- **Type**: PB
+- **Difficulty**: Easy
 - **Marks**: 2
-- **Question**: What key visual elements should be featured on the cover page of *"Chapter 08: Bhagat Singh"* to make it heroic, patriotic, and historically inspiring for ICSE Class IV students?
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Honisty is always the besst pollicy.'
+- **Answer Key**: **Honesty** is always the **best** **policy**.
 
----
+### Question 26
+- **Question ID**: CH08-PB-026
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flags, decorations, or ornaments in a scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the decorated scene. Frame a question using 'How many':
+- **Answer Key**: How many decorations/flags can you see in the picture?
 
-## Answer Key & Solutions
+### Question 27
+- **Question ID**: CH08-PB-027
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The main characters together
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the main characters in the picture:
+- **Answer Key**: The main characters are ___ and ___. They are shown ___ in an important scene.
 
-| Question ID | Correct Option / Answer | Explanation / Model Answer |
-|-------------|:-----------------------:|----------------------------|
-| **CH08-PIC-001** | **(B)** | Shaheed Bhagat Singh (famous felt hat portrait). |
-| **CH08-PIC-002** | **(B)** | "Inquilab Zindabad" (Long Live the Revolution). |
-| **CH08-PIC-003** | **(B)** | Unshakeable moral conviction, fearless courage, and patriotic devotion. |
-| **CH08-PIC-004** | **(B)** | Jallianwala Bagh, Amritsar (1919 massacre site). |
-| **CH08-PIC-005** | **(B)** | Glass bottle of blood-soaked soil from the land of tragedy. |
-| **CH08-PIC-006** | **(B)** | Transformed him into a dedicated freedom fighter committed to driving British out. |
-| **CH08-PIC-007** | **(A)** | Swadeshi Movement (burning foreign goods and wearing khadi). |
-| **CH08-PIC-008** | **(B)** | Khadi (Indian hand-spun cotton cloth). |
-| **CH08-PIC-009** | **(B)** | Sent message of rejecting British economic exploitation and asserting self-reliance. |
-| **CH08-PIC-010** | **(B)** | Bhagat Singh, Rajguru, and Sukhdev. |
-| **CH08-PIC-011** | **(B)** | March 23, 1931 (Shaheed Diwas). |
-| **CH08-PIC-012** | **(B)** | Possessed supreme courage and knew their death would awaken the nation. |
-| **CH08-PIC-013** | **(B)** | The Vow of Freedom: Young Bhagat Singh Preserving Blood-Soaked Soil. |
-| **CH08-PIC-014** | **(A)** | Punjab was where Bhagat Singh was born on September 28, 1907. |
-| **CH08-PIC-015** | **(A)** | (2) Birth 1907 -> (3) Soil bottle 1919 -> (4) College & Saunders -> (1) Execution 1931. |
-| **CH08-PIC-016** | **(A)** | Depicts his dual life as an eager student and dedicated revolutionary. |
-| **CH08-PIC-017** | **(B)** | Brilliant thinker and scholar whose writings challenged British tyranny behind bars. |
-| **CH08-PIC-018** | **(B)** | Respected political idol and mentor at National College. |
-| **CH08-PIC-019** | **(B)** | Shaheed Bhagat Singh, Rajguru, and Sukhdev. |
-| **CH08-PIC-020** | **(A)** | "On which date were Bhagat Singh, Rajguru, and Sukhdev hanged to death?" |
-| **CH08-PIC-021** | **Model Answer**: A sorrowful yet determined 12-year-old Bhagat Singh stands amidst the bullet-marked walls of Jallianwala Bagh in 1919. He holds up a glass bottle filled with blood-soaked soil, taking a solemn vow to dedicate his life to India's freedom. |
-| **CH08-PIC-022** | **Model Answer**:  
-1. **1907**: Born on Sept 28 in Punjab  
-2. **1919**: Collected blood-soaked soil from Jallianwala Bagh at age 12  
-3. **1928**: Avenged mentor Lala Lajpat Rai's death  
-4. **March 23, 1931**: Hanged to death with Rajguru and Sukhdev (Shaheed Diwas) |
-| **CH08-PIC-023** | **Model Answer**: The bonfire of foreign coats symbolizes active rejection of colonial economic control, while Bhagat Singh's simple white khadi kurta highlights national pride, self-reliance, and moral purity. |
-| **CH08-PIC-024** | **Model Answer**:  
-**Panel 1 (Age 12)**: *"This soil will remind me every day to free my motherland!"*  
-**Panel 2 (In Jail)**: *"They can crush my body, but they can never crush my ideas! Inquilab Zindabad!"* |
-| **CH08-PIC-025** | **Model Answer**: The cover should feature Bhagat Singh's iconic felt hat portrait, the Indian tricolor, a glass bottle of blood-soaked soil, an eternal flame for the three martyrs, and the title *"Bhagat Singh"* in bold patriotic ICSE typography. |
+### Question 28
+- **Question ID**: CH08-PB-028
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He deddicated hes hole lyfe too the sarvice of his nashun.'
+- **Answer Key**: He **dedicated** his **whole** **life** to the **service** of his **nation**.
+
+### Question 29
+- **Question ID**: CH08-PB-029
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Trees, plants, or natural features
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the natural scene. Frame a question using 'How many':
+- **Answer Key**: How many trees/plants can you count in the natural scene?
+
+### Question 30
+- **Question ID**: CH08-PB-030
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Objects on a table or shelf from the story
+- **Task Type**: Observation
+- **Question**: Look at the objects. Write two sentences naming what you see:
+- **Answer Key**: I can see ___ objects in the picture. They include ___ and ___.
+
+### Question 31
+- **Question ID**: CH08-PB-031
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The presensse of mind savved him from dangur.'
+- **Answer Key**: The **presence** of **mind** **saved** him from **danger**.
+
+### Question 32
+- **Question ID**: CH08-PB-032
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Boats, vehicles, or modes of transport
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of transport. Frame a question using 'How many':
+- **Answer Key**: How many boats/vehicles can you see in the picture?
+
+### Question 33
+- **Question ID**: CH08-PB-033
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The setting before the main event
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing what the scene looked like before the main event:
+- **Answer Key**: Before the main event, the place looked ___ and ___. The characters were ___.
+
+### Question 34
+- **Question ID**: CH08-PB-034
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The dansse was purfomed arround an erthen pot.'
+- **Answer Key**: The **dance** was **performed** around an **earthen** pot.
+
+### Question 35
+- **Question ID**: CH08-PB-035
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Flowers or colourful elements
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of flowers. Frame a question using 'How many':
+- **Answer Key**: How many flowers can you count in the picture?
+
+### Question 36
+- **Question ID**: CH08-PB-036
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A crowd scene
+- **Task Type**: Observation
+- **Question**: Write two sentences describing the crowd in the picture:
+- **Answer Key**: The crowd looks very large and excited. People are wearing colourful clothes and ___.
+
+### Question 37
+- **Question ID**: CH08-PB-037
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The emperar gave eech child a seede to growe.'
+- **Answer Key**: The **emperor** gave each **child** a **seed** to **grow**.
+
+### Question 38
+- **Question ID**: CH08-PB-038
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Steps, stages, or phases shown in a diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the diagram showing stages. Frame a question using 'How many':
+- **Answer Key**: How many stages/steps are shown in the diagram?
+
+### Question 39
+- **Question ID**: CH08-PB-039
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An outdoor event scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the outdoor event in the picture:
+- **Answer Key**: The outdoor event is taking place in ___. Many people are ___ and the atmosphere looks ___.
+
+### Question 40
+- **Question ID**: CH08-PB-040
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The traffik signal turnes from redd to yello to grean.'
+- **Answer Key**: The **traffic** **signal** turns from **red** to **yellow** to **green**.
+
+### Question 41
+- **Question ID**: CH08-PB-041
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Lights or signals in a street scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the street scene. Frame a question using 'How many':
+- **Answer Key**: How many traffic signals/lights can you see on the road?
+
+### Question 42
+- **Question ID**: CH08-PB-042
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: A historical or traditional scene
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the historical scene in the picture:
+- **Answer Key**: The historical scene shows ___. It gives us a glimpse of ___ from the past.
+
+### Question 43
+- **Question ID**: CH08-PB-043
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'Ale xander Graem Bell invented the telefone.'
+- **Answer Key**: **Alexander Graham Bell** invented the **telephone**.
+
+### Question 44
+- **Question ID**: CH08-PB-044
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Children or students in a school or contest scene
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the picture of children at a contest. Frame a question using 'How many':
+- **Answer Key**: How many children are participating in the contest?
+
+### Question 45
+- **Question ID**: CH08-PB-045
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: An object close-up from the story
+- **Task Type**: Observation
+- **Question**: Look at the close-up picture. Write one sentence about the object:
+- **Answer Key**: The object in the picture is a ___ and it is important in the story because ___.
+
+### Question 46
+- **Question ID**: CH08-PB-046
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'He receved the Bharat Ratnaa award in tow thousand and one.'
+- **Answer Key**: He **received** the **Bharat Ratna** award in **two thousand and one** (2001).
+
+### Question 47
+- **Question ID**: CH08-PB-047
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Audience members watching a performance
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the audience picture. Frame a question using 'How many':
+- **Answer Key**: How many audience members are watching the performance?
+
+### Question 48
+- **Question ID**: CH08-PB-048
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: The final scene or resolution of the chapter
+- **Task Type**: Scene Description
+- **Question**: Write two sentences describing the final/resolution scene:
+- **Answer Key**: In the final scene, ___ has happened. The character looks ___ and the story ends on a ___ note.
+
+### Question 49
+- **Question ID**: CH08-PB-049
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Sentence with error
+- **Task Type**: Spelling Correction
+- **Question**: Rewrite correctly: 'The tadpole slowely transformes into a frogue.'
+- **Answer Key**: The **tadpole** slowly **transforms** into a **frog**.
+
+### Question 50
+- **Question ID**: CH08-PB-050
+- **Type**: PB
+- **Difficulty**: Easy
+- **Marks**: 2
+- **Scene**: Animals in a nature or life cycle diagram
+- **Task Type**: Frame a Question — How Many
+- **Question**: Look at the life cycle diagram. Frame a question using 'How many':
+- **Answer Key**: How many stages are shown in the life cycle diagram?
+
