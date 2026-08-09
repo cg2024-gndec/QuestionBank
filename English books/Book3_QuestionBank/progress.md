@@ -9,10 +9,10 @@
 
 | Metric | Target | Current | % |
 |--------|-------:|--------:|--:|
-| Chapters Completed | 15 | 1 | 6.7% |
-| Questions Generated | 4,500 | 300 | 6.7% |
-| Chapter PDFs | 15 | 1 | 6.7% |
-| Master PDF | 1 | 0 | 0% |
+| Chapters Completed | 15 | **15** | **100%** |
+| Questions Generated | 4,500 | **4,500** | **100%** |
+| Chapter PDFs | 15 | **15** | **100%** |
+| Master PDF | 1 | **1** | **100%** |
 
 ---
 
@@ -21,20 +21,20 @@
 | Ch | Title | Questions Generated | PDF Compiled | Status |
 |:--:|-------|:------------------:|:------------:|:------:|
 | 01 | The Foolish Pandit | 300 / 300 | ✅ | ✅ Complete |
-| 02 | The Jackal and the Dhol | 0 / 300 | ❌ | ⏳ Pending |
-| 03 | Two Cats and the Monkey | 0 / 300 | ❌ | ⏳ Pending |
-| 04 | Fountain Pen | 0 / 300 | ❌ | ⏳ Pending |
-| 05 | Invention of Steam Engine | 0 / 300 | ❌ | ⏳ Pending |
-| 06 | Flying Sikh - Milkha Singh | 0 / 300 | ❌ | ⏳ Pending |
-| 07 | Ustad Zakir Hussain: The Tabla Maestro | 0 / 300 | ❌ | ⏳ Pending |
-| 08 | Chandrashekhar Azad | 0 / 300 | ❌ | ⏳ Pending |
-| 09 | Harvest Festival of India | 0 / 300 | ❌ | ⏳ Pending |
-| 10 | The Indian Deserts | 0 / 300 | ❌ | ⏳ Pending |
-| 11 | The Brahmaputra River: A Lifeline of South Asia | 0 / 300 | ❌ | ⏳ Pending |
-| 12 | The Magic of Rain | 0 / 300 | ❌ | ⏳ Pending |
-| 13 | The Brave Little Kite | 0 / 300 | ❌ | ⏳ Pending |
-| 14 | The Talking Tree | 0 / 300 | ❌ | ⏳ Pending |
-| 15 | Composition Modules | 0 / 300 | ❌ | ⏳ Pending |
+| 02 | The Jackal and the Dhol | 300 / 300 | ✅ | ✅ Complete |
+| 03 | Two Cats and the Monkey | 300 / 300 | ✅ | ✅ Complete |
+| 04 | Fountain Pen | 300 / 300 | ✅ | ✅ Complete |
+| 05 | Invention of Steam Engine | 300 / 300 | ✅ | ✅ Complete |
+| 06 | Flying Sikh - Milkha Singh | 300 / 300 | ✅ | ✅ Complete |
+| 07 | Ustad Zakir Hussain: The Tabla Maestro | 300 / 300 | ✅ | ✅ Complete |
+| 08 | Chandrashekhar Azad | 300 / 300 | ✅ | ✅ Complete |
+| 09 | Harvest Festival of India | 300 / 300 | ✅ | ✅ Complete |
+| 10 | The Indian Deserts | 300 / 300 | ✅ | ✅ Complete |
+| 11 | The Brahmaputra River: A Lifeline of South Asia | 300 / 300 | ✅ | ✅ Complete |
+| 12 | The Magic of Rain | 300 / 300 | ✅ | ✅ Complete |
+| 13 | The Brave Little Kite | 300 / 300 | ✅ | ✅ Complete |
+| 14 | The Talking Tree | 300 / 300 | ✅ | ✅ Complete |
+| 15 | Composition Modules | 300 / 300 | ✅ | ✅ Complete |
 
 ---
 
@@ -45,3 +45,6 @@
 | 2026-08-09 | Restructured Book 3 to universal 6-category taxonomy (MCQs, Fill in the Blanks, True/False, Short Answer, Long Answer, Extract Based) | ✅ |
 | 2026-08-09 | Ran Windows Media OCR on `COMPREHENSION BOOK—3.pdf` (68 pages) and extracted all 15 chapter source markdown files under `chapters/` | ✅ |
 | 2026-08-09 | Refined & compiled Chapter 01 (*The Foolish Pandit*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapters 02-03 (*The Jackal and the Dhol*, *Two Cats and the Monkey*) — 600 Qs | ✅ |
+| 2026-08-09 | Batch-generated & compiled Chapters 04-15 — 3,600 Qs | ✅ |
+| 2026-08-09 | Compiled Consolidated Master PDF (`Book3_Master_Question_Bank.pdf`) — 4,500 Total Qs across 15 Chapters | ✅ |
