@@ -10,9 +10,9 @@
 | Metric | Target | Current Completed | Completion % |
 |--------|-------:|------------------:|-------------:|
 | **Books Fully Completed** | 8 | **4** | 50.0% |
-| **Completed Chapters** | 120 | **68** | 56.7% |
-| **Total Questions Generated** | 36,000 | **20,400** | 56.7% |
-| **Compiled Chapter PDFs** | 120 | **68** | 56.7% |
+| **Completed Chapters** | 120 | **69** | 57.5% |
+| **Total Questions Generated** | 36,000 | **20,700** | 57.5% |
+| **Compiled Chapter PDFs** | 120 | **69** | 57.5% |
 | **Consolidated Master Book PDFs** | 8 | **4** | 50.0% |
 
 ---
@@ -25,7 +25,7 @@
 | 📗 [Book 2](file:///s:/Question%20Bank%20making/English%20books/Book2_QuestionBank) | **Class II** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book2_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
 | 📗 [Book 3](file:///s:/Question%20Bank%20making/English%20books/Book3_QuestionBank) | **Class III** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book3_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
 | 📗 [Book 4](file:///s:/Question%20Bank%20making/English%20books/Book4_QuestionBank) | **Class IV** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book4_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
-| 📘 [Book 5](file:///s:/Question%20Bank%20making/English%20books/Book5_QuestionBank) | Class V | 4,500 | 2,400 | 8 / 15 | ❌ | 🔄 In Progress (Ch 01–08 Complete) |
+| 📘 [Book 5](file:///s:/Question%20Bank%20making/English%20books/Book5_QuestionBank) | Class V | 4,500 | 2,700 | 9 / 15 | ❌ | 🔄 In Progress (Ch 01–09 Complete) |
 | 📘 [Book 6](file:///s:/Question%20Bank%20making/English%20books/Book6_QuestionBank) | Class VI | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
 | 📘 [Book 7](file:///s:/Question%20Bank%20making/English%20books/Book7_QuestionBank) | Class VII | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
 | 📘 [Book 8](file:///s:/Question%20Bank%20making/English%20books/Book8_QuestionBank) | Class VIII | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
@@ -45,4 +45,5 @@
 | 2026-08-09 | Book 5 | Ran OCR on `COMPREHENSION BOOK—5.pdf` (72 pages), extracted 15 chapters, and completed Batch 1 (Chapters 01–03, 900 Qs + 3 PDFs). | ✅ |
 | 2026-08-09 | Book 5 | Created separate chapter scripts (`refine_chapter_04.py`, `05.py`, `06.py`), refined & compiled Batch 2 (Chapters 04–06, 900 Qs + 3 PDFs). | ✅ |
 | 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_07.py` for Chapter 07 (300 Qs + PDF compiled). | ✅ |
-| 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_08.py` for Chapter 08 (300 Qs + PDF compiled). Total Book 5 Qs: 2,400. | ✅ |
+| 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_08.py` for Chapter 08 (300 Qs + PDF compiled). | ✅ |
+| 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_09.py` for Chapter 09 (300 Qs + PDF compiled). Total Book 5 Qs: 2,700. | ✅ |
