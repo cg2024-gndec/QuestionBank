@@ -9,9 +9,9 @@
 
 | Metric | Target | Current | % |
 |--------|-------:|--------:|--:|
-| Chapters Completed | 15 | **11** | **73.3%** |
-| Questions Generated | 4,500 | **3,300** | **73.3%** |
-| Chapter PDFs | 15 | **11** | **73.3%** |
+| Chapters Completed | 15 | **12** | **80.0%** |
+| Questions Generated | 4,500 | **3,600** | **80.0%** |
+| Chapter PDFs | 15 | **12** | **80.0%** |
 | Master PDF | 1 | 0 | 0% |
 
 ---
@@ -31,7 +31,7 @@
 | 09 | Traditional Dresses from India | 300 / 300 | ✅ | ✅ Complete |
 | 10 | The Narmada River | 300 / 300 | ✅ | ✅ Complete |
 | 11 | Island Groups of India | 300 / 300 | ✅ | ✅ Complete |
-| 12 | The Magic of Books | 0 / 300 | ❌ | ⏳ Pending |
+| 12 | The Magic of Books | 300 / 300 | ✅ | ✅ Complete |
 | 13 | My Dream Adventure | 0 / 300 | ❌ | ⏳ Pending |
 | 14 | The Season's Song | 0 / 300 | ❌ | ⏳ Pending |
 | 15 | Composition Modules | 0 / 300 | ❌ | ⏳ Pending |
@@ -52,3 +52,4 @@
 | 2026-08-09 | Created & executed `refine_chapter_09.py` individually for Chapter 09 — 300 Qs + PDF compiled (`Chapter_09_Question_Bank.pdf`) | ✅ |
 | 2026-08-09 | Created & executed `refine_chapter_10.py` individually for Chapter 10 — 300 Qs + PDF compiled (`Chapter_10_Question_Bank.pdf`) | ✅ |
 | 2026-08-09 | Created & executed `refine_chapter_11.py` individually for Chapter 11 — 300 Qs + PDF compiled (`Chapter_11_Question_Bank.pdf`) | ✅ |
+| 2026-08-09 | Created & executed `refine_chapter_12.py` individually for Chapter 12 — 300 Qs + PDF compiled (`Chapter_12_Question_Bank.pdf`) | ✅ |
