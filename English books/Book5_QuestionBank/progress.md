@@ -9,9 +9,9 @@
 
 | Metric | Target | Current | % |
 |--------|-------:|--------:|--:|
-| Chapters Completed | 15 | **10** | **66.7%** |
-| Questions Generated | 4,500 | **3,000** | **66.7%** |
-| Chapter PDFs | 15 | **10** | **66.7%** |
+| Chapters Completed | 15 | **11** | **73.3%** |
+| Questions Generated | 4,500 | **3,300** | **73.3%** |
+| Chapter PDFs | 15 | **11** | **73.3%** |
 | Master PDF | 1 | 0 | 0% |
 
 ---
@@ -30,7 +30,7 @@
 | 08 | The Missile Man of India: Dr. A. P. J. Abdul Kalam | 300 / 300 | ✅ | ✅ Complete |
 | 09 | Traditional Dresses from India | 300 / 300 | ✅ | ✅ Complete |
 | 10 | The Narmada River | 300 / 300 | ✅ | ✅ Complete |
-| 11 | Island Groups of India | 0 / 300 | ❌ | ⏳ Pending |
+| 11 | Island Groups of India | 300 / 300 | ✅ | ✅ Complete |
 | 12 | The Magic of Books | 0 / 300 | ❌ | ⏳ Pending |
 | 13 | My Dream Adventure | 0 / 300 | ❌ | ⏳ Pending |
 | 14 | The Season's Song | 0 / 300 | ❌ | ⏳ Pending |
@@ -51,3 +51,4 @@
 | 2026-08-09 | Created & executed `refine_chapter_08.py` individually for Chapter 08 — 300 Qs + PDF compiled (`Chapter_08_Question_Bank.pdf`) | ✅ |
 | 2026-08-09 | Created & executed `refine_chapter_09.py` individually for Chapter 09 — 300 Qs + PDF compiled (`Chapter_09_Question_Bank.pdf`) | ✅ |
 | 2026-08-09 | Created & executed `refine_chapter_10.py` individually for Chapter 10 — 300 Qs + PDF compiled (`Chapter_10_Question_Bank.pdf`) | ✅ |
+| 2026-08-09 | Created & executed `refine_chapter_11.py` individually for Chapter 11 — 300 Qs + PDF compiled (`Chapter_11_Question_Bank.pdf`) | ✅ |

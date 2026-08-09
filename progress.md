@@ -10,9 +10,9 @@
 | Metric | Target | Current Completed | Completion % |
 |--------|-------:|------------------:|-------------:|
 | **Books Fully Completed** | 8 | **4** | 50.0% |
-| **Completed Chapters** | 120 | **70** | 58.3% |
-| **Total Questions Generated** | 36,000 | **21,000** | 58.3% |
-| **Compiled Chapter PDFs** | 120 | **70** | 58.3% |
+| **Completed Chapters** | 120 | **71** | 59.2% |
+| **Total Questions Generated** | 36,000 | **21,300** | 59.2% |
+| **Compiled Chapter PDFs** | 120 | **71** | 59.2% |
 | **Consolidated Master Book PDFs** | 8 | **4** | 50.0% |
 
 ---
@@ -25,7 +25,7 @@
 | 📗 [Book 2](file:///s:/Question%20Bank%20making/English%20books/Book2_QuestionBank) | **Class II** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book2_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
 | 📗 [Book 3](file:///s:/Question%20Bank%20making/English%20books/Book3_QuestionBank) | **Class III** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book3_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
 | 📗 [Book 4](file:///s:/Question%20Bank%20making/English%20books/Book4_QuestionBank) | **Class IV** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book4_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
-| 📘 [Book 5](file:///s:/Question%20Bank%20making/English%20books/Book5_QuestionBank) | Class V | 4,500 | 3,000 | 10 / 15 | ❌ | 🔄 In Progress (Ch 01–10 Complete) |
+| 📘 [Book 5](file:///s:/Question%20Bank%20making/English%20books/Book5_QuestionBank) | Class V | 4,500 | 3,300 | 11 / 15 | ❌ | 🔄 In Progress (Ch 01–11 Complete) |
 | 📘 [Book 6](file:///s:/Question%20Bank%20making/English%20books/Book6_QuestionBank) | Class VI | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
 | 📘 [Book 7](file:///s:/Question%20Bank%20making/English%20books/Book7_QuestionBank) | Class VII | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
 | 📘 [Book 8](file:///s:/Question%20Bank%20making/English%20books/Book8_QuestionBank) | Class VIII | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
@@ -47,4 +47,5 @@
 | 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_07.py` for Chapter 07 (300 Qs + PDF compiled). | ✅ |
 | 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_08.py` for Chapter 08 (300 Qs + PDF compiled). | ✅ |
 | 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_09.py` for Chapter 09 (300 Qs + PDF compiled). | ✅ |
-| 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_10.py` for Chapter 10 (300 Qs + PDF compiled). Total Book 5 Qs: 3,000. | ✅ |
+| 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_10.py` for Chapter 10 (300 Qs + PDF compiled). | ✅ |
+| 2026-08-09 | Book 5 | Created & executed individual `refine_chapter_11.py` for Chapter 11 (300 Qs + PDF compiled). Total Book 5 Qs: 3,300. | ✅ |
