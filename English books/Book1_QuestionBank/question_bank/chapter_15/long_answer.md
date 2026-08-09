@@ -1,0 +1,706 @@
+# Long Answer — Chapter 15: Picture Story: Kindness to Animals
+
+> **Category**: Long Answer Questions | **Total**: 50 Questions | **Marks**: 5 each
+
+---
+
+### Question 1
+- **Question ID**: BK01_CH15_LA_001
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 1
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 2
+- **Question ID**: BK01_CH15_LA_002
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 2
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 3
+- **Question ID**: BK01_CH15_LA_003
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 3
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 4
+- **Question ID**: BK01_CH15_LA_004
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 4
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 5
+- **Question ID**: BK01_CH15_LA_005
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 5
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 6
+- **Question ID**: BK01_CH15_LA_006
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 6
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 7
+- **Question ID**: BK01_CH15_LA_007
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 7
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 8
+- **Question ID**: BK01_CH15_LA_008
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 8
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 9
+- **Question ID**: BK01_CH15_LA_009
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 9
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 10
+- **Question ID**: BK01_CH15_LA_010
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 10
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 11
+- **Question ID**: BK01_CH15_LA_011
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 11
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 12
+- **Question ID**: BK01_CH15_LA_012
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 12
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 13
+- **Question ID**: BK01_CH15_LA_013
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 13
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 14
+- **Question ID**: BK01_CH15_LA_014
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 14
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 15
+- **Question ID**: BK01_CH15_LA_015
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 15
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 16
+- **Question ID**: BK01_CH15_LA_016
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 16
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 17
+- **Question ID**: BK01_CH15_LA_017
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 17
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 18
+- **Question ID**: BK01_CH15_LA_018
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 18
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 19
+- **Question ID**: BK01_CH15_LA_019
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 19
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 20
+- **Question ID**: BK01_CH15_LA_020
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 20
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 21
+- **Question ID**: BK01_CH15_LA_021
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 21
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 22
+- **Question ID**: BK01_CH15_LA_022
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 22
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 23
+- **Question ID**: BK01_CH15_LA_023
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 23
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 24
+- **Question ID**: BK01_CH15_LA_024
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 24
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 25
+- **Question ID**: BK01_CH15_LA_025
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 25
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 26
+- **Question ID**: BK01_CH15_LA_026
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 26
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 27
+- **Question ID**: BK01_CH15_LA_027
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 27
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 28
+- **Question ID**: BK01_CH15_LA_028
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 28
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 29
+- **Question ID**: BK01_CH15_LA_029
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 29
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 30
+- **Question ID**: BK01_CH15_LA_030
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 30
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 31
+- **Question ID**: BK01_CH15_LA_031
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 31
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 32
+- **Question ID**: BK01_CH15_LA_032
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 32
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 33
+- **Question ID**: BK01_CH15_LA_033
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 33
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 34
+- **Question ID**: BK01_CH15_LA_034
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 34
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 35
+- **Question ID**: BK01_CH15_LA_035
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 35
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 36
+- **Question ID**: BK01_CH15_LA_036
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 36
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 37
+- **Question ID**: BK01_CH15_LA_037
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 37
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 38
+- **Question ID**: BK01_CH15_LA_038
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 38
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 39
+- **Question ID**: BK01_CH15_LA_039
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 39
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 40
+- **Question ID**: BK01_CH15_LA_040
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 40
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 41
+- **Question ID**: BK01_CH15_LA_041
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 41
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 42
+- **Question ID**: BK01_CH15_LA_042
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 42
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 43
+- **Question ID**: BK01_CH15_LA_043
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 43
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 44
+- **Question ID**: BK01_CH15_LA_044
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 44
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 45
+- **Question ID**: BK01_CH15_LA_045
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 45
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 46
+- **Question ID**: BK01_CH15_LA_046
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 46
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 47
+- **Question ID**: BK01_CH15_LA_047
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 47
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 48
+- **Question ID**: BK01_CH15_LA_048
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 48
+- **Marks**: 5
+
+**Question**: Explain how the moral 'Kindness to animals brings joy and lasting friendship.' is demonstrated through the events in 'Picture Story: Kindness to Animals'.
+
+- **Answer Key**: The moral 'Kindness to animals brings joy and lasting friendship.' is clearly shown in 'Picture Story: Kindness to Animals'. The story describes how Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend. This teaches young readers the importance of positive values in daily life.
+
+---
+
+### Question 49
+- **Question ID**: BK01_CH15_LA_049
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 49
+- **Marks**: 5
+
+**Question**: Write a complete summary of the story 'Picture Story: Kindness to Animals' in your own words.
+
+- **Answer Key**: Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+
+### Question 50
+- **Question ID**: BK01_CH15_LA_050
+- **Type**: Long Answer
+- **Difficulty**: Medium
+- **Bloom Level**: Analyzing
+- **Topic**: Picture Story: Kindness to Animals — Long Question & Summary Analysis 50
+- **Marks**: 5
+
+**Question**: Describe the character of Rohan in 'Picture Story: Kindness to Animals' and what we learn from their actions.
+
+- **Answer Key**: In 'Picture Story: Kindness to Animals', Rohan plays a central role. Through their actions in Street / Playground, we learn the important lesson: Kindness to animals brings joy and lasting friendship. Rohan found a tiny puppy shivering and hurt on a rainy street. He wrapped it in a warm towel, brought it home, fed it warm milk, and bandaged its paw. The puppy wagged its tail happily and became Rohan's loyal pet friend.
+
+---
+

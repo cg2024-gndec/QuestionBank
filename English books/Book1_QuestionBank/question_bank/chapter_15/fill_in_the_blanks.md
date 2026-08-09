@@ -1,0 +1,706 @@
+# Fill in the Blanks — Chapter 15: Picture Story: Kindness to Animals
+
+> **Category**: Fill in the Blanks | **Total**: 50 Questions | **Marks**: 1 each
+
+---
+
+### Question 1
+- **Question ID**: BK01_CH15_FIB_001
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 1
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 2
+- **Question ID**: BK01_CH15_FIB_002
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 2
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 3
+- **Question ID**: BK01_CH15_FIB_003
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 3
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Warm towel** — 'Warm towel' is an essential element in the chapter.
+
+---
+
+### Question 4
+- **Question ID**: BK01_CH15_FIB_004
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 4
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 5
+- **Question ID**: BK01_CH15_FIB_005
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 5
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 6
+- **Question ID**: BK01_CH15_FIB_006
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 6
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Wagged tail** — 'Wagged tail' is an essential element in the chapter.
+
+---
+
+### Question 7
+- **Question ID**: BK01_CH15_FIB_007
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 7
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 8
+- **Question ID**: BK01_CH15_FIB_008
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 8
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 9
+- **Question ID**: BK01_CH15_FIB_009
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 9
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Rainy street** — 'Rainy street' is an essential element in the chapter.
+
+---
+
+### Question 10
+- **Question ID**: BK01_CH15_FIB_010
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 10
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 11
+- **Question ID**: BK01_CH15_FIB_011
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 11
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 12
+- **Question ID**: BK01_CH15_FIB_012
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 12
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Bandaged paw** — 'Bandaged paw' is an essential element in the chapter.
+
+---
+
+### Question 13
+- **Question ID**: BK01_CH15_FIB_013
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 13
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 14
+- **Question ID**: BK01_CH15_FIB_014
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 14
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 15
+- **Question ID**: BK01_CH15_FIB_015
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 15
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Injured puppy** — 'Injured puppy' is an essential element in the chapter.
+
+---
+
+### Question 16
+- **Question ID**: BK01_CH15_FIB_016
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 16
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 17
+- **Question ID**: BK01_CH15_FIB_017
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 17
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 18
+- **Question ID**: BK01_CH15_FIB_018
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 18
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Bowl of milk** — 'Bowl of milk' is an essential element in the chapter.
+
+---
+
+### Question 19
+- **Question ID**: BK01_CH15_FIB_019
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 19
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 20
+- **Question ID**: BK01_CH15_FIB_020
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 20
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 21
+- **Question ID**: BK01_CH15_FIB_021
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 21
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Loyal friend** — 'Loyal friend' is an essential element in the chapter.
+
+---
+
+### Question 22
+- **Question ID**: BK01_CH15_FIB_022
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 22
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 23
+- **Question ID**: BK01_CH15_FIB_023
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 23
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 24
+- **Question ID**: BK01_CH15_FIB_024
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 24
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Warm towel** — 'Warm towel' is an essential element in the chapter.
+
+---
+
+### Question 25
+- **Question ID**: BK01_CH15_FIB_025
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 25
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 26
+- **Question ID**: BK01_CH15_FIB_026
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 26
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 27
+- **Question ID**: BK01_CH15_FIB_027
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 27
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Wagged tail** — 'Wagged tail' is an essential element in the chapter.
+
+---
+
+### Question 28
+- **Question ID**: BK01_CH15_FIB_028
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 28
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 29
+- **Question ID**: BK01_CH15_FIB_029
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 29
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 30
+- **Question ID**: BK01_CH15_FIB_030
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 30
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Rainy street** — 'Rainy street' is an essential element in the chapter.
+
+---
+
+### Question 31
+- **Question ID**: BK01_CH15_FIB_031
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 31
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 32
+- **Question ID**: BK01_CH15_FIB_032
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 32
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 33
+- **Question ID**: BK01_CH15_FIB_033
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 33
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Bandaged paw** — 'Bandaged paw' is an essential element in the chapter.
+
+---
+
+### Question 34
+- **Question ID**: BK01_CH15_FIB_034
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 34
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 35
+- **Question ID**: BK01_CH15_FIB_035
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 35
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 36
+- **Question ID**: BK01_CH15_FIB_036
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 36
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Injured puppy** — 'Injured puppy' is an essential element in the chapter.
+
+---
+
+### Question 37
+- **Question ID**: BK01_CH15_FIB_037
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 37
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 38
+- **Question ID**: BK01_CH15_FIB_038
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 38
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 39
+- **Question ID**: BK01_CH15_FIB_039
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 39
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Bowl of milk** — 'Bowl of milk' is an essential element in the chapter.
+
+---
+
+### Question 40
+- **Question ID**: BK01_CH15_FIB_040
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 40
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 41
+- **Question ID**: BK01_CH15_FIB_041
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 41
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 42
+- **Question ID**: BK01_CH15_FIB_042
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 42
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Loyal friend** — 'Loyal friend' is an essential element in the chapter.
+
+---
+
+### Question 43
+- **Question ID**: BK01_CH15_FIB_043
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 43
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 44
+- **Question ID**: BK01_CH15_FIB_044
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 44
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 45
+- **Question ID**: BK01_CH15_FIB_045
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 45
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Warm towel** — 'Warm towel' is an essential element in the chapter.
+
+---
+
+### Question 46
+- **Question ID**: BK01_CH15_FIB_046
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 46
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 47
+- **Question ID**: BK01_CH15_FIB_047
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 47
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
+### Question 48
+- **Question ID**: BK01_CH15_FIB_048
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 48
+- **Marks**: 1
+
+**Question**: The story of 'Picture Story: Kindness to Animals' emphasizes the concept of _______.
+
+- **Answer Key**: **Wagged tail** — 'Wagged tail' is an essential element in the chapter.
+
+---
+
+### Question 49
+- **Question ID**: BK01_CH15_FIB_049
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 49
+- **Marks**: 1
+
+**Question**: The title of Chapter 15 is _______.
+
+- **Answer Key**: **Picture Story: Kindness to Animals** — The title is 'Picture Story: Kindness to Animals'.
+
+---
+
+### Question 50
+- **Question ID**: BK01_CH15_FIB_050
+- **Type**: Fill in the Blanks
+- **Difficulty**: Medium
+- **Bloom Level**: Remembering
+- **Topic**: Picture Story: Kindness to Animals — Text Completion 50
+- **Marks**: 1
+
+**Question**: In 'Picture Story: Kindness to Animals', a key character is _______.
+
+- **Answer Key**: **Rohan** — Rohan is featured in the story.
+
+---
+
