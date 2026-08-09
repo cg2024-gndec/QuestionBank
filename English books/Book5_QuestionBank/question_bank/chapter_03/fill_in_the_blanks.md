@@ -6,551 +6,601 @@
 
 ### Question 1
 - **Question ID**: BK05_CH03_FIB_001
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: A tiger was roaming around the outskirts _______ a forest near a solitary hut.
+**Question**: A tiger was roaming around the outskirts of the _______.
 
-- **Answer Key**: **of**
+- **Answer Key**: **forest** (Roaming around the outskirts of the forest.)
 
 ---
 
 ### Question 2
 - **Question ID**: BK05_CH03_FIB_002
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The tiger heard the incessant wailing of _______ baby coming from inside the hut.
+**Question**: There was a _______ hut near the outskirts of the forest.
 
-- **Answer Key**: **a**
+- **Answer Key**: **solitary** (A solitary hut nearby.)
 
 ---
 
 ### Question 3
 - **Question ID**: BK05_CH03_FIB_003
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The tiger was not hungry but became _______ about why the baby was crying.
+**Question**: The tiger heard the non-stop _______ of a child inside the hut.
 
-- **Answer Key**: **curious**
+- **Answer Key**: **wailing** (Heard non-stop wailing of a child.)
 
 ---
 
 ### Question 4
 - **Question ID**: BK05_CH03_FIB_004
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The mother tried to stop the baby by warning _______ a hungry fox, but the baby kept crying.
+**Question**: The tiger was not at all _______ but became curious.
 
-- **Answer Key**: **about**
+- **Answer Key**: **hungry** (Not at all hungry but curious.)
 
 ---
 
 ### Question 5
 - **Question ID**: BK05_CH03_FIB_005
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The mother then warned about a hungry bear, _______ the baby still did not stop crying.
+**Question**: The tiger started peeping inside through a _______.
 
-- **Answer Key**: **but**
+- **Answer Key**: **window** (Peeping inside through a window.)
 
 ---
 
 ### Question 6
 - **Question ID**: BK05_CH03_FIB_006
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The mother then warned about a _______ tiger, but the baby remained un-terrified.
+**Question**: The woman held the crying baby close to her _______.
 
-- **Answer Key**: **hungry**
+- **Answer Key**: **bosom** (Held the baby close to her bosom.)
 
 ---
 
 ### Question 7
 - **Question ID**: BK05_CH03_FIB_007
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The tiger felt angry and surprised that _______ child was not afraid of a tiger.
+**Question**: The mother rocked the baby to and fro to _______ him down.
 
-- **Answer Key**: **the**
+- **Answer Key**: **calm** (Rocked him to calm him down.)
 
 ---
 
 ### Question 8
 - **Question ID**: BK05_CH03_FIB_008
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The mother finally mentioned a 'persimmon' (a _______ and the baby fell completely silent.
+**Question**: First, the lady warned the baby about a hungry _______.
 
-- **Answer Key**: **fruit),**
+- **Answer Key**: **fox** (First mentioned a hungry fox.)
 
 ---
 
 ### Question 9
 - **Question ID**: BK05_CH03_FIB_009
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The foolish tiger believed a persimmon was a _______ monster capable of terrifying the brave child.
+**Question**: The tiger thought, 'What a _______ child! He is not afraid of a fox.'
 
-- **Answer Key**: **ferocious**
+- **Answer Key**: **brave** (Thought: What a brave child!)
 
 ---
 
 ### Question 10
 - **Question ID**: BK05_CH03_FIB_010
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: A thief was hiding on the slanting _______ roof of the hut waiting to steal.
+**Question**: Secondly, the lady warned the baby about a hungry _______.
 
-- **Answer Key**: **thatched**
+- **Answer Key**: **bear** (Secondly mentioned a hungry bear.)
 
 ---
 
 ### Question 11
 - **Question ID**: BK05_CH03_FIB_011
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The thief lost his balance and fell _______ onto the tiger's back in the dark.
+**Question**: Thirdly, the lady warned the baby about a hungry _______.
 
-- **Answer Key**: **directly**
+- **Answer Key**: **tiger** (Thirdly mentioned a hungry tiger.)
 
 ---
 
 ### Question 12
 - **Question ID**: BK05_CH03_FIB_012
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The tiger panicked, thinking the terrifying persimmon _______ attacked him, and ran for his life.
+**Question**: The tiger felt _______ because the child was not terrified of him.
 
-- **Answer Key**: **had**
+- **Answer Key**: **angry** (Felt angry that the child was not terrified.)
 
 ---
 
 ### Question 13
 - **Question ID**: BK05_CH03_FIB_013
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The thief managed to slip off, and _______ terrified tiger escaped deep into the forest.
+**Question**: The tiger decided to _______ to scare the child into silence.
 
-- **Answer Key**: **the**
+- **Answer Key**: **roar** (Decided to roar to scare the child.)
 
 ---
 
 ### Question 14
 - **Question ID**: BK05_CH03_FIB_014
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The word 'Outskirt' is defined as _______.
+**Question**: The lady mentioned a _______, which made the baby fall silent.
 
-- **Answer Key**: **The outer edge or boundary of a town or forest**
+- **Answer Key**: **persimmon** (Mentioned a persimmon and baby fell silent.)
 
 ---
 
 ### Question 15
 - **Question ID**: BK05_CH03_FIB_015
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The word 'Solitary' is defined as _______.
+**Question**: A persimmon is actually a sweet orange-red _______.
 
-- **Answer Key**: **Alone or isolated**
+- **Answer Key**: **fruit** (A persimmon is a fruit.)
 
 ---
 
 ### Question 16
 - **Question ID**: BK05_CH03_FIB_016
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The word 'Incessant' is defined as _______.
+**Question**: The tiger wondered what a great _______ persimmon must be.
 
-- **Answer Key**: **Never stopping; continuous**
+- **Answer Key**: **animal** (Wondered what a great animal persimmon must be.)
 
 ---
 
 ### Question 17
 - **Question ID**: BK05_CH03_FIB_017
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The word 'Bosom' is defined as _______.
+**Question**: A thief was hiding on the slanting _______ roof.
 
-- **Answer Key**: **Chest or heart area**
+- **Answer Key**: **thatched** (Hiding on the slanting thatched roof.)
 
 ---
 
 ### Question 18
 - **Question ID**: BK05_CH03_FIB_018
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The word 'Persimmon' is defined as _______.
+**Question**: The thief lost his balance and fell on the tiger's _______.
 
-- **Answer Key**: **A sweet orange-red edible fruit**
+- **Answer Key**: **back** (Fell on the tiger's back.)
 
 ---
 
 ### Question 19
 - **Question ID**: BK05_CH03_FIB_019
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The word 'Thatched' is defined as _______.
+**Question**: The tiger thought the _______ had attacked him.
 
-- **Answer Key**: **Made of straw or dried plant stalks**
+- **Answer Key**: **persimmon** (Thought the persimmon had attacked him.)
 
 ---
 
 ### Question 20
 - **Question ID**: BK05_CH03_FIB_020
-- **Difficulty**: Medium
+- **Type**: Fill in the Blanks
+- **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The moral of Chapter 03 is: _______.
+**Question**: The tiger jumped in fright and started running for his _______.
 
-- **Answer Key**: **We fear the unknown**
+- **Answer Key**: **life** (Started running for his life.)
 
 ---
 
 ### Question 21
 - **Question ID**: BK05_CH03_FIB_021
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely _______.
+**Question**: The thief managed to get off the tiger's _______.
 
-- **Answer Key**: **silent**
+- **Answer Key**: **back** (Managed to get off the tiger's back.)
 
 ---
 
 ### Question 22
 - **Question ID**: BK05_CH03_FIB_022
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave _______.
+**Question**: The foolish tiger went back into the _______.
 
-- **Answer Key**: **child**
+- **Answer Key**: **forest** (Foolish tiger went back into the forest.)
 
 ---
 
 ### Question 23
 - **Question ID**: BK05_CH03_FIB_023
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: A thief was hiding on the slanting thatched roof of the hut waiting to _______.
+**Question**: The moral of the story is: We fear the _______.
 
-- **Answer Key**: **steal**
+- **Answer Key**: **unknown** (Moral: We fear the unknown.)
 
 ---
 
 ### Question 24
 - **Question ID**: BK05_CH03_FIB_024
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The thief lost his balance and fell directly onto the tiger's back in the _______.
+**Question**: Outskirt means the furthest part of a _______.
 
-- **Answer Key**: **dark**
+- **Answer Key**: **town** (Outskirt means furthest part of a town/forest.)
 
 ---
 
 ### Question 25
 - **Question ID**: BK05_CH03_FIB_025
+- **Type**: Fill in the Blanks
 - **Difficulty**: Easy
 - **Marks**: 1
 
-**Question**: The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his _______.
+**Question**: Incessant means never _______.
 
-- **Answer Key**: **life**
+- **Answer Key**: **stopping** (Incessant means never stopping.)
 
 ---
 
 ### Question 26
 - **Question ID**: BK05_CH03_FIB_026
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The thief managed to slip off, and the terrified tiger escaped deep into the _______.
+**Question**: The tiger's curiosity led to a series of comical _______.
 
-- **Answer Key**: **forest**
+- **Answer Key**: **misunderstandings** (Led to comical misunderstandings.)
 
 ---
 
 ### Question 27
 - **Question ID**: BK05_CH03_FIB_027
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: A tiger was roaming around the outskirts of a forest near a solitary _______.
+**Question**: The baby stopped crying because it wanted to eat the sweet _______.
 
-- **Answer Key**: **hut**
+- **Answer Key**: **persimmon** (Wanted to eat the sweet persimmon.)
 
 ---
 
 ### Question 28
 - **Question ID**: BK05_CH03_FIB_028
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The tiger heard the incessant wailing of a baby coming from inside the _______.
+**Question**: The tiger misinterpreted a simple fruit name as a ferocious _______.
 
-- **Answer Key**: **hut**
+- **Answer Key**: **monster** (Misinterpreted fruit as a monster.)
 
 ---
 
 ### Question 29
 - **Question ID**: BK05_CH03_FIB_029
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The tiger was not hungry but became curious about why the baby was _______.
+**Question**: The thief fell from the roof because the thatch was _______.
 
-- **Answer Key**: **crying**
+- **Answer Key**: **slanting** (Thatch was slanting and slippery.)
 
 ---
 
 ### Question 30
 - **Question ID**: BK05_CH03_FIB_030
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The mother tried to stop the baby by warning about a hungry fox, but the baby kept _______.
+**Question**: Panic caused the tiger to flee without looking at his _______.
 
-- **Answer Key**: **crying**
+- **Answer Key**: **rider** (Fled without looking at his rider.)
 
 ---
 
 ### Question 31
 - **Question ID**: BK05_CH03_FIB_031
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The mother then warned about a hungry bear, but the baby still did not stop _______.
+**Question**: The story illustrates how imagination amplifies irrational _______.
 
-- **Answer Key**: **crying**
+- **Answer Key**: **fears** (Imagination amplifies irrational fears.)
 
 ---
 
 ### Question 32
 - **Question ID**: BK05_CH03_FIB_032
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The mother then warned about a hungry tiger, but the baby remained _______.
+**Question**: The mother used animal threats to quiet her _______ baby.
 
-- **Answer Key**: **un-terrified**
+- **Answer Key**: **crying** (Quiet her crying baby.)
 
 ---
 
 ### Question 33
 - **Question ID**: BK05_CH03_FIB_033
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The tiger felt angry and surprised that the child was not afraid of a _______.
+**Question**: The tiger's pride was hurt when his name failed to intimidate the _______.
 
-- **Answer Key**: **tiger**
+- **Answer Key**: **child** (Failed to intimidate the child.)
 
 ---
 
 ### Question 34
 - **Question ID**: BK05_CH03_FIB_034
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely _______.
+**Question**: The thief was as terrified of the tiger as the tiger was of the _______.
 
-- **Answer Key**: **silent**
+- **Answer Key**: **persimmon** (Thief feared tiger, tiger feared persimmon.)
 
 ---
 
 ### Question 35
 - **Question ID**: BK05_CH03_FIB_035
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave _______.
+**Question**: The folktale combines dramatic irony with moral _______.
 
-- **Answer Key**: **child**
+- **Answer Key**: **instruction** (Combines dramatic irony with moral instruction.)
 
 ---
 
 ### Question 36
 - **Question ID**: BK05_CH03_FIB_036
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: A thief was hiding on the slanting thatched roof of the hut waiting to _______.
+**Question**: Ignorance about the word 'persimmon' deceived the mighty _______.
 
-- **Answer Key**: **steal**
+- **Answer Key**: **predator** (Deceived the mighty predator.)
 
 ---
 
 ### Question 37
 - **Question ID**: BK05_CH03_FIB_037
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The thief lost his balance and fell directly onto the tiger's back in the _______.
+**Question**: Coincidental events reinforced the tiger's false _______.
 
-- **Answer Key**: **dark**
+- **Answer Key**: **belief** (Reinforced the tiger's false belief.)
 
 ---
 
 ### Question 38
 - **Question ID**: BK05_CH03_FIB_038
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his _______.
+**Question**: The tiger returned to the safety of the deep _______.
 
-- **Answer Key**: **life**
+- **Answer Key**: **forest** (Returned to the deep forest.)
 
 ---
 
 ### Question 39
 - **Question ID**: BK05_CH03_FIB_039
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: The thief managed to slip off, and the terrified tiger escaped deep into the _______.
+**Question**: The thief escaped unharmed due to the tiger's wild _______.
 
-- **Answer Key**: **forest**
+- **Answer Key**: **panic** (Escaped due to the tiger's panic.)
 
 ---
 
 ### Question 40
 - **Question ID**: BK05_CH03_FIB_040
+- **Type**: Fill in the Blanks
 - **Difficulty**: Medium
 - **Marks**: 1
 
-**Question**: A tiger was roaming around the outskirts of a forest near a solitary _______.
+**Question**: Korean folktales often use humor to teach timeless _______.
 
-- **Answer Key**: **hut**
+- **Answer Key**: **wisdom** (Use humor to teach timeless wisdom.)
 
 ---
 
 ### Question 41
 - **Question ID**: BK05_CH03_FIB_041
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The tiger heard the incessant wailing of a baby coming from inside the _______.
+**Question**: Fearing unexamined assumptions leads to ridiculous _______.
 
-- **Answer Key**: **hut**
+- **Answer Key**: **consequences** (Leads to ridiculous consequences.)
 
 ---
 
 ### Question 42
 - **Question ID**: BK05_CH03_FIB_042
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The tiger was not hungry but became curious about why the baby was _______.
+**Question**: The tiger's cognitive error highlights the danger of false _______.
 
-- **Answer Key**: **crying**
+- **Answer Key**: **inference** (Highlights danger of false inference.)
 
 ---
 
 ### Question 43
 - **Question ID**: BK05_CH03_FIB_043
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The mother tried to stop the baby by warning about a hungry fox, but the baby kept _______.
+**Question**: Dramatic irony keeps the reader informed while characters remain _______.
 
-- **Answer Key**: **crying**
+- **Answer Key**: **deceived** (Reader informed while characters deceived.)
 
 ---
 
 ### Question 44
 - **Question ID**: BK05_CH03_FIB_044
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The mother then warned about a hungry bear, but the baby still did not stop _______.
+**Question**: Unidentified physical contact triggered the tiger's natural _______ response.
 
-- **Answer Key**: **crying**
+- **Answer Key**: **flight** (Triggered natural flight response.)
 
 ---
 
 ### Question 45
 - **Question ID**: BK05_CH03_FIB_045
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The mother then warned about a hungry tiger, but the baby remained _______.
+**Question**: The thatched roof provided an unstable hiding spot for the _______.
 
-- **Answer Key**: **un-terrified**
+- **Answer Key**: **thief** (Unstable hiding spot for the thief.)
 
 ---
 
 ### Question 46
 - **Question ID**: BK05_CH03_FIB_046
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The tiger felt angry and surprised that the child was not afraid of a _______.
+**Question**: Fearing what we do not understand distorts logical _______.
 
-- **Answer Key**: **tiger**
+- **Answer Key**: **reasoning** (Distorts logical reasoning.)
 
 ---
 
 ### Question 47
 - **Question ID**: BK05_CH03_FIB_047
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely _______.
+**Question**: The infant's response reflected natural desire over threat _______.
 
-- **Answer Key**: **silent**
+- **Answer Key**: **comprehension** (Reflected natural desire over threat comprehension.)
 
 ---
 
 ### Question 48
 - **Question ID**: BK05_CH03_FIB_048
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave _______.
+**Question**: The story demonstrates how rumor and ignorance create imaginary _______.
 
-- **Answer Key**: **child**
+- **Answer Key**: **threats** (Create imaginary threats.)
 
 ---
 
 ### Question 49
 - **Question ID**: BK05_CH03_FIB_049
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: A thief was hiding on the slanting thatched roof of the hut waiting to _______.
+**Question**: Chapter 03 integrates folktale structure, humor, and psychological _______.
 
-- **Answer Key**: **steal**
+- **Answer Key**: **insight** (Integrates psychological insight.)
 
 ---
 
 ### Question 50
 - **Question ID**: BK05_CH03_FIB_050
+- **Type**: Fill in the Blanks
 - **Difficulty**: Hard
 - **Marks**: 1
 
-**Question**: The thief lost his balance and fell directly onto the tiger's back in the _______.
+**Question**: Understanding facts dispels the darkness of irrational _______.
 
-- **Answer Key**: **dark**
+- **Answer Key**: **fear** (Dispels the darkness of irrational fear.)
 
 ---
 

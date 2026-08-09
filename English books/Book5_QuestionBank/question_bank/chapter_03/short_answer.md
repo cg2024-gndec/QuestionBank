@@ -6,551 +6,654 @@
 
 ### Question 1
 - **Question ID**: BK05_CH03_SA_001
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: What is the main plot summary of Chapter 03?
+**Question**: Where was the tiger roaming when the story began, and what did he hear?
 
-- **Answer Key**: A curious tiger peeping into a hut heard a mother try to quiet her crying baby using threats of a fox, bear, and tiger, all of which failed. When she mentioned a persimmon (a fruit), the baby stopped crying. The tiger mistakenly thought the persimmon was a terrifying monster. Suddenly, a thief fell from the roof onto the tiger's back. Thinking the persimmon had pounced on him, the tiger ran in terror back into the forest.
+- **Answer Key**: The tiger was roaming around the outskirts of a forest near a solitary hut when he heard the non-stop wailing of a child coming from inside.
 
 ---
 
 ### Question 2
 - **Question ID**: BK05_CH03_SA_002
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: What is the moral of Chapter 03 and what does it teach us?
+**Question**: Why did the tiger go near the hut if he was not hungry?
 
-- **Answer Key**: The moral is 'We fear the unknown'. It teaches us to evaluate our actions and choices wisely.
+- **Answer Key**: He was not hungry, but he became curious to find out why the baby was crying so incessantly.
 
 ---
 
 ### Question 3
 - **Question ID**: BK05_CH03_SA_003
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: List three key events from Chapter 03.
+**Question**: How did the mother try to calm her crying baby at first?
 
-- **Answer Key**: 1. A tiger was roaming around the outskirts of a forest near a solitary hut. 2. The tiger heard the incessant wailing of a baby coming from inside the hut. 3. The tiger was not hungry but became curious about why the baby was crying.
+- **Answer Key**: She held the baby close to her bosom, rocked it to and fro, and warned it about a hungry fox coming to eat it.
 
 ---
 
 ### Question 4
 - **Question ID**: BK05_CH03_SA_004
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Define the word 'Outskirt' as used in Chapter 03.
+**Question**: What did the tiger think when the baby ignored the warning about the fox?
 
-- **Answer Key**: 'Outskirt' means The outer edge or boundary of a town or forest.
+- **Answer Key**: The tiger thought, 'What a brave child! He is not at all afraid of a fox.'
 
 ---
 
 ### Question 5
 - **Question ID**: BK05_CH03_SA_005
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Define the word 'Solitary' as used in Chapter 03.
+**Question**: Which three animals did the mother mention to scare the child?
 
-- **Answer Key**: 'Solitary' means Alone or isolated.
+- **Answer Key**: She mentioned a hungry fox, a hungry bear, and a hungry tiger.
 
 ---
 
 ### Question 6
 - **Question ID**: BK05_CH03_SA_006
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Define the word 'Incessant' as used in Chapter 03.
+**Question**: Why did the tiger feel angry when the mother mentioned a tiger?
 
-- **Answer Key**: 'Incessant' means Never stopping; continuous.
+- **Answer Key**: He felt angry because even the mention of a fierce tiger failed to terrify the baby or stop its crying.
 
 ---
 
 ### Question 7
 - **Question ID**: BK05_CH03_SA_007
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Define the word 'Bosom' as used in Chapter 03.
+**Question**: What did the tiger decide to do to prove his ferocity to the child?
 
-- **Answer Key**: 'Bosom' means Chest or heart area.
+- **Answer Key**: He decided to roar loudly to terrify the child into silence.
 
 ---
 
 ### Question 8
 - **Question ID**: BK05_CH03_SA_008
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Define the word 'Persimmon' as used in Chapter 03.
+**Question**: What word spoken by the mother caused the baby to fall completely silent?
 
-- **Answer Key**: 'Persimmon' means A sweet orange-red edible fruit.
+- **Answer Key**: The mother mentioned 'persimmon' (a fruit), which instantly made the baby stop crying.
 
 ---
 
 ### Question 9
 - **Question ID**: BK05_CH03_SA_009
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Define the word 'Thatched' as used in Chapter 03.
+**Question**: What is a persimmon in reality?
 
-- **Answer Key**: 'Thatched' means Made of straw or dried plant stalks.
+- **Answer Key**: A persimmon is a sweet, edible, orange-red fruit.
 
 ---
 
 ### Question 10
 - **Question ID**: BK05_CH03_SA_010
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'A tiger was roaming around the outskirts of a forest near a solitary hut'
+**Question**: What did the foolish tiger assume a 'persimmon' was?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: The tiger assumed that a 'persimmon' was a terrifying, powerful animal even stronger and fiercer than a tiger.
 
 ---
 
 ### Question 11
 - **Question ID**: BK05_CH03_SA_011
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The tiger heard the incessant wailing of a baby coming from inside the hut'
+**Question**: Who was hiding on the slanting thatched roof of the hut and why?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: A thief was hiding on the thatched roof, waiting for an opportunity to break into the hut and steal.
 
 ---
 
 ### Question 12
 - **Question ID**: BK05_CH03_SA_012
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The tiger was not hungry but became curious about why the baby was crying'
+**Question**: How did the thief end up on the tiger's back?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: The thief lost his balance on the slanting thatched roof and fell directly onto the tiger's back below.
 
 ---
 
 ### Question 13
 - **Question ID**: BK05_CH03_SA_013
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The mother tried to stop the baby by warning about a hungry fox, but the baby kept crying'
+**Question**: What did the tiger think when the thief fell on his back in the dark?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: The tiger panicked, believing that the terrifying 'persimmon' monster had attacked him.
 
 ---
 
 ### Question 14
 - **Question ID**: BK05_CH03_SA_014
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The mother then warned about a hungry bear, but the baby still did not stop crying'
+**Question**: How did the tiger react when he thought the persimmon attacked him?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: He jumped in fright and ran frantically for his life back into the forest.
 
 ---
 
 ### Question 15
 - **Question ID**: BK05_CH03_SA_015
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The mother then warned about a hungry tiger, but the baby remained un-terrified'
+**Question**: How did the thief escape from the tiger?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: As the tiger ran wildly, the thief managed to slip off its back and escape unharmed.
 
 ---
 
 ### Question 16
 - **Question ID**: BK05_CH03_SA_016
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The tiger felt angry and surprised that the child was not afraid of a tiger'
+**Question**: Where did the tiger go after the thief fell off his back?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: The terrified tiger fled deep back into the forest.
 
 ---
 
 ### Question 17
 - **Question ID**: BK05_CH03_SA_017
-- **Difficulty**: Medium
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely silent'
+**Question**: What is the moral of the story 'The Tiger and the Persimmon'?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: The moral of the story is: 'We fear the unknown.'
 
 ---
 
 ### Question 18
 - **Question ID**: BK05_CH03_SA_018
-- **Difficulty**: Hard
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave child'
+**Question**: What does the word 'outskirt' mean?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: 'Outskirt' means the outer boundary or furthest border of a town or forest.
 
 ---
 
 ### Question 19
 - **Question ID**: BK05_CH03_SA_019
-- **Difficulty**: Hard
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'A thief was hiding on the slanting thatched roof of the hut waiting to steal'
+**Question**: What does the word 'solitary' mean?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: 'Solitary' means isolated, alone, or single.
 
 ---
 
 ### Question 20
 - **Question ID**: BK05_CH03_SA_020
-- **Difficulty**: Hard
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The thief lost his balance and fell directly onto the tiger's back in the dark'
+**Question**: What does the word 'incessant' mean?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: 'Incessant' means continuous and never stopping.
 
 ---
 
 ### Question 21
 - **Question ID**: BK05_CH03_SA_021
-- **Difficulty**: Hard
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his life'
+**Question**: What does the word 'bosom' mean?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: 'Bosom' refers to a person's chest or heart area.
 
 ---
 
 ### Question 22
 - **Question ID**: BK05_CH03_SA_022
-- **Difficulty**: Hard
+- **Type**: Short Answer
+- **Difficulty**: Easy
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Explain why the following event occurred: 'The thief managed to slip off, and the terrified tiger escaped deep into the forest'
+**Question**: What does the word 'thatched' mean?
 
-- **Answer Key**: This occurred as a direct result of the characters' decisions and plot progression in 'The Tiger and the Persimmon'.
+- **Answer Key**: 'Thatched' describes a roof covered with dry straw, reeds, or plant stalks.
 
 ---
 
 ### Question 23
 - **Question ID**: BK05_CH03_SA_023
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Describe the significance of 'A thief was hiding on the slanting thatched roof of the hut waiting to steal' in Chapter 03.
+**Question**: Why did the tiger peep through the window?
 
-- **Answer Key**: 'A thief was hiding on the slanting thatched roof of the hut waiting to steal' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: He wanted to look inside to see who was crying so loudly.
 
 ---
 
 ### Question 24
 - **Question ID**: BK05_CH03_SA_024
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The thief lost his balance and fell directly onto the tiger's back in the dark' in Chapter 03.
+**Question**: What country does this folktale originate from?
 
-- **Answer Key**: 'The thief lost his balance and fell directly onto the tiger's back in the dark' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: This folktale originates from Korea (it is a Korean folktale).
 
 ---
 
 ### Question 25
 - **Question ID**: BK05_CH03_SA_025
+- **Type**: Short Answer
 - **Difficulty**: Easy
+- **Bloom Level**: Remembering
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his life' in Chapter 03.
+**Question**: What title is given to Chapter 03?
 
-- **Answer Key**: 'The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his life' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The title of Chapter 03 is 'The Tiger and the Persimmon'.
 
 ---
 
 ### Question 26
 - **Question ID**: BK05_CH03_SA_026
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The thief managed to slip off, and the terrified tiger escaped deep into the forest' in Chapter 03.
+**Question**: Explain why the baby actually stopped crying when the mother said 'persimmon'.
 
-- **Answer Key**: 'The thief managed to slip off, and the terrified tiger escaped deep into the forest' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The baby stopped crying because it recognized the name of a delicious, sweet fruit it liked to eat, satisfying its mood, not because it was afraid.
 
 ---
 
 ### Question 27
 - **Question ID**: BK05_CH03_SA_027
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'A tiger was roaming around the outskirts of a forest near a solitary hut' in Chapter 03.
+**Question**: Analyze how the tiger's pride led to his foolish conclusion.
 
-- **Answer Key**: 'A tiger was roaming around the outskirts of a forest near a solitary hut' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The tiger expected everyone to fear him. When the baby didn't fear a tiger but quieted at 'persimmon', his ego made him conclude persimmon must be a superior beast.
 
 ---
 
 ### Question 28
 - **Question ID**: BK05_CH03_SA_028
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger heard the incessant wailing of a baby coming from inside the hut' in Chapter 03.
+**Question**: How did the physical condition of the roof contribute to the climax?
 
-- **Answer Key**: 'The tiger heard the incessant wailing of a baby coming from inside the hut' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The roof was thatched and slanting, making it slippery and unstable. This caused the hiding thief to lose his balance and fall on the tiger.
 
 ---
 
 ### Question 29
 - **Question ID**: BK05_CH03_SA_029
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger was not hungry but became curious about why the baby was crying' in Chapter 03.
+**Question**: Explain the dramatic irony present in Chapter 03.
 
-- **Answer Key**: 'The tiger was not hungry but became curious about why the baby was crying' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The reader knows that a persimmon is a sweet fruit and the rider is a human thief, while the tiger foolishly believes he is being attacked by a monster.
 
 ---
 
 ### Question 30
 - **Question ID**: BK05_CH03_SA_030
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother tried to stop the baby by warning about a hungry fox, but the baby kept crying' in Chapter 03.
+**Question**: Why did the tiger run away instead of fighting the creature on his back?
 
-- **Answer Key**: 'The mother tried to stop the baby by warning about a hungry fox, but the baby kept crying' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: He was blinded by panic. Believing the legendary 'persimmon' monster had pounced on him, terror overruled his natural fighting instincts.
 
 ---
 
 ### Question 31
 - **Question ID**: BK05_CH03_SA_031
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother then warned about a hungry bear, but the baby still did not stop crying' in Chapter 03.
+**Question**: How does the story demonstrate that curiosity can lead to unexpected consequences?
 
-- **Answer Key**: 'The mother then warned about a hungry bear, but the baby still did not stop crying' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The tiger's idle curiosity about a baby's cry brought him to the window, leading to a hilarious sequence of misunderstandings and terror.
 
 ---
 
 ### Question 32
 - **Question ID**: BK05_CH03_SA_032
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Comparing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother then warned about a hungry tiger, but the baby remained un-terrified' in Chapter 03.
+**Question**: Contrast the real nature of a persimmon with the tiger's imaginary perception of it.
 
-- **Answer Key**: 'The mother then warned about a hungry tiger, but the baby remained un-terrified' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Real nature: A small, soft, sweet, harmless fruit. Tiger's perception: A terrifying, mighty, aggressive monster stronger than a tiger.
 
 ---
 
 ### Question 33
 - **Question ID**: BK05_CH03_SA_033
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger felt angry and surprised that the child was not afraid of a tiger' in Chapter 03.
+**Question**: Why did the mother use animal threats to quiet her baby?
 
-- **Answer Key**: 'The tiger felt angry and surprised that the child was not afraid of a tiger' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: In traditional rural folklore, parents often used threats of wild animals to instill quick obedience in crying children.
 
 ---
 
 ### Question 34
 - **Question ID**: BK05_CH03_SA_034
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely silent' in Chapter 03.
+**Question**: How does the thief's accidental fall resolve the suspense of the story?
 
-- **Answer Key**: 'The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely silent' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The fall triggers the tiger's wild flight, ensuring the thief escapes, the tiger leaves the village forever, and the family inside remains safe.
 
 ---
 
 ### Question 35
 - **Question ID**: BK05_CH03_SA_035
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave child' in Chapter 03.
+**Question**: What lesson does the story teach about unverified fear?
 
-- **Answer Key**: 'The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave child' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: It teaches that fearing things we do not understand causes irrational panic. We should seek true facts before jumping to scary conclusions.
 
 ---
 
 ### Question 36
 - **Question ID**: BK05_CH03_SA_036
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Describe the significance of 'A thief was hiding on the slanting thatched roof of the hut waiting to steal' in Chapter 03.
+**Question**: Why didn't the thief try to rob the hut after falling off the tiger?
 
-- **Answer Key**: 'A thief was hiding on the slanting thatched roof of the hut waiting to steal' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: He was far too shaken and terrified after unexpectedly riding a wild tiger through the night to care about stealing.
 
 ---
 
 ### Question 37
 - **Question ID**: BK05_CH03_SA_037
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The thief lost his balance and fell directly onto the tiger's back in the dark' in Chapter 03.
+**Question**: How does humor play a role in delivering the moral of Chapter 03?
 
-- **Answer Key**: 'The thief lost his balance and fell directly onto the tiger's back in the dark' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The absurd sight of a fierce tiger terrified of a soft fruit and running with a thief on his back makes readers laugh while grasping the lesson.
 
 ---
 
 ### Question 38
 - **Question ID**: BK05_CH03_SA_038
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his life' in Chapter 03.
+**Question**: What makes the tiger a comical character in this folktale?
 
-- **Answer Key**: 'The tiger panicked, thinking the terrifying persimmon had attacked him, and ran for his life' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: His gullibility, inflated ego, and dramatic terror over simple words transform a dangerous apex predator into a funny, foolish character.
 
 ---
 
 ### Question 39
 - **Question ID**: BK05_CH03_SA_039
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Understanding
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The thief managed to slip off, and the terrified tiger escaped deep into the forest' in Chapter 03.
+**Question**: Summarize Chapter 03 in four sentences.
 
-- **Answer Key**: 'The thief managed to slip off, and the terrified tiger escaped deep into the forest' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: A curious tiger peeping into a hut heard a mother quiet her crying baby by offering a persimmon fruit. Misunderstanding, the tiger believed a persimmon was a ferocious monster stronger than a tiger. When a hiding thief fell from the roof onto his back, the tiger panicked thinking the persimmon had struck. Terrified, the tiger ran blindly back into the forest, leaving everyone safe.
 
 ---
 
 ### Question 40
 - **Question ID**: BK05_CH03_SA_040
+- **Type**: Short Answer
 - **Difficulty**: Medium
+- **Bloom Level**: Applying
 - **Marks**: 2
 
-**Question**: Describe the significance of 'A tiger was roaming around the outskirts of a forest near a solitary hut' in Chapter 03.
+**Question**: What advice would you give to someone who panics over unfamiliar words or rumors?
 
-- **Answer Key**: 'A tiger was roaming around the outskirts of a forest near a solitary hut' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Take time to ask questions, research facts, and verify the true meaning before allowing imagination to create unnecessary fear.
 
 ---
 
 ### Question 41
 - **Question ID**: BK05_CH03_SA_041
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger heard the incessant wailing of a baby coming from inside the hut' in Chapter 03.
+**Question**: Critique the tiger's decision-making process using logical reasoning.
 
-- **Answer Key**: 'The tiger heard the incessant wailing of a baby coming from inside the hut' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The tiger committed a fallacy of false cause: assuming that because the baby quieted at 'persimmon', the word MUST represent a frightening creature, ignoring alternative reasons.
 
 ---
 
 ### Question 42
 - **Question ID**: BK05_CH03_SA_042
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger was not hungry but became curious about why the baby was crying' in Chapter 03.
+**Question**: Deconstruct how miscommunication drives the narrative in Chapter 03.
 
-- **Answer Key**: 'The tiger was not hungry but became curious about why the baby was crying' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Miscommunication occurs on two levels: 1) Mother-baby dialogue misinterpreted by tiger. 2) Thief's accidental fall misinterpreted as monster attack.
 
 ---
 
 ### Question 43
 - **Question ID**: BK05_CH03_SA_043
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother tried to stop the baby by warning about a hungry fox, but the baby kept crying' in Chapter 03.
+**Question**: Evaluate the psychological insight behind 'We fear the unknown'.
 
-- **Answer Key**: 'The mother tried to stop the baby by warning about a hungry fox, but the baby kept crying' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Human and animal minds naturally fear what they cannot define. In the absence of knowledge, imagination fills the void with exaggerated dangers.
 
 ---
 
 ### Question 44
 - **Question ID**: BK05_CH03_SA_044
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Comparing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother then warned about a hungry bear, but the baby still did not stop crying' in Chapter 03.
+**Question**: Compare the tiger's character in this folktale with traditional fierce tigers in literature.
 
-- **Answer Key**: 'The mother then warned about a hungry bear, but the baby still did not stop crying' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Traditional tigers are portrayed as deadly, cunning predators. In this Korean folktale, the tiger is subverted into a gullible, comical figure defeated by his own imagination.
 
 ---
 
 ### Question 45
 - **Question ID**: BK05_CH03_SA_045
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Creating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother then warned about a hungry tiger, but the baby remained un-terrified' in Chapter 03.
+**Question**: Formulate a creative scene where the tiger learns the truth about persimmons later.
 
-- **Answer Key**: 'The mother then warned about a hungry tiger, but the baby remained un-terrified' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: 'Months later, the tiger saw a monkey eating an orange fruit. 'Beware! The persimmon monster!' yelled the tiger. The monkey laughed and threw him a sweet slice. Tasting it, the tiger realized he had fled from a harmless fruit!'
 
 ---
 
 ### Question 46
 - **Question ID**: BK05_CH03_SA_046
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The tiger felt angry and surprised that the child was not afraid of a tiger' in Chapter 03.
+**Question**: Assess the pedagogical value of teaching Korean folktales in Class 5 English.
 
-- **Answer Key**: 'The tiger felt angry and surprised that the child was not afraid of a tiger' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Exposes students to world folklore, enhances cultural appreciation, develops dramatic irony comprehension, and teaches universal moral reasoning.
 
 ---
 
 ### Question 47
 - **Question ID**: BK05_CH03_SA_047
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Analyzing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely silent' in Chapter 03.
+**Question**: Analyze how coincidence and timing are weaponized by the storyteller for comedic effect.
 
-- **Answer Key**: 'The mother finally mentioned a 'persimmon' (a fruit), and the baby fell completely silent' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: The storyteller aligns the exact moment of the tiger's inner fear with the thief's accidental fall, creating a flawless comedic climax.
 
 ---
 
 ### Question 48
 - **Question ID**: BK05_CH03_SA_048
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Synthesizing
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave child' in Chapter 03.
+**Question**: Synthesize the core themes of Chapters 01, 02, and 03 of Book 5.
 
-- **Answer Key**: 'The foolish tiger believed a persimmon was a ferocious monster capable of terrifying the brave child' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Ch 01: Compassion overcomes isolation. Ch 02: Authenticity avoids self-harm. Ch 03: Fact-checking overcomes irrational fear. Together: Foundation for emotional wisdom.
 
 ---
 
 ### Question 49
 - **Question ID**: BK05_CH03_SA_049
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Evaluating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'A thief was hiding on the slanting thatched roof of the hut waiting to steal' in Chapter 03.
+**Question**: Critique the mother's parenting strategy of using fear threats.
 
-- **Answer Key**: 'A thief was hiding on the slanting thatched roof of the hut waiting to steal' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: Using fear threats works temporarily but creates unnecessary anxiety; offering real comfort or sweet food (persimmon) proved far more effective.
 
 ---
 
 ### Question 50
 - **Question ID**: BK05_CH03_SA_050
+- **Type**: Short Answer
 - **Difficulty**: Hard
+- **Bloom Level**: Creating
 - **Marks**: 2
 
-**Question**: Describe the significance of 'The thief lost his balance and fell directly onto the tiger's back in the dark' in Chapter 03.
+**Question**: Formulate a 4-line summary stanza capturing Chapter 03.
 
-- **Answer Key**: 'The thief lost his balance and fell directly onto the tiger's back in the dark' is significant because it highlights character traits and leads to the resolution.
+- **Answer Key**: 'A tiger feared a fruit named persimmon,
+Thinking it scary beyond all vision;
+A thief fell down and gave him a fright,
+And sent the foolish beast into wild flight!'
 
 ---
 
