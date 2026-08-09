@@ -26,22 +26,30 @@ except ImportError:
     print("WARNING: winrt not available. OCR will be skipped.")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WORKSPACE_ROOT = os.path.dirname(os.path.dirname(BASE_DIR))
 PDF_PATH = os.path.join(
-    os.path.dirname(BASE_DIR),
+    WORKSPACE_ROOT,
     "COMPREHENSION BOOK",
     "COMPREHENSION BOOK\u20143.pdf"
 )
 OUTPUT_DIR = os.path.join(BASE_DIR, "chapters")
 
-# ===================================================================
-# CHAPTER_MAP — Update this after first OCR run to map pages to chapters.
-# Format: {"num": "01", "title": "Chapter Title", "pages": (start, end)}
-# ===================================================================
 CHAPTER_MAP = [
-    # TODO: Populate after reviewing the book PDF (page numbers & chapter titles)
-    # Example:
-    # {"num": "01", "title": "First Chapter Title", "pages": (5, 9)},
-    # {"num": "02", "title": "Second Chapter Title", "pages": (10, 14)},
+    {"num": "01", "title": "The Foolish Pandit", "pages": (5, 8)},
+    {"num": "02", "title": "The Jackal and the Dhol", "pages": (9, 12)},
+    {"num": "03", "title": "Two Cats and the Monkey", "pages": (13, 16)},
+    {"num": "04", "title": "Fountain Pen", "pages": (17, 19)},
+    {"num": "05", "title": "Invention of Steam Engine", "pages": (20, 23)},
+    {"num": "06", "title": "Flying Sikh - Milkha Singh", "pages": (24, 27)},
+    {"num": "07", "title": "Ustad Zakir Hussain: The Tabla Maestro", "pages": (28, 31)},
+    {"num": "08", "title": "Chandrashekhar Azad", "pages": (32, 35)},
+    {"num": "09", "title": "Harvest Festival of India", "pages": (36, 39)},
+    {"num": "10", "title": "The Indian Deserts", "pages": (40, 43)},
+    {"num": "11", "title": "The Brahmaputra River: A Lifeline of South Asia", "pages": (44, 47)},
+    {"num": "12", "title": "The Magic of Rain", "pages": (48, 51)},
+    {"num": "13", "title": "The Brave Little Kite", "pages": (52, 55)},
+    {"num": "14", "title": "The Talking Tree", "pages": (56, 59)},
+    {"num": "15", "title": "Composition Modules", "pages": (60, 68)},
 ]
 
 async def ocr_page(engine, page, dpi=220):

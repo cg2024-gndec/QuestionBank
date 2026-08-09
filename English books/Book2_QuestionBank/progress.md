@@ -9,10 +9,10 @@
 
 | Metric | Target | Current | % |
 |--------|-------:|--------:|--:|
-| Chapters Completed | 15 | 3 | 20% |
-| Questions Generated | 4,500 | 900 | 20% |
-| Chapter PDFs | 15 | 3 | 20% |
-| Master PDF | 1 | 0 | 0% |
+| Chapters Completed | 15 | 15 | 100.0% |
+| Questions Generated | 4,500 | 4,500 | 100.0% |
+| Chapter PDFs | 15 | 15 | 100.0% |
+| Master PDF | 1 | 1 | 100.0% |
 
 ---
 
@@ -23,18 +23,18 @@
 | 01 | The Rats Who Ate the Iron Balance | 300 / 300 | ✅ | ✅ Complete |
 | 02 | Four Brahmins | 300 / 300 | ✅ | ✅ Complete |
 | 03 | The Turtle and the Swans | 300 / 300 | ✅ | ✅ Complete |
-| 04 | The Lion and the Mouse | 0 / 300 | ❌ | ⏳ Pending |
-| 05 | The Ants and the Grasshopper | 0 / 300 | ❌ | ⏳ Pending |
-| 06 | Two Foolish Goats | 0 / 300 | ❌ | ⏳ Pending |
-| 07 | The Fox and the Grapes | 0 / 300 | ❌ | ⏳ Pending |
-| 08 | The Boy Who Cried Wolf | 0 / 300 | ❌ | ⏳ Pending |
-| 09 | The Tortoise and the Hare | 0 / 300 | ❌ | ⏳ Pending |
-| 10 | The Wind and the Sun | 0 / 300 | ❌ | ⏳ Pending |
-| 11 | The Goose with the Golden Eggs | 0 / 300 | ❌ | ⏳ Pending |
-| 12 | The Honest Woodcutter | 0 / 300 | ❌ | ⏳ Pending |
-| 13 | The Milkmaid and Her Pail | 0 / 300 | ❌ | ⏳ Pending |
-| 14 | The Town Child & Country Child | 0 / 300 | ❌ | ⏳ Pending |
-| 15 | All Things Bright and Beautiful | 0 / 300 | ❌ | ⏳ Pending |
+| 04 | The Wannabe Chocolate | 300 / 300 | ✅ | ✅ Complete |
+| 05 | Invention of Potato Chips | 300 / 300 | ✅ | ✅ Complete |
+| 06 | My Favourite Cartoon | 300 / 300 | ✅ | ✅ Complete |
+| 07 | Nightingale of India | 300 / 300 | ✅ | ✅ Complete |
+| 08 | Diwali | 300 / 300 | ✅ | ✅ Complete |
+| 09 | The Himalayas | 300 / 300 | ✅ | ✅ Complete |
+| 10 | The Banyan Tree | 300 / 300 | ✅ | ✅ Complete |
+| 11 | A Little Bird I Am | 300 / 300 | ✅ | ✅ Complete |
+| 12 | The Cat | 300 / 300 | ✅ | ✅ Complete |
+| 13 | Habits of the Hippopotamus | 300 / 300 | ✅ | ✅ Complete |
+| 14 | Family's Day Out | 300 / 300 | ✅ | ✅ Complete |
+| 15 | Fun in the Rain | 300 / 300 | ✅ | ✅ Complete |
 
 ---
 
@@ -46,3 +46,16 @@
 | 2026-08-09 | Refined & compiled Chapter 01 (*The Rats Who Ate the Iron Balance*) — 300 Qs | ✅ |
 | 2026-08-09 | Refined & compiled Chapter 02 (*Four Brahmins*) — 300 Qs | ✅ |
 | 2026-08-09 | Refined & compiled Chapter 03 (*The Turtle and the Swans*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 04 (*The Wannabe Chocolate*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 05 (*Invention of Potato Chips*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 06 (*My Favourite Cartoon*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 07 (*Nightingale of India*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 08 (*Diwali*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 09 (*The Himalayas*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 10 (*The Banyan Tree*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 11 (*A Little Bird I Am*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 12 (*The Cat*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 13 (*Habits of the Hippopotamus*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 14 (*Family's Day Out*) — 300 Qs | ✅ |
+| 2026-08-09 | Refined & compiled Chapter 15 (*Fun in the Rain*) — 300 Qs | ✅ |
+| 2026-08-09 | Compiled Consolidated Master Book PDF (`Book2_Master_Question_Bank.pdf`) — **Book 2 100% Complete** | ✅ |

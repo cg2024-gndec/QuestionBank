@@ -9,11 +9,11 @@
 
 | Metric | Target | Current Completed | Completion % |
 |--------|-------:|------------------:|-------------:|
-| **Books Fully Completed** | 8 | **2** | 25.0% |
-| **Completed Chapters** | 120 | **30** | 25.0% |
-| **Total Questions Generated** | 36,000 | **9,000** | 25.0% |
-| **Compiled Chapter PDFs** | 120 | **30** | 25.0% |
-| **Consolidated Master Book PDFs** | 8 | **2** | 25.0% |
+| **Books Fully Completed** | 8 | **3** | 37.5% |
+| **Completed Chapters** | 120 | **46** | 38.3% |
+| **Total Questions Generated** | 36,000 | **13,800** | 38.3% |
+| **Compiled Chapter PDFs** | 120 | **46** | 38.3% |
+| **Consolidated Master Book PDFs** | 8 | **3** | 37.5% |
 
 ---
 
@@ -22,8 +22,8 @@
 | Book Repository | Grade | Target Qs | Current Qs | Chapters Completed | Master PDF Compiled | Status |
 |-----------------|-------|----------:|-----------:|:------------------:|:-------------------:|--------|
 | 📗 [Book 1](file:///s:/Question%20Bank%20making/English%20books/Book1_QuestionBank) | **Class I** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book1_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
-| 📘 [Book 2](file:///s:/Question%20Bank%20making/English%20books/Book2_QuestionBank) | Class II | 4,500 | 0 | 0 / 15 | ❌ | 🔄 Restructured — Ready for Generation |
-| 📘 [Book 3](file:///s:/Question%20Bank%20making/English%20books/Book3_QuestionBank) | Class III | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
+| 📗 [Book 2](file:///s:/Question%20Bank%20making/English%20books/Book2_QuestionBank) | **Class II** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book2_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
+| 📘 [Book 3](file:///s:/Question%20Bank%20making/English%20books/Book3_QuestionBank) | Class III | 4,500 | 300 | 1 / 15 | ❌ | 🔄 In Progress (Ch 01 Complete) |
 | 📗 [Book 4](file:///s:/Question%20Bank%20making/English%20books/Book4_QuestionBank) | **Class IV** | **4,500** | **4,500** | **15 / 15** | **✅ Yes (`Book4_Master_Question_Bank.pdf`)** | **✅ 100% Complete & Master PDF Compiled** |
 | 📘 [Book 5](file:///s:/Question%20Bank%20making/English%20books/Book5_QuestionBank) | Class V | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
 | 📘 [Book 6](file:///s:/Question%20Bank%20making/English%20books/Book6_QuestionBank) | Class VI | 4,500 | 0 | 0 / 15 | ❌ | 🆕 Scaffold Ready |
@@ -40,3 +40,5 @@
 | 2026-08-09 | Book 1 | Generated 4,500 questions across 15 chapters (300 Qs/chapter) in 6 Class 1 categories: `mcqs.md`, `fill_in_the_blanks.md`, `fill_in_blanks_story.md`, `true_false.md`, `short_answer.md`, `long_answer.md`. | ✅ |
 | 2026-08-09 | Book 1 | Compiled 15 individual chapter PDFs + Consolidated Master PDF (`Book1_Master_Question_Bank.pdf`). | ✅ |
 | 2026-08-09 | Book 4 | Completed 15 chapters (4,500 Qs), compiled 15 individual PDFs + Master PDF (`Book4_Master_Question_Bank.pdf`). | ✅ |
+| 2026-08-09 | Book 2 | Completed all 15 chapters (4,500 Qs), compiled 15 individual chapter PDFs + Consolidated Master PDF (`Book2_Master_Question_Bank.pdf`). | ✅ |
+| 2026-08-09 | Book 3 | Ran OCR on `COMPREHENSION BOOK—3.pdf` (68 pages) & generated 300 questions for Chapter 01 (*The Foolish Pandit*) + Compiled `Chapter_01_Question_Bank.pdf`. | ✅ |
