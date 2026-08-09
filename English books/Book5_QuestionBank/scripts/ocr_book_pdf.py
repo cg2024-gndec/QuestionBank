@@ -26,10 +26,11 @@ except ImportError:
     print("WARNING: winrt not available. OCR will be skipped.")
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WORKSPACE_ROOT = os.path.dirname(os.path.dirname(BASE_DIR))
 PDF_PATH = os.path.join(
-    os.path.dirname(BASE_DIR),
+    WORKSPACE_ROOT,
     "COMPREHENSION BOOK",
-    "COMPREHENSION BOOK\u20145.pdf"
+    "COMPREHENSION BOOK—5.pdf"
 )
 OUTPUT_DIR = os.path.join(BASE_DIR, "chapters")
 
@@ -38,10 +39,21 @@ OUTPUT_DIR = os.path.join(BASE_DIR, "chapters")
 # Format: {"num": "01", "title": "Chapter Title", "pages": (start, end)}
 # ===================================================================
 CHAPTER_MAP = [
-    # TODO: Populate after reviewing the book PDF (page numbers & chapter titles)
-    # Example:
-    # {"num": "01", "title": "First Chapter Title", "pages": (5, 9)},
-    # {"num": "02", "title": "Second Chapter Title", "pages": (10, 14)},
+    {"num": "01", "title": "Sankalp and his Friend", "pages": (5, 8)},
+    {"num": "02", "title": "The Raven that Wanted to be an Eagle", "pages": (9, 12)},
+    {"num": "03", "title": "The Tiger and the Persimmon", "pages": (13, 17)},
+    {"num": "04", "title": "The Invention of Television", "pages": (18, 21)},
+    {"num": "05", "title": "The Invention of the Computer", "pages": (22, 25)},
+    {"num": "06", "title": "The Milkman of India: Dr. Verghese Kurien", "pages": (26, 28)},
+    {"num": "07", "title": "The Iron Man of India: Sardar Vallabhbhai Patel", "pages": (29, 31)},
+    {"num": "08", "title": "The Missile Man of India: Dr. A. P. J. Abdul Kalam", "pages": (32, 36)},
+    {"num": "09", "title": "Traditional Dresses from India", "pages": (37, 40)},
+    {"num": "10", "title": "The Narmada River", "pages": (41, 44)},
+    {"num": "11", "title": "Island Groups of India", "pages": (45, 47)},
+    {"num": "12", "title": "The Magic of Books", "pages": (48, 50)},
+    {"num": "13", "title": "My Dream Adventure", "pages": (51, 53)},
+    {"num": "14", "title": "The Season's Song", "pages": (54, 57)},
+    {"num": "15", "title": "Composition Modules", "pages": (58, 72)},
 ]
 
 async def ocr_page(engine, page, dpi=220):

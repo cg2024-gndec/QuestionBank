@@ -10,23 +10,35 @@
 | Subject | English (Language & Literature) |
 | Class | V |
 | Book | Comprehension Book 5 |
-| Board | ICSE (CISCE Guidelines) |
-| Question Bank Version | 1.0 (ICSE Standard) |
-| Status | 🔴 Not Started |
-| Total Chapters | TBD (Run OCR to discover chapters) |
-| Completed Chapters | 0 |
-| Questions per Completed Chapter | 250 (25 per file across 10 files) |
-| Total Questions Generated | 0 |
+| Board | ICSE / CBSE Guidelines |
+| Question Bank Version | 2.0 (Universal 6-Category Standard) |
+| Status | 🔄 In Progress (Batch 1: Ch 01–03 Complete) |
+| Total Chapters | 15 |
+| Completed Chapters | **3** |
+| Questions per Chapter | 300 (50 per file across 6 categories) |
+| Target Total Questions | 4,500 |
 
 ---
 
 # Chapter Index
 
-> ⚠️ Run `ocr_book_pdf.py` first to extract chapter text, then update this table.
-
-| No. | Chapter Name | Type | Status | Questions | Category Files | PDF Compiled | Reviewed |
-|-----|--------------|------|--------|-----------|----------------|--------------|----------|
-| TBD | (Run OCR to populate) | — | ⏳ Pending | 0 | 10 Files | ❌ | ❌ |
+| No. | Chapter Name | Type | Status | Questions | PDF Compiled |
+|:---:|--------------|------|--------|:---------:|:------------:|
+| 01 | Sankalp and his Friend | Prose / Realistic Fiction | ✅ Complete | 300 / 300 | ✅ |
+| 02 | The Raven that Wanted to be an Eagle | Aesop Fable | ✅ Complete | 300 / 300 | ✅ |
+| 03 | The Tiger and the Persimmon | Korean Folktale | ✅ Complete | 300 / 300 | ✅ |
+| 04 | The Invention of Television | Invention / History | ⏳ Pending | 0 / 300 | ❌ |
+| 05 | The Invention of the Computer | Invention / History | ⏳ Pending | 0 / 300 | ❌ |
+| 06 | The Milkman of India: Dr. Verghese Kurien | Biography | ⏳ Pending | 0 / 300 | ❌ |
+| 07 | The Iron Man of India: Sardar Vallabhbhai Patel | Biography | ⏳ Pending | 0 / 300 | ❌ |
+| 08 | The Missile Man of India: Dr. A. P. J. Abdul Kalam | Freedom Fighter / Biography | ⏳ Pending | 0 / 300 | ❌ |
+| 09 | Traditional Dresses from India | Culture / Social Studies | ⏳ Pending | 0 / 300 | ❌ |
+| 10 | The Narmada River | Geography / Nature | ⏳ Pending | 0 / 300 | ❌ |
+| 11 | Island Groups of India | Geography / Nature | ⏳ Pending | 0 / 300 | ❌ |
+| 12 | The Magic of Books | Poem | ⏳ Pending | 0 / 300 | ❌ |
+| 13 | My Dream Adventure | Story / Prose | ⏳ Pending | 0 / 300 | ❌ |
+| 14 | The Season's Song | Poem | ⏳ Pending | 0 / 300 | ❌ |
+| 15 | Composition Modules | Composition | ⏳ Pending | 0 / 300 | ❌ |
 
 ---
 

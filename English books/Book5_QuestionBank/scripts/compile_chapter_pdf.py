@@ -27,18 +27,14 @@ def compile_pdf(chapter_num):
         print(f"Error: Chapter directory does not exist: {ch_dir}")
         sys.exit(1)
         
-    # Order of 10 Category Files
+    # Order of 6 Universal Category Files
     files_order = [
-        ("1. Multiple Choice Questions (MCQs)", "mcq.md"),
-        ("2. Fill in the Blanks (Fillups)", "fillups.md"),
-        ("3. True or False Statements", "true_false.md"),
-        ("4. Short Answer Questions", "short.md"),
-        ("5. Long Answer & HOTS Questions", "long.md"),
-        ("6. Vocabulary & Word Power", "vocabulary.md"),
-        ("7. Grammar & Language Skills", "grammar.md"),
-        ("8. Extract & Passage Based Questions", "extract_based.md"),
-        ("9. Case & Scenario Based Questions", "case_based.md"),
-        ("10. Picture & Visual Based Questions", "picture_based.md")
+        ("1. Multiple Choice Questions (MCQs)", "mcqs.md"),
+        ("2. Fill in the Blanks", "fill_in_the_blanks.md"),
+        ("3. True / False Statements", "true_false.md"),
+        ("4. Short Answer Questions", "short_answer.md"),
+        ("5. Long Answer & HOTS Questions", "long_answer.md"),
+        ("6. Extract Based Questions", "extract_based.md")
     ]
     
     styles = getSampleStyleSheet()
@@ -124,14 +120,14 @@ def compile_pdf(chapter_num):
         canvas.saveState()
         canvas.setFont("Helvetica-Bold", 8)
         canvas.setFillColor(colors.HexColor('#64748B'))
-        canvas.drawString(54, 750, f"CLASS IV ENGLISH QUESTION BANK — CHAPTER {chapter_num}")
+        canvas.drawString(54, 750, f"CLASS V ENGLISH QUESTION BANK — CHAPTER {chapter_num}")
         canvas.setStrokeColor(colors.HexColor('#E2E8F0'))
         canvas.setLineWidth(0.5)
         canvas.line(54, 742, 558, 742)
         
         canvas.line(54, 45, 558, 45)
         canvas.setFont("Helvetica", 8)
-        canvas.drawString(54, 32, "Confidential - Comprehensive 10-Category Question Bank")
+        canvas.drawString(54, 32, "Confidential - Comprehensive 6-Category Question Bank")
         canvas.drawRightString(558, 32, f"Page {doc_obj.page}")
         canvas.restoreState()
 
@@ -146,14 +142,14 @@ def compile_pdf(chapter_num):
 
     story = []
     story.append(Spacer(1, 10))
-    story.append(Paragraph("📚 CLASS IV ENGLISH QUESTION BANK", title_style))
-    story.append(Paragraph(f"CHAPTER {chapter_num} QUESTION BANK (250 QUESTIONS)", subtitle_style))
+    story.append(Paragraph("📚 CLASS V ENGLISH QUESTION BANK", title_style))
+    story.append(Paragraph(f"CHAPTER {chapter_num} QUESTION BANK (300 QUESTIONS)", subtitle_style))
     story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor('#2563EB'), spaceAfter=15))
 
     summary_data = [
-        [Paragraph("<b>Subject:</b> English", body_style), Paragraph("<b>Class:</b> IV", body_style)],
-        [Paragraph(f"<b>Chapter:</b> {chapter_num}", body_style), Paragraph("<b>Total Questions:</b> 250 (25 per category across 10 files)", body_style)],
-        [Paragraph("<b>Source:</b> Praxis Comprehension & Composition 4", body_style), Paragraph("<b>Board / Blueprint:</b> ICSE Class IV English Pattern", body_style)]
+        [Paragraph("<b>Subject:</b> English", body_style), Paragraph("<b>Class:</b> V", body_style)],
+        [Paragraph(f"<b>Chapter:</b> {chapter_num}", body_style), Paragraph("<b>Total Questions:</b> 300 (50 per category across 6 files)", body_style)],
+        [Paragraph("<b>Source:</b> Comprehension Book 5", body_style), Paragraph("<b>Board / Blueprint:</b> ICSE / CBSE Class V English Pattern", body_style)]
     ]
     t = Table(summary_data, colWidths=[250, 250])
     t.setStyle(TableStyle([

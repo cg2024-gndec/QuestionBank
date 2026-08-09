@@ -1,108 +1,81 @@
-# 🧠 Question Bank Intelligence & Taxonomy (brain.md) - ICSE Board Perspective
+# 🧠 Question Bank Intelligence & Taxonomy (brain.md) — Class V English
 
-> This document defines the intelligence, standards, taxonomy, metadata, and generation rules for the entire Class IV English Question Bank project aligned with **ICSE (CISCE)** curriculum guidelines.  
-> Every chapter, every category file, and every generated question must follow these rules without exception.
-
----
-
-# Project Objective
-
-Create a high-quality, ICSE-aligned, comprehensive Question Bank for Class IV English that:
-
-- Covers every concept, vocabulary word, character, event, poem stanza, and moral from every chapter.
-- Incorporates ICSE-style question types (**Reference to Context - RTC**, **Do as Directed Grammar Transformations**, **Case & Real-World Scenario Analysis**, **Picture & Visual Observation**, and **Guided Composition**).
-- Maintains high linguistic precision and age-appropriate sophistication for ICSE Class IV students (8–10 years).
-- Supports multiple cognitive difficulty levels based on Bloom's Taxonomy.
-- Enables automatic generation of unlimited, balanced, non-duplicative 60–80 mark ICSE sample papers.
+> **Role**: Professional Senior Primary English Teacher & Curriculum Developer  
+> **Target**: Class V English (*My Book of English COMPREHENSION & COMPOSITION 5*)  
+> **Standard**: Universal 6-Category Question Taxonomy | 300 Questions per Chapter | 4,500 Total Questions across 15 Chapters
 
 ---
 
-# Comprehensive ICSE Question Taxonomy
+# 1. Pedagogical Objective & Role
 
-Every chapter question bank contains questions across the following **10 Core Categories**:
+As an expert Class 5 English teacher and assessment specialist, the goal of `brain.md` is to define the pedagogical framework, taxonomy, difficulty distribution, metadata schema, and quality benchmarks for Book 5 (Class V English).
 
-| Category | File Name | ICSE Format & Purpose Description |
-|----------|-----------|----------------------------------|
-| **MCQ** | `mcq.md` | Multiple Choice Questions with 4 options (A, B, C, D) testing factual recall, vocabulary, and literary details. |
-| **Fill in the Blanks** | `fillups.md` | Single-blank sentence completion testing text accuracy, grammar terms, and key concepts. |
-| **True / False** | `true_false.md` | Statement validation with detailed justifications in answer keys. |
-| **Short Answer** | `short.md` | Concise 2-mark questions requiring 1–3 sentence ICSE-standard answers. |
-| **Long Answer & HOTS** | `long.md` | 5-mark extended responses, character comparisons, moral dilemmas, and theme analysis. |
-| **Vocabulary & Word Power** | `vocabulary.md` | Meanings, antonyms, synonyms, homophones, idioms, word formation (prefixes/suffixes), spelling corrections, and dictionary order. |
-| **Grammar & Language Skills** | `grammar.md` | ICSE "Do as Directed": Nouns (Common, Proper, Collective, Abstract), Pronouns, Adjectives (Degrees), Verbs & Tenses, Adverbs, Prepositions, Conjunctions, Articles, Direct/Indirect Speech, Sentence Transformation, Punctuation. |
-| **Extract / Passage Based (RTC)** | `extract_based.md` | **ICSE Reference to Context (RTC)**: Prose/Poem extracts followed by sub-questions (speaker, context, vocabulary, line meaning, character motive). |
-| **Case / Scenario Based** | `case_based.md` | Real-life situational analysis, moral choice evaluation, value-based decisions, and practical student scenarios. |
-| **Picture / Visual Based** | `picture_based.md` | Image observation, question framing (*"How many..."*), visual storytelling, object description, and scene analysis. |
+Every question generated must:
+- Reflect the cognitive and reading capabilities of Class 5 students (aged 10–11 years).
+- Test deep textual comprehension, vocabulary enrichment, grammatical accuracy, character analysis, and moral reasoning.
+- Follow the universal 6-category structure with 100% precision.
 
 ---
 
-# Difficulty Levels & Bloom's Mapping (ICSE Standard)
+# 2. Universal 6-Category Question Taxonomy
 
-Every chapter maintains a balanced cognitive difficulty distribution:
+Each chapter in Book 5 contains exactly **300 questions** distributed across the **6 Universal Categories** (50 questions per file):
 
-| Level | Percentage | Cognitive Level (Bloom's) | Target Question Types |
-|-------|:----------:|---------------------------|-----------------------|
-| **Easy** | **35%** | Remember, Understand | Direct MCQs, Fillups, Spelling, Antonyms, Simple True/False |
-| **Medium** | **40%** | Apply, Understand | Grammar transformations, Conjunctions, Degrees of comparison, Short Answers, RTC direct recall |
-| **Hard** | **15%** | Analyze, Evaluate | Character comparison, RTC contextual inference, Homophones, Vocabulary nuances |
-| **HOTS** | **10%** | Evaluate, Create | Case-based scenarios, Moral reasoning, Creative writing, Long Answers |
+| Category No. | Category Name | Markdown File | Qs / Ch | Marks / Q | Target Skills & Purpose |
+|:------------:|---------------|---------------|:-------:|:---------:|-------------------------|
+| **1** | Multiple Choice Questions | `mcqs.md` | 50 | 1 | Factual recall, multiple-choice options (A, B, C, D), vocabulary context, plot details. |
+| **2** | Fill in the Blanks | `fill_in_the_blanks.md` | 50 | 1 | Single-blank sentence completion, key term recall, grammar accuracy. |
+| **3** | True / False Statements | `true_false.md` | 50 | 1 | Statement verification with detailed explanations in answer keys. |
+| **4** | Short Answer Questions | `short_answer.md` | 50 | 2 | Concise 2–3 sentence responses testing direct comprehension and cause-effect. |
+| **5** | Long Answer & HOTS | `long_answer.md` | 50 | 5 | Detailed paragraph responses, character analysis, moral evaluation, creative writing. |
+| **6** | Extract Based Questions | `extract_based.md` | 50 | 3 per set | 10 passage extract sets with 5 sub-questions each testing speaker, context, line meaning, and inference. |
+| **Total** | | | **300** | | **300 Questions per Chapter (4,500 Total Qs)** |
 
 ---
 
-# Metadata Schema for Every Question
+# 3. Difficulty Distribution & Bloom's Taxonomy Mapping
 
-Every generated question MUST include the following metadata block:
+To ensure balanced assessment, every category file strictly enforces a **25 / 15 / 10** difficulty distribution:
+
+| Difficulty Level | Percentage | Count / Category | Count / Chapter | Cognitive Level (Bloom's Taxonomy) | Focus & Description |
+|------------------|:----------:|:----------------:|:---------------:|-----------------------------------|---------------------|
+| **Easy** | **50%** | **25 Qs** | **150 Qs** | Remembering, Understanding | Direct factual recall, simple definitions, basic True/False, straightforward MCQs. |
+| **Medium** | **30%** | **15 Qs** | **90 Qs** | Applying, Analyzing | Contextual vocabulary, cause-and-effect reasoning, short-answer explanations, character motives. |
+| **Hard / HOTS** | **20%** | **10 Qs** | **60 Qs** | Evaluating, Creating | Theme analysis, character comparisons, creative writing, complex extract inferences, critical evaluation. |
+
+---
+
+# 4. Mandatory Metadata Schema for Every Question
+
+Every question in every category file MUST include the following metadata block:
 
 ```markdown
 ### Question [N]
-- **Question ID**: CH[XX]-[TYPE]-[NNN]
-- **Type**: [MCQ / Fillups / True_False / Short / Long / Vocabulary / Grammar / Extract_Based / Case_Based / Picture_Based]
-- **Difficulty**: [Easy / Medium / Hard / HOTS]
-- **Bloom Level**: [Remember / Understand / Apply / Analyze / Evaluate / Create]
-- **Topic**: [Topic / Sub-concept]
-- **Marks**: [1 / 2 / 5]
-- **Question**: [Exact question text]
-- **Answer Key / Model Answer**: [Full answer with explanation]
+- **Question ID**: BK05_CH[XX]_[TYPE]_[NNN]
+- **Type**: [MCQ / Fill in the Blanks / True/False / Short Answer / Long Answer / Extract Based]
+- **Difficulty**: [Easy / Medium / Hard]
+- **Bloom Level**: [Remembering / Understanding / Applying / Analyzing / Evaluating / Creating]
+- **Topic**: [Specific Chapter Sub-concept / Character / Vocabulary / Theme]
+- **Marks**: [1 / 2 / 3 / 5]
+
+**Question**: [Exact question text]
+
+- **Answer Key**: [Detailed model answer and explanation]
 ```
 
-Question ID Prefixes:
-- `CHXX-MCQ-NNN`
-- `CHXX-FIL-NNN`
-- `CHXX-TF-NNN`
-- `CHXX-SA-NNN`
-- `CHXX-LA-NNN`
-- `CHXX-VOC-NNN`
-- `CHXX-GRA-NNN`
-- `CHXX-EXT-NNN` (Reference to Context / RTC)
-- `CHXX-CAS-NNN` (Case / Scenario Based)
-- `CHXX-PIC-NNN` (Picture / Visual Based)
+### Question ID Prefix Standard for Book 5:
+- `BK05_CHXX_MCQ_NNN` (Multiple Choice)
+- `BK05_CHXX_FIB_NNN` (Fill in the Blanks)
+- `BK05_CHXX_TF_NNN` (True / False)
+- `BK05_CHXX_SA_NNN` (Short Answer)
+- `BK05_CHXX_LA_NNN` (Long Answer)
+- `BK05_CHXX_EXT_NNN` (Extract Based)
 
 ---
 
-# Specific Generation Rules for ICSE Alignment
+# 5. Teacher Quality Standards & Guidelines
 
-## 1. Extract / Passage Based Questions (`extract_based.md`)
-- Provide a 4–6 sentence prose or poem extract (Reference to Context).
-- Include sub-questions testing:
-  1. *Who said this to whom? / Where is this taking place?* (Context & Speaker)
-  2. Direct factual recall from extract.
-  3. Contextual vocabulary meaning or antonym/synonym in context.
-  4. Character emotion / intent / motive.
-  5. Title / Theme / Moral inference.
-
-## 2. Grammar & Language Skills (`grammar.md`)
-- Strictly follow ICSE Class IV Grammar syllabus:
-  - **Nouns**: Proper, Common, Collective, Abstract
-  - **Adjectives**: Quality, Quantity, Number, Degrees of Comparison
-  - **Verbs & Tenses**: Simple Present, Simple Past, Present Continuous, Past Continuous
-  - **Adverbs**: Manner, Time, Place
-  - **Prepositions & Conjunctions**: Correct usage and sentence joining
-  - **Articles**: A, An, The
-  - **Punctuation & Direct/Indirect Speech**
-
-## 3. Case / Scenario Based Questions (`case_based.md`)
-- Present real-life student scenarios related to the chapter's core values (honesty, presence of mind, choosing good friends, perseverance).
-- Ask students to apply critical thinking and evaluate choices.
-
-## 4. Picture / Visual Based Questions (`picture_based.md`)
-- Include visual observation prompts, question framing, object descriptions, and scene sequencing.
+1. **Age-Appropriate Language**: Sentences must be grammatically flawless, clear, engaging, and suitable for Class 5 students.
+2. **Zero Duplication**: No question statement or concept may be repeated across different categories within the same chapter.
+3. **Comprehensive Coverage**: Questions must cover textbook prose, poetry stanzas, vocabulary lists, cloze passages, and exercise sections.
+4. **Complete Answer Keys**: Every question must be paired with an unambiguous, accurate, and complete answer key.
