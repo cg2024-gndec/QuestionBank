@@ -9,9 +9,9 @@
 
 | Metric | Target | Current | % |
 |--------|-------:|--------:|--:|
-| Chapters Completed | 15 | **13** | **86.7%** |
-| Questions Generated | 4,500 | **3,900** | **86.7%** |
-| Chapter PDFs | 15 | **13** | **86.7%** |
+| Chapters Completed | 15 | **14** | **93.3%** |
+| Questions Generated | 4,500 | **4,200** | **93.3%** |
+| Chapter PDFs | 15 | **14** | **93.3%** |
 | Master PDF | 1 | 0 | 0% |
 
 ---
@@ -33,7 +33,7 @@
 | 11 | Island Groups of India | 300 / 300 | ✅ | ✅ Complete |
 | 12 | The Magic of Books | 300 / 300 | ✅ | ✅ Complete |
 | 13 | My Dream Adventure | 300 / 300 | ✅ | ✅ Complete |
-| 14 | The Season's Song | 0 / 300 | ❌ | ⏳ Pending |
+| 14 | The Season's Song | 300 / 300 | ✅ | ✅ Complete |
 | 15 | Composition Modules | 0 / 300 | ❌ | ⏳ Pending |
 
 ---
@@ -54,3 +54,4 @@
 | 2026-08-09 | Created & executed `refine_chapter_11.py` individually for Chapter 11 — 300 Qs + PDF compiled (`Chapter_11_Question_Bank.pdf`) | ✅ |
 | 2026-08-09 | Created & executed `refine_chapter_12.py` individually for Chapter 12 — 300 Qs + PDF compiled (`Chapter_12_Question_Bank.pdf`) | ✅ |
 | 2026-08-09 | Created & executed `refine_chapter_13.py` individually for Chapter 13 — 300 Qs + PDF compiled (`Chapter_13_Question_Bank.pdf`) | ✅ |
+| 2026-08-09 | Created & executed `refine_chapter_14.py` individually for Chapter 14 — 300 Qs + PDF compiled (`Chapter_14_Question_Bank.pdf`) | ✅ |
